@@ -1,0 +1,1264 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Siglip2ImageProcessor",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Siglip2VisionConfig",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Siglip2VisionModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoProcessor",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoProcessor",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "get_cosine_schedule_with_warmup",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "OfflineVAPORPAR",
+        "importPath": "model_runtime",
+        "description": "model_runtime",
+        "isExtraImport": true,
+        "detail": "model_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Sampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "csv,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv.",
+        "description": "csv.",
+        "detail": "csv.",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "vapor_par.config",
+        "description": "vapor_par.config",
+        "isExtraImport": true,
+        "detail": "vapor_par.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "vapor_par.config",
+        "description": "vapor_par.config",
+        "isExtraImport": true,
+        "detail": "vapor_par.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "vapor_par.config",
+        "description": "vapor_par.config",
+        "isExtraImport": true,
+        "detail": "vapor_par.config",
+        "documentation": {}
+    },
+    {
+        "label": "make_dev_format_check",
+        "importPath": "vapor_par.inference",
+        "description": "vapor_par.inference",
+        "isExtraImport": true,
+        "detail": "vapor_par.inference",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference_from_template",
+        "importPath": "vapor_par.inference",
+        "description": "vapor_par.inference",
+        "isExtraImport": true,
+        "detail": "vapor_par.inference",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint_payload",
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "isExtraImport": true,
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_official_repo",
+        "importPath": "vapor_par.download_data",
+        "description": "vapor_par.download_data",
+        "isExtraImport": true,
+        "detail": "vapor_par.download_data",
+        "documentation": {}
+    },
+    {
+        "label": "run_training",
+        "importPath": "vapor_par.train",
+        "description": "vapor_par.train",
+        "isExtraImport": true,
+        "detail": "vapor_par.train",
+        "documentation": {}
+    },
+    {
+        "label": "OfflineVAPORCore",
+        "kind": 6,
+        "importPath": "submission_builder.submission_runtime.model_runtime",
+        "description": "submission_builder.submission_runtime.model_runtime",
+        "peekOfCode": "class OfflineVAPORCore(nn.Module):\n    \"\"\"Vision-only inference graph.\n    Text encoding is NOT performed on the challenge server. The language\n    prototypes learned/encoded during training are already stored in the bundle.\n    \"\"\"\n    def __init__(self, bundle):\n        super().__init__()\n        vision_cfg = Siglip2VisionConfig(**bundle[\"vision_config\"])\n        self.vision_model = Siglip2VisionModel(vision_cfg)\n        missing, unexpected = self.vision_model.load_state_dict(",
+        "detail": "submission_builder.submission_runtime.model_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "OfflineVAPORPAR",
+        "kind": 6,
+        "importPath": "submission_builder.submission_runtime.model_runtime",
+        "description": "submission_builder.submission_runtime.model_runtime",
+        "peekOfCode": "class OfflineVAPORPAR:\n    def __init__(self, bundle_path):\n        self.bundle_path = Path(bundle_path)\n        try:\n            self.bundle = torch.load(\n                self.bundle_path,\n                map_location=\"cpu\",\n                weights_only=False,\n            )\n        except TypeError:",
+        "detail": "submission_builder.submission_runtime.model_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "l2n",
+        "kind": 2,
+        "importPath": "submission_builder.submission_runtime.model_runtime",
+        "description": "submission_builder.submission_runtime.model_runtime",
+        "peekOfCode": "def l2n(x, dim=-1, eps=1e-6):\n    return x / x.norm(dim=dim, keepdim=True).clamp_min(eps)\nclass OfflineVAPORCore(nn.Module):\n    \"\"\"Vision-only inference graph.\n    Text encoding is NOT performed on the challenge server. The language\n    prototypes learned/encoded during training are already stored in the bundle.\n    \"\"\"\n    def __init__(self, bundle):\n        super().__init__()\n        vision_cfg = Siglip2VisionConfig(**bundle[\"vision_config\"])",
+        "detail": "submission_builder.submission_runtime.model_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "submission_builder.submission_runtime.model_runtime",
+        "description": "submission_builder.submission_runtime.model_runtime",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nVENDOR = ROOT / \"vendor\"\nif VENDOR.exists():\n    sys.path.insert(0, str(VENDOR))\n# Hard offline mode. The challenge explicitly provides no network.\nos.environ.setdefault(\"HF_HUB_OFFLINE\", \"1\")\nos.environ.setdefault(\"TRANSFORMERS_OFFLINE\", \"1\")\nos.environ.setdefault(\"HF_DATASETS_OFFLINE\", \"1\")\nos.environ.setdefault(\"TOKENIZERS_PARALLELISM\", \"false\")\nimport numpy as np",
+        "detail": "submission_builder.submission_runtime.model_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "VENDOR",
+        "kind": 5,
+        "importPath": "submission_builder.submission_runtime.model_runtime",
+        "description": "submission_builder.submission_runtime.model_runtime",
+        "peekOfCode": "VENDOR = ROOT / \"vendor\"\nif VENDOR.exists():\n    sys.path.insert(0, str(VENDOR))\n# Hard offline mode. The challenge explicitly provides no network.\nos.environ.setdefault(\"HF_HUB_OFFLINE\", \"1\")\nos.environ.setdefault(\"TRANSFORMERS_OFFLINE\", \"1\")\nos.environ.setdefault(\"HF_DATASETS_OFFLINE\", \"1\")\nos.environ.setdefault(\"TOKENIZERS_PARALLELISM\", \"false\")\nimport numpy as np\nimport torch",
+        "detail": "submission_builder.submission_runtime.model_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "def load_model() -> None:\n    \"\"\"Called once before inference. Load all offline weights here.\"\"\"\n    _ensure_model()\n    return None\ndef _validate_sample(sample: dict) -> None:\n    required = (\"image_path\", \"attribute_names\")\n    missing = [k for k in required if k not in sample]\n    if missing:\n        raise KeyError(f\"Submission sample is missing keys: {missing}\")\n    if len(sample[\"attribute_names\"]) != 40:",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "def predict_image(sample: dict) -> list[float]:\n    \"\"\"Return exactly 40 probabilities in sample['attribute_names'] order.\"\"\"\n    _validate_sample(sample)\n    model = _ensure_model()\n    rows = model.predict_samples([sample], micro_batch_size=1)\n    return rows[0]\ndef predict_batch(samples: list[dict]) -> list[list[float]]:\n    \"\"\"Return one row of 40 probabilities per sample, preserving sample order.\"\"\"\n    if not isinstance(samples, (list, tuple)):\n        raise TypeError(\"predict_batch expects a list of sample dictionaries.\")",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "def predict_batch(samples: list[dict]) -> list[list[float]]:\n    \"\"\"Return one row of 40 probabilities per sample, preserving sample order.\"\"\"\n    if not isinstance(samples, (list, tuple)):\n        raise TypeError(\"predict_batch expects a list of sample dictionaries.\")\n    if len(samples) == 0:\n        return []\n    for sample in samples:\n        _validate_sample(sample)\n    model = _ensure_model()\n    return model.predict_samples(",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nVENDOR = ROOT / \"vendor\"\nif VENDOR.exists():\n    sys.path.insert(0, str(VENDOR))\nfrom model_runtime import OfflineVAPORPAR\n# The ingestion program may batch up to this many samples per API call.\n# The model runtime itself uses a smaller GPU micro-batch to avoid OOM.\nBATCH_SIZE = 64\nMICRO_BATCH_SIZE = 16\n_MODEL = None",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "VENDOR",
+        "kind": 5,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "VENDOR = ROOT / \"vendor\"\nif VENDOR.exists():\n    sys.path.insert(0, str(VENDOR))\nfrom model_runtime import OfflineVAPORPAR\n# The ingestion program may batch up to this many samples per API call.\n# The model runtime itself uses a smaller GPU micro-batch to avoid OOM.\nBATCH_SIZE = 64\nMICRO_BATCH_SIZE = 16\n_MODEL = None\ndef _ensure_model() -> OfflineVAPORPAR:",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "BATCH_SIZE = 64\nMICRO_BATCH_SIZE = 16\n_MODEL = None\ndef _ensure_model() -> OfflineVAPORPAR:\n    global _MODEL\n    if _MODEL is None:\n        _MODEL = OfflineVAPORPAR(ROOT / \"weights\" / \"inference_bundle.pt\")\n    return _MODEL\ndef load_model() -> None:\n    \"\"\"Called once before inference. Load all offline weights here.\"\"\"",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "MICRO_BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "MICRO_BATCH_SIZE = 16\n_MODEL = None\ndef _ensure_model() -> OfflineVAPORPAR:\n    global _MODEL\n    if _MODEL is None:\n        _MODEL = OfflineVAPORPAR(ROOT / \"weights\" / \"inference_bundle.pt\")\n    return _MODEL\ndef load_model() -> None:\n    \"\"\"Called once before inference. Load all offline weights here.\"\"\"\n    _ensure_model()",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "_MODEL",
+        "kind": 5,
+        "importPath": "submission_builder.submission_runtime.run",
+        "description": "submission_builder.submission_runtime.run",
+        "peekOfCode": "_MODEL = None\ndef _ensure_model() -> OfflineVAPORPAR:\n    global _MODEL\n    if _MODEL is None:\n        _MODEL = OfflineVAPORPAR(ROOT / \"weights\" / \"inference_bundle.pt\")\n    return _MODEL\ndef load_model() -> None:\n    \"\"\"Called once before inference. Load all offline weights here.\"\"\"\n    _ensure_model()\n    return None",
+        "detail": "submission_builder.submission_runtime.run",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--repo-dir\", default=\"/content/PAR_UPAR\")\n    p.add_argument(\n        \"--checkpoint\",\n        default=(\n            \"/content/drive/MyDrive/PedestrianAttributeRecognition/\"\n            \"Checkpoints/best_calibrated.pt\"\n        ),\n    )",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:\n            chunk = f.read(1024 * 1024)\n            if not chunk:\n                break\n            h.update(chunk)\n    return h.hexdigest()\ndef locate_metadata_yaml(explicit_path, starter_dir):",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "locate_metadata_yaml",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def locate_metadata_yaml(explicit_path, starter_dir):\n    if explicit_path:\n        p = Path(explicit_path).expanduser().resolve()\n        if not p.exists():\n            raise FileNotFoundError(f\"metadata.yaml not found: {p}\")\n        return p\n    starter = Path(starter_dir)\n    candidates = []\n    if starter.exists():\n        for p in starter.rglob(\"metadata.yaml\"):",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "copy_metadata_unchanged",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def copy_metadata_unchanged(source, destination):\n    before = sha256(source)\n    shutil.copyfile(source, destination)\n    after = sha256(destination)\n    if before != after:\n        raise RuntimeError(\"metadata.yaml changed while copying.\")\n    print(\"metadata.yaml copied unchanged\")\n    print(\"metadata sha256:\", before)\ndef make_full_offline_bundle(\n    repo_dir,",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "make_full_offline_bundle",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def make_full_offline_bundle(\n    repo_dir,\n    checkpoint_path,\n    model_id,\n    num_heads,\n    out_path,\n):\n    sys.path.insert(0, str(repo_dir))\n    from transformers import AutoProcessor\n    from vapor_par.config import Config, ATTRIBUTE_NAMES",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "download_runtime_wheels",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def download_runtime_wheels(work_dir, transformers_version):\n    wheel_dir = work_dir / \"wheels\"\n    wheel_dir.mkdir(parents=True, exist_ok=True)\n    # Download for the challenge target, not for the current Colab Python.\n    cmd = [\n        sys.executable,\n        \"-m\",\n        \"pip\",\n        \"download\",\n        \"--dest\",",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "unpack_vendor",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def unpack_vendor(wheel_dir, vendor_dir):\n    vendor_dir.mkdir(parents=True, exist_ok=True)\n    # These are guaranteed by the challenge base image and should not be\n    # replaced by foreign ABI wheels from the builder machine.\n    skip_prefixes = (\n        \"numpy-\",\n        \"torch-\",\n        \"torchvision-\",\n        \"pillow-\",\n        \"nvidia_\",",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "copy_runtime_sources",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def copy_runtime_sources(submission_dir, runtime_src_dir):\n    for name in (\"run.py\", \"model_runtime.py\"):\n        shutil.copy2(\n            runtime_src_dir / name,\n            submission_dir / name,\n        )\ndef clean_tree(root):\n    for p in list(root.rglob(\"__pycache__\")):\n        shutil.rmtree(p, ignore_errors=True)\n    for p in list(root.rglob(\"*.pyc\")):",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "clean_tree",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def clean_tree(root):\n    for p in list(root.rglob(\"__pycache__\")):\n        shutil.rmtree(p, ignore_errors=True)\n    for p in list(root.rglob(\"*.pyc\")):\n        p.unlink(missing_ok=True)\n    for p in list(root.rglob(\".DS_Store\")):\n        p.unlink(missing_ok=True)\ndef create_zip(submission_dir, output_zip):\n    clean_tree(submission_dir)\n    output_zip.parent.mkdir(",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "create_zip",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def create_zip(submission_dir, output_zip):\n    clean_tree(submission_dir)\n    output_zip.parent.mkdir(\n        parents=True,\n        exist_ok=True,\n    )\n    output_zip.unlink(missing_ok=True)\n    with zipfile.ZipFile(\n        output_zip,\n        \"w\",",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "submission_builder.build_submission",
+        "description": "submission_builder.build_submission",
+        "peekOfCode": "def main():\n    args = parse_args()\n    repo_dir = Path(args.repo_dir).resolve()\n    checkpoint = Path(args.checkpoint).resolve()\n    output_zip = Path(args.output).resolve()\n    runtime_src = (\n        Path(__file__).resolve().parent\n        / \"submission_runtime\"\n    )\n    if not repo_dir.exists():",
+        "detail": "submission_builder.build_submission",
+        "documentation": {}
+    },
+    {
+        "label": "VectorScaling",
+        "kind": 6,
+        "importPath": "vapor_par.calibration",
+        "description": "vapor_par.calibration",
+        "peekOfCode": "class VectorScaling(nn.Module):\n    def __init__(self, n_classes):\n        super().__init__()\n        self.log_scale = nn.Parameter(torch.zeros(n_classes))\n        self.bias = nn.Parameter(torch.zeros(n_classes))\n    def forward(self, logits):\n        return logits * self.log_scale.exp().clamp(0.25, 4.0) + self.bias\ndef fit_vector_scaling(logits, labels, max_iter=100):\n    \"\"\"Post-hoc per-attribute calibration on development validation logits.\"\"\"\n    device = logits.device",
+        "detail": "vapor_par.calibration",
+        "documentation": {}
+    },
+    {
+        "label": "fit_vector_scaling",
+        "kind": 2,
+        "importPath": "vapor_par.calibration",
+        "description": "vapor_par.calibration",
+        "peekOfCode": "def fit_vector_scaling(logits, labels, max_iter=100):\n    \"\"\"Post-hoc per-attribute calibration on development validation logits.\"\"\"\n    device = logits.device\n    cal = VectorScaling(logits.shape[1]).to(device)\n    opt = torch.optim.LBFGS(cal.parameters(), lr=0.5, max_iter=max_iter, line_search_fn=\"strong_wolfe\")\n    x, y = logits.detach(), labels.detach()\n    def closure():\n        opt.zero_grad(set_to_none=True)\n        loss = F.binary_cross_entropy_with_logits(cal(x), y)\n        loss.backward()",
+        "detail": "vapor_par.calibration",
+        "documentation": {}
+    },
+    {
+        "label": "apply_calibration",
+        "kind": 2,
+        "importPath": "vapor_par.calibration",
+        "description": "vapor_par.calibration",
+        "peekOfCode": "def apply_calibration(logits, state):\n    if state is None:\n        return logits\n    ls = state[\"log_scale\"].to(logits.device)\n    b = state[\"bias\"].to(logits.device)\n    return logits * ls.exp().clamp(0.25,4.0) + b",
+        "detail": "vapor_par.calibration",
+        "documentation": {}
+    },
+    {
+        "label": "torch_load_compat",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def torch_load_compat(path, map_location=\"cpu\"):\n    \"\"\"Load across PyTorch versions where weights_only default changed.\"\"\"\n    try:\n        return torch.load(path, map_location=map_location, weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location=map_location)\ndef compact_state_dict(model):\n    \"\"\"Avoid re-saving the full frozen SigLIP2 backbone.\"\"\"\n    req = {n for n, p in model.named_parameters() if p.requires_grad}\n    state = model.state_dict()",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "compact_state_dict",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def compact_state_dict(model):\n    \"\"\"Avoid re-saving the full frozen SigLIP2 backbone.\"\"\"\n    req = {n for n, p in model.named_parameters() if p.requires_grad}\n    state = model.state_dict()\n    keep = {}\n    for k, v in state.items():\n        # Keep all VAPOR-PAR heads/buffers; for VLM keep only trainable backbone params.\n        if not k.startswith(\"vlm.\") or k in req:\n            keep[k] = v.detach().cpu()\n    return keep",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "restore_rng_state",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def restore_rng_state(state):\n    if not state:\n        return\n    try:\n        random.setstate(state[\"python\"])\n        np.random.set_state(state[\"numpy\"])\n        torch.set_rng_state(state[\"torch_cpu\"])\n        if torch.cuda.is_available() and state.get(\"torch_cuda\") is not None:\n            torch.cuda.set_rng_state_all(state[\"torch_cuda\"])\n    except Exception as exc:",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "atomic_torch_save",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def atomic_torch_save(obj, path):\n    path = Path(path)\n    path.parent.mkdir(parents=True, exist_ok=True)\n    tmp = path.with_suffix(path.suffix + \".tmp\")\n    torch.save(obj, tmp)\n    os.replace(tmp, path)\ndef save_checkpoint(\n    path,\n    model,\n    optimizer,",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoint",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def save_checkpoint(\n    path,\n    model,\n    optimizer,\n    scheduler,\n    scaler,\n    epoch,\n    next_batch_idx,\n    global_step,\n    best_score,",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint_payload",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def load_checkpoint_payload(path, device=\"cpu\"):\n    return torch_load_compat(path, map_location=device)\ndef apply_checkpoint_payload(\n    ckpt,\n    model,\n    optimizer=None,\n    scheduler=None,\n    scaler=None,\n    restore_rng=True,\n):",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "apply_checkpoint_payload",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def apply_checkpoint_payload(\n    ckpt,\n    model,\n    optimizer=None,\n    scheduler=None,\n    scaler=None,\n    restore_rng=True,\n):\n    missing, unexpected = model.load_state_dict(ckpt[\"model\"], strict=False)\n    # Frozen VLM weights are intentionally absent from compact training checkpoints.",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "vapor_par.checkpoint",
+        "description": "vapor_par.checkpoint",
+        "peekOfCode": "def load_checkpoint(\n    path,\n    model,\n    optimizer=None,\n    scheduler=None,\n    scaler=None,\n    device=\"cpu\",\n    restore_rng=True,\n):\n    ckpt = load_checkpoint_payload(path, device=device)",
+        "detail": "vapor_par.checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "vapor_par.config",
+        "description": "vapor_par.config",
+        "peekOfCode": "class Config:\n    # Official UPAR 2027 repository/data\n    repo_dir: str = \"/content/UPAR-Challenge-2027\"\n    data_dir: str = \"/content/UPAR-Challenge-2027/data\"\n    train_csv: str = \"/content/UPAR-Challenge-2027/data/annotations/task1/train/gt.csv\"\n    val_csv: str = \"/content/UPAR-Challenge-2027/data/annotations/task1/val/gt.csv\"\n    # User-requested Google Drive outputs\n    checkpoint_dir: str = \"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\"\n    results_dir: str = \"/content/drive/MyDrive/Pedestrian Attribute Recognition/Results\"\n    # VLM",
+        "detail": "vapor_par.config",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "kind": 5,
+        "importPath": "vapor_par.config",
+        "description": "vapor_par.config",
+        "peekOfCode": "ATTRIBUTE_NAMES = [\n    \"Age-Young\",\"Age-Adult\",\"Age-Old\",\"Gender-Female\",\n    \"Hair-Length-Short\",\"Hair-Length-Long\",\"Hair-Length-Bald\",\n    \"UpperBody-Length-Short\",\n    \"UpperBody-Color-Black\",\"UpperBody-Color-Blue\",\"UpperBody-Color-Brown\",\n    \"UpperBody-Color-Green\",\"UpperBody-Color-Grey\",\"UpperBody-Color-Orange\",\n    \"UpperBody-Color-Pink\",\"UpperBody-Color-Purple\",\"UpperBody-Color-Red\",\n    \"UpperBody-Color-White\",\"UpperBody-Color-Yellow\",\"UpperBody-Color-Other\",\n    \"LowerBody-Length-Short\",\n    \"LowerBody-Color-Black\",\"LowerBody-Color-Blue\",\"LowerBody-Color-Brown\",",
+        "detail": "vapor_par.config",
+        "documentation": {}
+    },
+    {
+        "label": "ONTOLOGY_GROUPS",
+        "kind": 5,
+        "importPath": "vapor_par.config",
+        "description": "vapor_par.config",
+        "peekOfCode": "ONTOLOGY_GROUPS = {\n    \"age\": [0,1,2],\n    \"hair\": [4,5,6],\n    \"upper_color\": list(range(8,20)),\n    \"lower_color\": list(range(21,33)),\n    \"lower_type\": [33,34],\n}\nDOMAIN_TO_ID = {\"Market1501\": 0, \"PA100k\": 1, \"PETA\": 2}\n@dataclass\nclass Config:",
+        "detail": "vapor_par.config",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_TO_ID",
+        "kind": 5,
+        "importPath": "vapor_par.config",
+        "description": "vapor_par.config",
+        "peekOfCode": "DOMAIN_TO_ID = {\"Market1501\": 0, \"PA100k\": 1, \"PETA\": 2}\n@dataclass\nclass Config:\n    # Official UPAR 2027 repository/data\n    repo_dir: str = \"/content/UPAR-Challenge-2027\"\n    data_dir: str = \"/content/UPAR-Challenge-2027/data\"\n    train_csv: str = \"/content/UPAR-Challenge-2027/data/annotations/task1/train/gt.csv\"\n    val_csv: str = \"/content/UPAR-Challenge-2027/data/annotations/task1/val/gt.csv\"\n    # User-requested Google Drive outputs\n    checkpoint_dir: str = \"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\"",
+        "detail": "vapor_par.config",
+        "documentation": {}
+    },
+    {
+        "label": "UPARAttributeDataset",
+        "kind": 6,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "class UPARAttributeDataset(Dataset):\n    def __init__(self, csv_path, data_root, max_samples=0):\n        self.csv_path = str(csv_path)\n        self.data_root = Path(data_root)\n        self.df, self.image_col = read_upar_csv(csv_path)\n        if max_samples and max_samples > 0:\n            self.df = self.df.iloc[:max_samples].copy()\n        self.paths = self.df[self.image_col].astype(str).tolist()\n        self.targets = self.df[ATTRIBUTE_NAMES].to_numpy(np.float32)\n        self.domains = np.array([infer_domain_id(p) for p in self.paths], dtype=np.int64)",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateInferenceDataset",
+        "kind": 6,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "class TemplateInferenceDataset(Dataset):\n    def __init__(self, template_csv, image_root):\n        self.template_csv = str(template_csv)\n        self.image_root = Path(image_root)\n        self.df = pd.read_csv(template_csv)\n        self.image_col = self.df.columns[0]\n        self.paths = self.df[self.image_col].astype(str).tolist()\n        self._basename_index = None\n    def __len__(self):\n        return len(self.paths)",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "TrainCollator",
+        "kind": 6,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "class TrainCollator:\n    def __init__(self, processor):\n        self.processor = processor\n        self.weak_aug, self.strong_aug = make_augmentations()\n    def __call__(self, batch):\n        weak_imgs = [self.weak_aug(x[\"image\"]) for x in batch]\n        strong_imgs = [self.strong_aug(x[\"image\"]) for x in batch]\n        weak_inputs = self.processor(images=weak_imgs, return_tensors=\"pt\")\n        strong_inputs = self.processor(images=strong_imgs, return_tensors=\"pt\")\n        return {",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "EvalCollator",
+        "kind": 6,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "class EvalCollator:\n    def __init__(self, processor, has_targets=True):\n        self.processor = processor\n        self.has_targets = has_targets\n    def __call__(self, batch):\n        inputs = self.processor(images=[x[\"image\"] for x in batch], return_tensors=\"pt\")\n        out = {\"inputs\": dict(inputs), \"paths\": [x[\"path\"] for x in batch]}\n        if self.has_targets:\n            out[\"targets\"] = torch.stack([x[\"target\"] for x in batch])\n            out[\"domains\"] = torch.tensor([x[\"domain\"] for x in batch], dtype=torch.long)",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "ResumableEpochBatchSampler",
+        "kind": 6,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "class ResumableEpochBatchSampler(Sampler):\n    \"\"\"Deterministic epoch shuffle that can START directly at a saved batch.\n    This is the critical resume fix. The old implementation enumerated the DataLoader\n    from batch 0 and merely `continue`d until the saved batch. That did not redo\n    optimizer steps, but it still decoded/preprocessed thousands of already-consumed\n    batches and made tqdm look like training restarted from 0.\n    Here the sampler itself removes already-consumed batches BEFORE DataLoader workers\n    are started, so resume at batch 4000 begins fetching batch 4000 immediately.\n    \"\"\"\n    def __init__(self, data_source, batch_size, seed=605, drop_last=False):",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "EpochRandomSampler",
+        "kind": 6,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "class EpochRandomSampler(Sampler):\n    def __init__(self, data_source, seed=605):\n        self.data_source = data_source\n        self.seed = int(seed)\n        self.epoch = 0\n    def set_epoch(self, epoch):\n        self.epoch = int(epoch)\n    def __iter__(self):\n        g = torch.Generator()\n        g.manual_seed(self.seed + self.epoch)",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "read_upar_csv",
+        "kind": 2,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "def read_upar_csv(csv_path):\n    df = pd.read_csv(csv_path)\n    image_col = df.columns[0]\n    missing = [c for c in ATTRIBUTE_NAMES if c not in df.columns]\n    if missing:\n        raise ValueError(f\"Missing UPAR attributes in {csv_path}: {missing}\")\n    return df, image_col\ndef infer_domain_id(rel_path: str) -> int:\n    prefix = str(rel_path).replace(\"\\\\\", \"/\").split(\"/\")[0]\n    if prefix not in DOMAIN_TO_ID:",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "infer_domain_id",
+        "kind": 2,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "def infer_domain_id(rel_path: str) -> int:\n    prefix = str(rel_path).replace(\"\\\\\", \"/\").split(\"/\")[0]\n    if prefix not in DOMAIN_TO_ID:\n        return -1\n    return DOMAIN_TO_ID[prefix]\nclass UPARAttributeDataset(Dataset):\n    def __init__(self, csv_path, data_root, max_samples=0):\n        self.csv_path = str(csv_path)\n        self.data_root = Path(data_root)\n        self.df, self.image_col = read_upar_csv(csv_path)",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "make_augmentations",
+        "kind": 2,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "def make_augmentations():\n    weak = transforms.Compose([\n        transforms.RandomHorizontalFlip(p=0.5),\n    ])\n    strong = transforms.Compose([\n        transforms.RandomHorizontalFlip(p=0.5),\n        transforms.RandomApply([transforms.ColorJitter(\n            brightness=0.30, contrast=0.30, saturation=0.25, hue=0.05\n        )], p=0.8),\n        transforms.RandomGrayscale(p=0.10),",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFile.LOAD_TRUNCATED_IMAGES",
+        "kind": 5,
+        "importPath": "vapor_par.data",
+        "description": "vapor_par.data",
+        "peekOfCode": "ImageFile.LOAD_TRUNCATED_IMAGES = True\ndef read_upar_csv(csv_path):\n    df = pd.read_csv(csv_path)\n    image_col = df.columns[0]\n    missing = [c for c in ATTRIBUTE_NAMES if c not in df.columns]\n    if missing:\n        raise ValueError(f\"Missing UPAR attributes in {csv_path}: {missing}\")\n    return df, image_col\ndef infer_domain_id(rel_path: str) -> int:\n    prefix = str(rel_path).replace(\"\\\\\", \"/\").split(\"/\")[0]",
+        "detail": "vapor_par.data",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_official_repo",
+        "kind": 2,
+        "importPath": "vapor_par.download_data",
+        "description": "vapor_par.download_data",
+        "peekOfCode": "def prepare_official_repo(repo_dir=\"/content/UPAR-Challenge-2027\"):\n    repo = Path(repo_dir)\n    if not repo.exists():\n        subprocess.check_call([\"git\",\"clone\",\"--depth\",\"1\",OFFICIAL_REPO,str(repo)])\n    else:\n        subprocess.run([\"git\",\"-C\",str(repo),\"pull\",\"--ff-only\"], check=False)\n    sys.path.insert(0, str(repo))\n    old = os.getcwd()\n    os.chdir(repo)\n    try:",
+        "detail": "vapor_par.download_data",
+        "documentation": {}
+    },
+    {
+        "label": "OFFICIAL_REPO",
+        "kind": 5,
+        "importPath": "vapor_par.download_data",
+        "description": "vapor_par.download_data",
+        "peekOfCode": "OFFICIAL_REPO = \"https://github.com/speckean/UPAR-Challenge-2027.git\"\ndef prepare_official_repo(repo_dir=\"/content/UPAR-Challenge-2027\"):\n    repo = Path(repo_dir)\n    if not repo.exists():\n        subprocess.check_call([\"git\",\"clone\",\"--depth\",\"1\",OFFICIAL_REPO,str(repo)])\n    else:\n        subprocess.run([\"git\",\"-C\",str(repo),\"pull\",\"--ff-only\"], check=False)\n    sys.path.insert(0, str(repo))\n    old = os.getcwd()\n    os.chdir(repo)",
+        "detail": "vapor_par.download_data",
+        "documentation": {}
+    },
+    {
+        "label": "validate_submission",
+        "kind": 2,
+        "importPath": "vapor_par.inference",
+        "description": "vapor_par.inference",
+        "peekOfCode": "def validate_submission(df, template_df=None):\n    if df.shape[1] != 41:\n        raise ValueError(f\"Expected 41 columns (image + 40 attributes), got {df.shape[1]}\")\n    if list(df.columns[1:]) != ATTRIBUTE_NAMES:\n        raise ValueError(\"Attribute column order does not match official UPAR vocabulary.\")\n    vals = df.iloc[:,1:].to_numpy(dtype=np.float64)\n    if not np.isfinite(vals).all():\n        raise ValueError(\"Submission contains NaN/Inf.\")\n    if vals.min() < 0 or vals.max() > 1:\n        raise ValueError(\"Submission probabilities must be in [0,1].\")",
+        "detail": "vapor_par.inference",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference_from_template",
+        "kind": 2,
+        "importPath": "vapor_par.inference",
+        "description": "vapor_par.inference",
+        "peekOfCode": "def run_inference_from_template(cfg: Config, checkpoint_path, template_csv, image_root,\n                                output_csv=None, output_zip=None):\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    processor = AutoProcessor.from_pretrained(cfg.model_id)\n    model = VAPORPAR(cfg).to(device)\n    model.initialize_prompts(processor, device)\n    ck = load_checkpoint(checkpoint_path, model, device=\"cpu\")\n    calibration = ck.get(\"calibration\")\n    model.eval()\n    ds = TemplateInferenceDataset(template_csv, image_root)",
+        "detail": "vapor_par.inference",
+        "documentation": {}
+    },
+    {
+        "label": "make_dev_format_check",
+        "kind": 2,
+        "importPath": "vapor_par.inference",
+        "description": "vapor_par.inference",
+        "peekOfCode": "def make_dev_format_check(cfg: Config, checkpoint_path):\n    \"\"\"Use official validation gt.csv only as an image-order template for a local format smoke test.\"\"\"\n    return run_inference_from_template(\n        cfg=cfg,\n        checkpoint_path=checkpoint_path,\n        template_csv=cfg.val_csv,\n        image_root=cfg.data_dir,\n        output_csv=Path(cfg.results_dir)/\"dev_predictions.csv\",\n        output_zip=Path(cfg.results_dir)/\"dev_submission_format_check.zip\",\n    )",
+        "detail": "vapor_par.inference",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_asymmetric_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def balanced_asymmetric_loss(logits, targets, pos_prior, gamma_pos=1.0, gamma_neg=2.0):\n    p = torch.sigmoid(logits).clamp(EPS, 1-EPS)\n    prior = pos_prior.to(logits.device).clamp(1e-3, 1-1e-3)\n    w_pos = (0.5 / prior).clamp(max=20.0)\n    w_neg = (0.5 / (1-prior)).clamp(max=20.0)\n    pos = -w_pos * targets * ((1-p) ** gamma_pos) * torch.log(p)\n    neg = -w_neg * (1-targets) * (p ** gamma_neg) * torch.log(1-p)\n    return (pos + neg).mean()\ndef semantic_contrastive_loss(features, targets, lang_pos_h, lang_neg_h, tau=0.07):\n    # AMP-safe equivalent: softmax([sn, sp])_positive == sigmoid(sp - sn)",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "semantic_contrastive_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def semantic_contrastive_loss(features, targets, lang_pos_h, lang_neg_h, tau=0.07):\n    # AMP-safe equivalent: softmax([sn, sp])_positive == sigmoid(sp - sn)\n    sp = torch.einsum(\"bcd,cd->bc\", features, lang_pos_h) / tau\n    sn = torch.einsum(\"bcd,cd->bc\", features, lang_neg_h) / tau\n    sem_logits = sp - sn\n    return F.binary_cross_entropy_with_logits(sem_logits, targets.float())\ndef domain_alignment_loss(features, targets, domains):\n    \"\"\"Align positive and negative per-domain class centroids across known source domains.\"\"\"\n    losses = []\n    valid_domains = [int(d) for d in domains.unique().tolist() if int(d) >= 0]",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "domain_alignment_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def domain_alignment_loss(features, targets, domains):\n    \"\"\"Align positive and negative per-domain class centroids across known source domains.\"\"\"\n    losses = []\n    valid_domains = [int(d) for d in domains.unique().tolist() if int(d) >= 0]\n    if len(valid_domains) < 2:\n        return features.new_zeros(())\n    C = targets.shape[1]\n    for c in range(C):\n        for positive in (1, 0):\n            cents = []",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "semantic_anchor_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def semantic_anchor_loss(visual_pos, visual_neg, lang_pos_h, lang_neg_h):\n    vp = F.normalize(visual_pos, dim=-1)\n    vn = F.normalize(visual_neg, dim=-1)\n    lp = F.normalize(lang_pos_h, dim=-1)\n    ln = F.normalize(lang_neg_h, dim=-1)\n    return (1-(vp*lp).sum(-1)).mean() + (1-(vn*ln).sum(-1)).mean()\ndef prompt_invariance_loss(features, pos_var_h, neg_var_h):\n    # features [B,C,D], variants [C,K,D]\n    pos = torch.einsum(\"bcd,ckd->bck\", features, pos_var_h)\n    neg = torch.einsum(\"bcd,ckd->bck\", features, neg_var_h)",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "prompt_invariance_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def prompt_invariance_loss(features, pos_var_h, neg_var_h):\n    # features [B,C,D], variants [C,K,D]\n    pos = torch.einsum(\"bcd,ckd->bck\", features, pos_var_h)\n    neg = torch.einsum(\"bcd,ckd->bck\", features, neg_var_h)\n    margin = pos - neg\n    return margin.var(dim=-1, unbiased=False).mean()\ndef relation_geometry_loss(visual_pos, lang_pos_h):\n    vp = F.normalize(visual_pos, dim=-1)\n    lp = F.normalize(lang_pos_h.detach(), dim=-1)\n    s_vis = vp @ vp.t()",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "relation_geometry_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def relation_geometry_loss(visual_pos, lang_pos_h):\n    vp = F.normalize(visual_pos, dim=-1)\n    lp = F.normalize(lang_pos_h.detach(), dim=-1)\n    s_vis = vp @ vp.t()\n    s_txt = lp @ lp.t()\n    return F.mse_loss(s_vis, s_txt)\ndef ontology_loss(logits, targets):\n    losses = []\n    for _, ids in ONTOLOGY_GROUPS.items():\n        ids = torch.tensor(ids, device=logits.device, dtype=torch.long)",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "ontology_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def ontology_loss(logits, targets):\n    losses = []\n    for _, ids in ONTOLOGY_GROUPS.items():\n        ids = torch.tensor(ids, device=logits.device, dtype=torch.long)\n        yg = targets.index_select(1, ids)\n        mask = (yg.sum(1) == 1)\n        if mask.any():\n            lg = logits.index_select(1, ids)[mask]\n            tg = yg[mask].argmax(1)\n            losses.append(F.cross_entropy(lg, tg))",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "prediction_consistency_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def prediction_consistency_loss(weak_logits, strong_logits, confidence=0.80):\n    # AMP-safe: weak probabilities are detached targets; strong branch stays in logit space.\n    pw = torch.sigmoid(weak_logits).detach()\n    mask = (pw >= confidence) | (pw <= (1-confidence))\n    if not mask.any():\n        return weak_logits.new_zeros(())\n    return F.binary_cross_entropy_with_logits(\n        strong_logits[mask],\n        pw[mask].float(),\n    )",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "feature_consistency_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def feature_consistency_loss(weak_features, strong_features):\n    return (1 - F.cosine_similarity(weak_features.detach(), strong_features, dim=-1)).mean()\ndef total_vapor_loss(cfg, weak_out, strong_out, targets, domains, pos_prior, epoch):\n    l_bal = balanced_asymmetric_loss(\n        weak_out[\"logits\"], targets, pos_prior, cfg.gamma_pos, cfg.gamma_neg\n    )\n    l_sem = semantic_contrastive_loss(\n        weak_out[\"features\"], targets, weak_out[\"lang_pos_h\"], weak_out[\"lang_neg_h\"]\n    )\n    l_anchor = semantic_anchor_loss(",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "total_vapor_loss",
+        "kind": 2,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "def total_vapor_loss(cfg, weak_out, strong_out, targets, domains, pos_prior, epoch):\n    l_bal = balanced_asymmetric_loss(\n        weak_out[\"logits\"], targets, pos_prior, cfg.gamma_pos, cfg.gamma_neg\n    )\n    l_sem = semantic_contrastive_loss(\n        weak_out[\"features\"], targets, weak_out[\"lang_pos_h\"], weak_out[\"lang_neg_h\"]\n    )\n    l_anchor = semantic_anchor_loss(\n        weak_out[\"fused_pos\"], weak_out[\"fused_neg\"],\n        weak_out[\"lang_pos_h\"], weak_out[\"lang_neg_h\"]",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "EPS",
+        "kind": 5,
+        "importPath": "vapor_par.losses",
+        "description": "vapor_par.losses",
+        "peekOfCode": "EPS = 1e-7\ndef balanced_asymmetric_loss(logits, targets, pos_prior, gamma_pos=1.0, gamma_neg=2.0):\n    p = torch.sigmoid(logits).clamp(EPS, 1-EPS)\n    prior = pos_prior.to(logits.device).clamp(1e-3, 1-1e-3)\n    w_pos = (0.5 / prior).clamp(max=20.0)\n    w_neg = (0.5 / (1-prior)).clamp(max=20.0)\n    pos = -w_pos * targets * ((1-p) ** gamma_pos) * torch.log(p)\n    neg = -w_neg * (1-targets) * (p ** gamma_neg) * torch.log(1-p)\n    return (pos + neg).mean()\ndef semantic_contrastive_loss(features, targets, lang_pos_h, lang_neg_h, tau=0.07):",
+        "detail": "vapor_par.losses",
+        "documentation": {}
+    },
+    {
+        "label": "mean_accuracy",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def mean_accuracy(y_true, y_pred):\n    y_true, y_pred = _np(y_true).astype(np.int32), _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        pos = y_true[:,c] == 1\n        neg = ~pos\n        tpr = ((y_pred[:,c] == 1) & pos).sum() / max(pos.sum(), 1)\n        tnr = ((y_pred[:,c] == 0) & neg).sum() / max(neg.sum(), 1)\n        vals.append(0.5*(tpr+tnr))\n    return float(np.mean(vals))",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "instance_metrics",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def instance_metrics(y_true, y_pred):\n    y_true, y_pred = _np(y_true).astype(bool), _np(y_pred).astype(bool)\n    inter = (y_true & y_pred).sum(1).astype(np.float64)\n    pred_n = y_pred.sum(1).astype(np.float64)\n    true_n = y_true.sum(1).astype(np.float64)\n    precision_i = np.divide(inter, pred_n, out=np.ones_like(inter), where=pred_n>0)\n    recall_i = np.divide(inter, true_n, out=np.ones_like(inter), where=true_n>0)\n    p = float(precision_i.mean())\n    r = float(recall_i.mean())\n    f1 = 2*p*r/max(p+r, EPS)",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def evaluate_probs(y_true, probs, thresholds=0.5):\n    y_true, probs = _np(y_true), _np(probs)\n    th = np.asarray(thresholds, dtype=np.float32)\n    if th.ndim == 0:\n        th = np.full(probs.shape[1], float(th), dtype=np.float32)\n    pred = (probs >= th.reshape(1,-1)).astype(np.int32)\n    ma = mean_accuracy(y_true, pred)\n    p, r, f1 = instance_metrics(y_true, pred)\n    return {\n        \"mA\": ma, \"instance_precision\": p, \"instance_recall\": r,",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_attribute_thresholds",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def tune_attribute_thresholds(y_true, probs, grid=None):\n    \"\"\"Robust simple per-attribute balanced-accuracy threshold search.\"\"\"\n    y_true, probs = _np(y_true), _np(probs)\n    if grid is None:\n        grid = np.arange(0.10, 0.901, 0.025)\n    C = probs.shape[1]\n    out = np.full(C, 0.5, dtype=np.float32)\n    for c in range(C):\n        best_s, best_t = -1, 0.5\n        yt = y_true[:,c].astype(np.int32)",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "EPS",
+        "kind": 5,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "EPS = 1e-12\ndef _np(x):\n    if torch.is_tensor(x):\n        return x.detach().cpu().numpy()\n    return np.asarray(x)\ndef mean_accuracy(y_true, y_pred):\n    y_true, y_pred = _np(y_true).astype(np.int32), _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        pos = y_true[:,c] == 1",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "VAPORPAR",
+        "kind": 6,
+        "importPath": "vapor_par.model",
+        "description": "vapor_par.model",
+        "peekOfCode": "class VAPORPAR(nn.Module):\n    \"\"\"\n    VAPOR-PAR:\n      SigLIP2 + semantic attribute queries + attribute cross-attention\n      + positive/negative language/visual dual prototypes\n      + prototype-margin classification.\n    \"\"\"\n    def __init__(self, cfg):\n        super().__init__()\n        self.cfg = cfg",
+        "detail": "vapor_par.model",
+        "documentation": {}
+    },
+    {
+        "label": "l2n",
+        "kind": 2,
+        "importPath": "vapor_par.model",
+        "description": "vapor_par.model",
+        "peekOfCode": "def l2n(x, dim=-1, eps=1e-6):\n    return x / x.norm(dim=dim, keepdim=True).clamp_min(eps)\nclass VAPORPAR(nn.Module):\n    \"\"\"\n    VAPOR-PAR:\n      SigLIP2 + semantic attribute queries + attribute cross-attention\n      + positive/negative language/visual dual prototypes\n      + prototype-margin classification.\n    \"\"\"\n    def __init__(self, cfg):",
+        "detail": "vapor_par.model",
+        "documentation": {}
+    },
+    {
+        "label": "build_prompt_bank",
+        "kind": 2,
+        "importPath": "vapor_par.prompts",
+        "description": "vapor_par.prompts",
+        "peekOfCode": "def build_prompt_bank(attributes=ATTRIBUTE_NAMES):\n    bank = {}\n    for attr in attributes:\n        c = _concept(attr)\n        if attr.startswith(\"Age-\"):\n            pos_core = f\"a pedestrian who appears {c}\"\n            neg_core = f\"a pedestrian who does not appear {c}\"\n        elif attr == \"Gender-Female\":\n            pos_core = \"a female pedestrian\"\n            neg_core = \"a pedestrian who is not female\"",
+        "detail": "vapor_par.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_CONTEXTS",
+        "kind": 5,
+        "importPath": "vapor_par.prompts",
+        "description": "vapor_par.prompts",
+        "peekOfCode": "DOMAIN_CONTEXTS = [\n    \"a surveillance image of\",\n    \"a low-resolution CCTV image of\",\n    \"a nighttime surveillance image of\",\n    \"a blurred surveillance image of\",\n    \"an occluded surveillance image of\",\n    \"a high-angle camera image of\",\n]\ndef build_prompt_bank(attributes=ATTRIBUTE_NAMES):\n    bank = {}",
+        "detail": "vapor_par.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "kind": 2,
+        "importPath": "vapor_par.train",
+        "description": "vapor_par.train",
+        "peekOfCode": "def evaluate(model, loader, device, calibration=None, desc=\"Evaluation\"):\n    model.eval()\n    all_logits, all_targets = [], []\n    for batch in tqdm(loader, desc=desc, leave=False):\n        inputs = move_inputs(batch[\"inputs\"], device)\n        out = model(inputs)\n        logits = apply_calibration(out[\"logits\"], calibration)\n        all_logits.append(logits.float().cpu())\n        all_targets.append(batch[\"targets\"].float().cpu())\n    logits = torch.cat(all_logits)",
+        "detail": "vapor_par.train",
+        "documentation": {}
+    },
+    {
+        "label": "run_training",
+        "kind": 2,
+        "importPath": "vapor_par.train",
+        "description": "vapor_par.train",
+        "peekOfCode": "def run_training(cfg: Config, resume=True):\n    cfg.ensure_dirs()\n    ckpt_dir = Path(cfg.checkpoint_dir)\n    res_dir = Path(cfg.results_dir)\n    resume_path = ckpt_dir / \"resume_step.pt\"\n    last_path = ckpt_dir / \"last.pt\"\n    best_path = ckpt_dir / \"best.pt\"\n    # Read resume metadata BEFORE creating the DataLoader. This allows us to restore\n    # the original batch size/seed and construct a sampler that starts directly at\n    # the saved batch instead of loading batches 0..resume_batch-1 again.",
+        "detail": "vapor_par.train",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "kind": 2,
+        "importPath": "vapor_par.utils",
+        "description": "vapor_par.utils",
+        "peekOfCode": "def seed_everything(seed=605):\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\ndef move_inputs(inputs, device):\n    return {k:v.to(device, non_blocking=True) if torch.is_tensor(v) else v for k,v in inputs.items()}\ndef append_csv(path, row, fieldnames):\n    path = Path(path)\n    path.parent.mkdir(parents=True, exist_ok=True)",
+        "detail": "vapor_par.utils",
+        "documentation": {}
+    },
+    {
+        "label": "move_inputs",
+        "kind": 2,
+        "importPath": "vapor_par.utils",
+        "description": "vapor_par.utils",
+        "peekOfCode": "def move_inputs(inputs, device):\n    return {k:v.to(device, non_blocking=True) if torch.is_tensor(v) else v for k,v in inputs.items()}\ndef append_csv(path, row, fieldnames):\n    path = Path(path)\n    path.parent.mkdir(parents=True, exist_ok=True)\n    exists = path.exists()\n    with path.open(\"a\", newline=\"\", encoding=\"utf-8\") as f:\n        w = csv.DictWriter(f, fieldnames=fieldnames)\n        if not exists:\n            w.writeheader()",
+        "detail": "vapor_par.utils",
+        "documentation": {}
+    },
+    {
+        "label": "append_csv",
+        "kind": 2,
+        "importPath": "vapor_par.utils",
+        "description": "vapor_par.utils",
+        "peekOfCode": "def append_csv(path, row, fieldnames):\n    path = Path(path)\n    path.parent.mkdir(parents=True, exist_ok=True)\n    exists = path.exists()\n    with path.open(\"a\", newline=\"\", encoding=\"utf-8\") as f:\n        w = csv.DictWriter(f, fieldnames=fieldnames)\n        if not exists:\n            w.writeheader()\n        w.writerow(row)\n        f.flush()",
+        "detail": "vapor_par.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_amp_dtype",
+        "kind": 2,
+        "importPath": "vapor_par.utils",
+        "description": "vapor_par.utils",
+        "peekOfCode": "def get_amp_dtype():\n    if not torch.cuda.is_available():\n        return torch.float32\n    if torch.cuda.is_bf16_supported():\n        return torch.bfloat16\n    return torch.float16",
+        "detail": "vapor_par.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "infer_submit",
+        "description": "infer_submit",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--template\", required=True, help=\"Official Task-1 submission template CSV\")\n    p.add_argument(\"--image-root\", required=True, help=\"Root directory containing private-test images\")\n    p.add_argument(\n        \"--checkpoint\",\n        default=\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints/best_calibrated.pt\"\n    )\n    p.add_argument(\n        \"--output-csv\",",
+        "detail": "infer_submit",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "inspect_checkpoint",
+        "description": "inspect_checkpoint",
+        "peekOfCode": "def main():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--checkpoint-dir\",\n        default=\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\",\n    )\n    args = p.parse_args()\n    d = Path(args.checkpoint_dir)\n    candidates = [\n        d / \"resume_step.pt\",",
+        "detail": "inspect_checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "train_colab",
+        "description": "train_colab",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--epochs\", type=int, default=25)\n    p.add_argument(\"--batch-size\", type=int, default=12)\n    p.add_argument(\"--eval-batch-size\", type=int, default=24)\n    p.add_argument(\"--num-workers\", type=int, default=2)\n    p.add_argument(\"--save-every-steps\", type=int, default=100)\n    p.add_argument(\"--log-every-steps\", type=int, default=50)\n    p.add_argument(\"--max-train-samples\", type=int, default=0)\n    p.add_argument(\"--max-val-samples\", type=int, default=0)",
+        "detail": "train_colab",
+        "documentation": {}
+    }
+]
