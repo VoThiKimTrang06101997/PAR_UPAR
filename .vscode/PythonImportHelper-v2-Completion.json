@@ -24,6 +24,38 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -39,6 +71,38 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -198,6 +262,22 @@
         "documentation": {}
     },
     {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
         "label": "Siglip2ImageProcessor",
         "importPath": "transformers",
         "description": "transformers",
@@ -350,6 +430,14 @@
         "documentation": {}
     },
     {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
         "label": "math",
         "kind": 6,
         "isExtraImport": true,
@@ -400,6 +488,46 @@
         "documentation": {}
     },
     {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "WeightedRandomSampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
         "label": "transforms",
         "importPath": "torchvision",
         "description": "torchvision",
@@ -414,6 +542,14 @@
         "importPath": "os.",
         "description": "os.",
         "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
         "documentation": {}
     },
     {
@@ -491,6 +627,202 @@
         "documentation": {}
     },
     {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "importlib.util",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib.util",
+        "description": "importlib.util",
+        "detail": "importlib.util",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "UPARFastDataset",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "EfficientNetB0DG",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedAsymmetricLoss",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "make_domain_balanced_sampler",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "domain_loss",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "isExtraImport": true,
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "efficientnet_b0",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "efficientnet_b0",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "EfficientNet_B0_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
         "label": "load_checkpoint_payload",
         "importPath": "vapor_par.checkpoint",
         "description": "vapor_par.checkpoint",
@@ -512,6 +844,30 @@
         "description": "vapor_par.train",
         "isExtraImport": true,
         "detail": "vapor_par.train",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_attribute_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
         "documentation": {}
     },
     {
@@ -1104,7 +1460,16 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def mean_accuracy(y_true, y_pred):\n    y_true, y_pred = _np(y_true).astype(np.int32), _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        pos = y_true[:,c] == 1\n        neg = ~pos\n        tpr = ((y_pred[:,c] == 1) & pos).sum() / max(pos.sum(), 1)\n        tnr = ((y_pred[:,c] == 0) & neg).sum() / max(neg.sum(), 1)\n        vals.append(0.5*(tpr+tnr))\n    return float(np.mean(vals))",
+        "peekOfCode": "def mean_accuracy(y_true, y_pred) -> float:\n    \"\"\"UPAR label-based mean accuracy, ignoring unknown labels.\"\"\"\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        valid = (y_true[:, c] == 0) | (y_true[:, c] == 1)\n        yt = y_true[valid, c]\n        yp = y_pred[valid, c]\n        pos = yt == 1",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "label_f1",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def label_f1(y_true, y_pred) -> float:\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        valid = (y_true[:, c] == 0) | (y_true[:, c] == 1)\n        yt = y_true[valid, c]\n        yp = y_pred[valid, c]\n        if len(yt) == 0:\n            continue",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1113,7 +1478,16 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def instance_metrics(y_true, y_pred):\n    y_true, y_pred = _np(y_true).astype(bool), _np(y_pred).astype(bool)\n    inter = (y_true & y_pred).sum(1).astype(np.float64)\n    pred_n = y_pred.sum(1).astype(np.float64)\n    true_n = y_true.sum(1).astype(np.float64)\n    precision_i = np.divide(inter, pred_n, out=np.ones_like(inter), where=pred_n>0)\n    recall_i = np.divide(inter, true_n, out=np.ones_like(inter), where=true_n>0)\n    p = float(precision_i.mean())\n    r = float(recall_i.mean())\n    f1 = 2*p*r/max(p+r, EPS)",
+        "peekOfCode": "def instance_metrics(y_true, y_pred):\n    \"\"\"Mean instance accuracy/precision/recall/F1, matching the scorer layout.\"\"\"\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    accs, precs, recs, f1s = [], [], [], []\n    for i in range(y_true.shape[0]):\n        valid = (y_true[i] == 0) | (y_true[i] == 1)\n        yt = y_true[i, valid] == 1\n        yp = y_pred[i, valid] == 1\n        tp = np.logical_and(yt, yp).sum()",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "harmonic_challenge_average",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def harmonic_challenge_average(ma: float, instance_f1: float) -> float:\n    \"\"\"\n    UPAR-2027 Challenge_Avg inferred exactly from the official scorer output:\n        H(mA, Instance_F1) = 2*mA*Instance_F1/(mA+Instance_F1)\n    This reproduces 0.546626 from mA=0.669752 and Instance_F1=0.461740.\n    \"\"\"\n    ma = float(ma)\n    instance_f1 = float(instance_f1)\n    return float(2.0 * ma * instance_f1 / max(ma + instance_f1, EPS))\ndef evaluate_probs(y_true, probs, thresholds=0.5):",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1122,7 +1496,16 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def evaluate_probs(y_true, probs, thresholds=0.5):\n    y_true, probs = _np(y_true), _np(probs)\n    th = np.asarray(thresholds, dtype=np.float32)\n    if th.ndim == 0:\n        th = np.full(probs.shape[1], float(th), dtype=np.float32)\n    pred = (probs >= th.reshape(1,-1)).astype(np.int32)\n    ma = mean_accuracy(y_true, pred)\n    p, r, f1 = instance_metrics(y_true, pred)\n    return {\n        \"mA\": ma, \"instance_precision\": p, \"instance_recall\": r,",
+        "peekOfCode": "def evaluate_probs(y_true, probs, thresholds=0.5):\n    y_true = _np(y_true).astype(np.int32)\n    probs = _np(probs).astype(np.float32)\n    th = _threshold_vector(thresholds, probs.shape[1])\n    pred = (probs >= th.reshape(1, -1)).astype(np.int32)\n    ma = mean_accuracy(y_true, pred)\n    lf1 = label_f1(y_true, pred)\n    iacc, iprec, irec, if1 = instance_metrics(y_true, pred)\n    challenge = harmonic_challenge_average(ma, if1)\n    return {",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def robust_selection_score(y_true, probs, thresholds, domains=None):\n    overall = evaluate_probs(y_true, probs, thresholds)\n    if domains is None:\n        return overall[\"Challenge_Avg\"], overall, {}\n    domains = np.asarray(domains)\n    per_domain = {}\n    domain_scores = []\n    for d in sorted(set(int(x) for x in domains.tolist() if int(x) >= 0)):\n        mask = domains == d\n        if mask.sum() == 0:",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1131,7 +1514,7 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def tune_attribute_thresholds(y_true, probs, grid=None):\n    \"\"\"Robust simple per-attribute balanced-accuracy threshold search.\"\"\"\n    y_true, probs = _np(y_true), _np(probs)\n    if grid is None:\n        grid = np.arange(0.10, 0.901, 0.025)\n    C = probs.shape[1]\n    out = np.full(C, 0.5, dtype=np.float32)\n    for c in range(C):\n        best_s, best_t = -1, 0.5\n        yt = y_true[:,c].astype(np.int32)",
+        "peekOfCode": "def tune_attribute_thresholds(y_true, probs, grid=None, domains=None):\n    \"\"\"\n    Domain-robust threshold calibration.\n    Old code independently optimized each attribute for mA, producing extreme\n    thresholds and high recall/low precision on the private domain. This version:\n      1) finds conservative per-attribute candidates;\n      2) shrinks them toward one global threshold;\n      3) selects the combination by official harmonic Challenge_Avg;\n      4) when domain IDs are supplied, includes the weakest source-domain score.\n    \"\"\"",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1140,7 +1523,7 @@
         "kind": 5,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "EPS = 1e-12\ndef _np(x):\n    if torch.is_tensor(x):\n        return x.detach().cpu().numpy()\n    return np.asarray(x)\ndef mean_accuracy(y_true, y_pred):\n    y_true, y_pred = _np(y_true).astype(np.int32), _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        pos = y_true[:,c] == 1",
+        "peekOfCode": "EPS = 1e-12\ndef _np(x):\n    if torch.is_tensor(x):\n        return x.detach().cpu().numpy()\n    return np.asarray(x)\ndef _threshold_vector(thresholds, n_attributes: int) -> np.ndarray:\n    th = np.asarray(thresholds, dtype=np.float32)\n    if th.ndim == 0:\n        th = np.full(n_attributes, float(th), dtype=np.float32)\n    th = th.reshape(-1)",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1235,6 +1618,393 @@
         "documentation": {}
     },
     {
+        "label": "InferenceNet",
+        "kind": 6,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "class InferenceNet(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = efficientnet_b0(weights=None)\n        self.features = base.features\n        self.avgpool = base.avgpool\n        self.attr_head = nn.Linear(base.classifier[1].in_features, 40)\n    def forward(self, x):\n        x = self.features(x)\n        x = self.avgpool(x)",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--repo-root\", default=\"/content/UPAR-Challenge-2027\")\n    p.add_argument(\"--checkpoint-dir\", default=\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\")\n    p.add_argument(\"--result-dir\", default=\"/content/drive/MyDrive/PedestrianAttributeRecognition/Results\")\n    p.add_argument(\"--seeds\", default=\"42,123\")\n    p.add_argument(\"--batch-size\", type=int, default=64)\n    p.add_argument(\"--io-workers\", type=int, default=8)\n    p.add_argument(\"--tta\", action=\"store_true\", default=True)\n    p.add_argument(\"--no-tta\", action=\"store_false\", dest=\"tta\")",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "sha256_file",
+        "kind": 2,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "def sha256_file(path: Path, chunk_size=8 * 1024 * 1024):\n    h = hashlib.sha256()\n    with path.open(\"rb\") as f:\n        while True:\n            b = f.read(chunk_size)\n            if not b:\n                break\n            h.update(b)\n    return h.hexdigest()\ndef clean(root: Path):",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "clean",
+        "kind": 2,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "def clean(root: Path):\n    if not root.exists():\n        return\n    for d in list(root.rglob(\"__pycache__\")):\n        if d.is_dir():\n            shutil.rmtree(d, ignore_errors=True)\n    for pat in (\"*.pyc\", \"*.pyo\"):\n        for p in list(root.rglob(pat)):\n            p.unlink(missing_ok=True)\n    for p in list(root.rglob(\".DS_Store\")):",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "def main():\n    args = parse_args()\n    repo_root = Path(args.repo_root)\n    ckpt_dir = Path(args.checkpoint_dir)\n    result_dir = Path(args.result_dir)\n    result_dir.mkdir(parents=True, exist_ok=True)\n    submission_dir = Path(\"/content/submission_dg\")\n    assets_dir = submission_dir / \"assets\"\n    final_zip = result_dir / \"Submission_FAST_STUDENT_DG_256_TTA.zip\"\n    if submission_dir.exists():",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "def load_model() -> None:\n    global _MODELS, _THRESHOLDS, _DEVICE, _TRANSFORM\n    global _ATTRIBUTE_NAMES, _ATTRIBUTE_INDEX, _POOL, _START\n    if _MODELS:\n        return None\n    if CONFIG.get(\"model_sha256\") and _sha256(MODEL_FILE) != CONFIG[\"model_sha256\"]:\n        raise RuntimeError(\"assets/model.pt SHA256 mismatch\")\n    package = _safe_load(MODEL_FILE)\n    _ATTRIBUTE_NAMES = list(package[\"attribute_names\"])\n    if len(_ATTRIBUTE_NAMES) != 40:",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "def predict_batch(samples: list[dict]) -> list[list[float]]:\n    global _COUNT\n    load_model()\n    if not isinstance(samples, list):\n        samples = list(samples)\n    if not samples:\n        return []\n    probs = _infer(samples)\n    if probs.shape != (len(samples), 40):\n        raise RuntimeError(f\"Wrong prediction shape: {probs.shape}\")",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "def predict_image(sample: dict) -> list[float]:\n    return predict_batch([sample])[0]\n'''\n    (submission_dir / \"run.py\").write_text(run_py.lstrip(), encoding=\"utf-8\")\n    ast.parse((submission_dir / \"run.py\").read_text(encoding=\"utf-8\"))\n    expected = {\n        \"run.py\", \"metadata.yaml\", \"NOTICE.md\", \"LICENSE-model.txt\",\n        \"assets/model.pt\", \"assets/config.json\",\n    }\n    clean(submission_dir)",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nASSETS = ROOT / \"assets\"\nMODEL_FILE = ASSETS / \"model.pt\"\nCONFIG_FILE = ASSETS / \"config.json\"\nwith CONFIG_FILE.open(\"r\", encoding=\"utf-8\") as f:\n    CONFIG = json.load(f)\nBATCH_SIZE = int(CONFIG.get(\"batch_size\", 64))\nIO_WORKERS = max(1, int(CONFIG.get(\"image_io_workers\", 8)))\n_MODELS = []\n_THRESHOLDS = []",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "ASSETS",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "ASSETS = ROOT / \"assets\"\nMODEL_FILE = ASSETS / \"model.pt\"\nCONFIG_FILE = ASSETS / \"config.json\"\nwith CONFIG_FILE.open(\"r\", encoding=\"utf-8\") as f:\n    CONFIG = json.load(f)\nBATCH_SIZE = int(CONFIG.get(\"batch_size\", 64))\nIO_WORKERS = max(1, int(CONFIG.get(\"image_io_workers\", 8)))\n_MODELS = []\n_THRESHOLDS = []\n_DEVICE = None",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_FILE",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "MODEL_FILE = ASSETS / \"model.pt\"\nCONFIG_FILE = ASSETS / \"config.json\"\nwith CONFIG_FILE.open(\"r\", encoding=\"utf-8\") as f:\n    CONFIG = json.load(f)\nBATCH_SIZE = int(CONFIG.get(\"batch_size\", 64))\nIO_WORKERS = max(1, int(CONFIG.get(\"image_io_workers\", 8)))\n_MODELS = []\n_THRESHOLDS = []\n_DEVICE = None\n_TRANSFORM = None",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_FILE",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "CONFIG_FILE = ASSETS / \"config.json\"\nwith CONFIG_FILE.open(\"r\", encoding=\"utf-8\") as f:\n    CONFIG = json.load(f)\nBATCH_SIZE = int(CONFIG.get(\"batch_size\", 64))\nIO_WORKERS = max(1, int(CONFIG.get(\"image_io_workers\", 8)))\n_MODELS = []\n_THRESHOLDS = []\n_DEVICE = None\n_TRANSFORM = None\n_ATTRIBUTE_NAMES = None",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "BATCH_SIZE = int(CONFIG.get(\"batch_size\", 64))\nIO_WORKERS = max(1, int(CONFIG.get(\"image_io_workers\", 8)))\n_MODELS = []\n_THRESHOLDS = []\n_DEVICE = None\n_TRANSFORM = None\n_ATTRIBUTE_NAMES = None\n_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "IO_WORKERS",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "IO_WORKERS = max(1, int(CONFIG.get(\"image_io_workers\", 8)))\n_MODELS = []\n_THRESHOLDS = []\n_DEVICE = None\n_TRANSFORM = None\n_ATTRIBUTE_NAMES = None\n_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None\n_COUNT = 0",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_MODELS",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_MODELS = []\n_THRESHOLDS = []\n_DEVICE = None\n_TRANSFORM = None\n_ATTRIBUTE_NAMES = None\n_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None\n_COUNT = 0\ndef _sha256(path):",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_THRESHOLDS",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_THRESHOLDS = []\n_DEVICE = None\n_TRANSFORM = None\n_ATTRIBUTE_NAMES = None\n_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None\n_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_DEVICE",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_DEVICE = None\n_TRANSFORM = None\n_ATTRIBUTE_NAMES = None\n_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None\n_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_TRANSFORM",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_TRANSFORM = None\n_ATTRIBUTE_NAMES = None\n_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None\n_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_ATTRIBUTE_NAMES",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_ATTRIBUTE_NAMES = None\n_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None\n_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:\n            b = f.read(8 * 1024 * 1024)",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_ATTRIBUTE_INDEX",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_ATTRIBUTE_INDEX = None\n_POOL = None\n_START = None\n_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:\n            b = f.read(8 * 1024 * 1024)\n            if not b:",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_POOL",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_POOL = None\n_START = None\n_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:\n            b = f.read(8 * 1024 * 1024)\n            if not b:\n                break",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_START",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_START = None\n_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:\n            b = f.read(8 * 1024 * 1024)\n            if not b:\n                break\n            h.update(b)",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "_COUNT",
+        "kind": 5,
+        "importPath": "export_fast_student_dg_submission",
+        "description": "export_fast_student_dg_submission",
+        "peekOfCode": "_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:\n            b = f.read(8 * 1024 * 1024)\n            if not b:\n                break\n            h.update(b)\n    return h.hexdigest()",
+        "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class ImageResolver:\n    def __init__(self, data_root: str | Path, repo_root: str | Path):\n        self.data_root = Path(data_root)\n        self.repo_root = Path(repo_root)\n        self._index = None\n    def _build_index(self):\n        if self._index is not None:\n            return\n        self._index = {}\n        for p in self.data_root.rglob(\"*\"):",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "UPARFastDataset",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class UPARFastDataset(Dataset):\n    def __init__(self, dataframe, resolver: ImageResolver, transform):\n        self.df = dataframe.reset_index(drop=True).copy()\n        self.image_col = detect_image_column(self.df)\n        self.resolver = resolver\n        self.transform = transform\n        self.paths = self.df[self.image_col].astype(str).tolist()\n        self.targets = self.df[ATTRIBUTE_NAMES].to_numpy(dtype=np.float32)\n        self.domains = np.asarray([infer_domain_id(p) for p in self.paths], dtype=np.int64)\n    def __len__(self):",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "MixStyle",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class MixStyle(nn.Module):\n    \"\"\"Feature-statistics mixing for source-domain generalization.\"\"\"\n    def __init__(self, p: float = 0.5, alpha: float = 0.1, eps: float = 1e-6):\n        super().__init__()\n        self.p = float(p)\n        self.alpha = float(alpha)\n        self.eps = float(eps)\n    def forward(self, x):\n        if not self.training or self.p <= 0 or torch.rand(1, device=x.device).item() > self.p:\n            return x",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "EfficientNetB0DG",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class EfficientNetB0DG(nn.Module):\n    def __init__(self, num_attributes: int = NUM_ATTRIBUTES, pretrained: bool = True):\n        super().__init__()\n        weights = EfficientNet_B0_Weights.DEFAULT if pretrained else None\n        try:\n            base = efficientnet_b0(weights=weights)\n        except Exception:\n            base = efficientnet_b0(weights=None)\n        self.features = base.features\n        self.avgpool = base.avgpool",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "_GradientReverse",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class _GradientReverse(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, lambd):\n        ctx.lambd = float(lambd)\n        return x.view_as(x)\n    @staticmethod\n    def backward(ctx, grad_output):\n        return -ctx.lambd * grad_output, None\ndef grad_reverse(x, lambd: float = 1.0):\n    return _GradientReverse.apply(x, lambd)",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedAsymmetricLoss",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class MaskedAsymmetricLoss(nn.Module):\n    \"\"\"\n    ASL-style multi-label loss. Unlike large BCE pos_weight, this does not\n    aggressively push rare labels positive, which helps precision under shift.\n    \"\"\"\n    def __init__(self, gamma_neg: float = 4.0, gamma_pos: float = 1.0, clip: float = 0.05, eps: float = 1e-8):\n        super().__init__()\n        self.gamma_neg = float(gamma_neg)\n        self.gamma_pos = float(gamma_pos)\n        self.clip = float(clip)",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class ModelEMA:\n    def __init__(self, model: nn.Module, decay: float = 0.9995):\n        self.module = copy.deepcopy(model).eval()\n        self.decay = float(decay)\n        for p in self.module.parameters():\n            p.requires_grad_(False)\n    @torch.no_grad()\n    def update(self, model: nn.Module):\n        ema_state = self.module.state_dict()\n        model_state = model.state_dict()",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "kind": 6,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "class TrainConfig:\n    image_height: int = 256\n    image_width: int = 128\n    batch_size: int = 128\n    eval_batch_size: int = 256\n    epochs: int = 8\n    lr: float = 2e-4\n    weight_decay: float = 2e-4\n    domain_loss_weight: float = 0.08\n    grl_lambda: float = 0.35",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\ndef infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()\n    if \"market1501\" in s or \"/market\" in s:\n        return 0",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "infer_domain_id",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()\n    if \"market1501\" in s or \"/market\" in s:\n        return 0\n    if \"pa100k\" in s or \"pa-100k\" in s:\n        return 1\n    if \"peta\" in s:\n        return 2\n    return -1\ndef detect_image_column(df):",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "detect_image_column",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def detect_image_column(df):\n    for candidate in (\"# image\", \"image\", \"image_path\", \"path\", \"filename\"):\n        if candidate in df.columns:\n            return candidate\n    for col in df.columns:\n        values = df[col].astype(str).head(100).str.lower()\n        if values.str.endswith((\".jpg\", \".jpeg\", \".png\", \".bmp\")).any():\n            return col\n    raise RuntimeError(\"Cannot detect image path column\")\nclass ImageResolver:",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def build_train_transform(height: int = 256, width: int = 128):\n    return transforms.Compose([\n        transforms.RandomResizedCrop(\n            (height, width),\n            scale=(0.72, 1.0),\n            ratio=(0.38, 0.58),\n            interpolation=transforms.InterpolationMode.BILINEAR,\n        ),\n        transforms.RandomHorizontalFlip(p=0.5),\n        transforms.RandomApply([",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def build_eval_transform(height: int = 256, width: int = 128):\n    return transforms.Compose([\n        transforms.Resize(\n            (height, width),\n            interpolation=transforms.InterpolationMode.BILINEAR,\n        ),\n        transforms.ToTensor(),\n        transforms.Normalize(\n            mean=[0.485, 0.456, 0.406],\n            std=[0.229, 0.224, 0.225],",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "make_domain_balanced_sampler",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def make_domain_balanced_sampler(domains: np.ndarray, seed: int = 42):\n    domains = np.asarray(domains, dtype=np.int64)\n    known = domains >= 0\n    counts = {d: int((domains == d).sum()) for d in sorted(set(domains[known].tolist()))}\n    weights = np.ones(len(domains), dtype=np.float64)\n    for d, count in counts.items():\n        if count > 0:\n            weights[domains == d] = 1.0 / count\n    if (~known).any():\n        weights[~known] = 1.0 / max(int((~known).sum()), 1)",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "grad_reverse",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def grad_reverse(x, lambd: float = 1.0):\n    return _GradientReverse.apply(x, lambd)\nclass MaskedAsymmetricLoss(nn.Module):\n    \"\"\"\n    ASL-style multi-label loss. Unlike large BCE pos_weight, this does not\n    aggressively push rare labels positive, which helps precision under shift.\n    \"\"\"\n    def __init__(self, gamma_neg: float = 4.0, gamma_pos: float = 1.0, clip: float = 0.05, eps: float = 1e-8):\n        super().__init__()\n        self.gamma_neg = float(gamma_neg)",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "domain_loss",
+        "kind": 2,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "def domain_loss(domain_logits, domains):\n    domains = domains.long()\n    valid = domains >= 0\n    if valid.sum() == 0:\n        return domain_logits.sum() * 0.0\n    return F.cross_entropy(domain_logits[valid], domains[valid])",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "kind": 5,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "ATTRIBUTE_NAMES = [\n    \"Age-Young\",\"Age-Adult\",\"Age-Old\",\"Gender-Female\",\n    \"Hair-Length-Short\",\"Hair-Length-Long\",\"Hair-Length-Bald\",\n    \"UpperBody-Length-Short\",\n    \"UpperBody-Color-Black\",\"UpperBody-Color-Blue\",\"UpperBody-Color-Brown\",\n    \"UpperBody-Color-Green\",\"UpperBody-Color-Grey\",\"UpperBody-Color-Orange\",\n    \"UpperBody-Color-Pink\",\"UpperBody-Color-Purple\",\"UpperBody-Color-Red\",\n    \"UpperBody-Color-White\",\"UpperBody-Color-Yellow\",\"UpperBody-Color-Other\",\n    \"LowerBody-Length-Short\",\n    \"LowerBody-Color-Black\",\"LowerBody-Color-Blue\",\"LowerBody-Color-Brown\",",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_ATTRIBUTES",
+        "kind": 5,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "NUM_ATTRIBUTES = len(ATTRIBUTE_NAMES)\nDOMAIN_NAMES = [\"Market1501\", \"PA100k\", \"PETA\"]\nDOMAIN_TO_ID = {name: idx for idx, name in enumerate(DOMAIN_NAMES)}\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\ndef infer_domain_id(path: str) -> int:",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "kind": 5,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "DOMAIN_NAMES = [\"Market1501\", \"PA100k\", \"PETA\"]\nDOMAIN_TO_ID = {name: idx for idx, name in enumerate(DOMAIN_NAMES)}\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\ndef infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_TO_ID",
+        "kind": 5,
+        "importPath": "fast_student_dg",
+        "description": "fast_student_dg",
+        "peekOfCode": "DOMAIN_TO_ID = {name: idx for idx, name in enumerate(DOMAIN_NAMES)}\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\ndef infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()\n    if \"market1501\" in s or \"/market\" in s:",
+        "detail": "fast_student_dg",
+        "documentation": {}
+    },
+    {
         "label": "parse_args",
         "kind": 2,
         "importPath": "infer_submit",
@@ -1259,6 +2029,51 @@
         "description": "train_colab",
         "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--epochs\", type=int, default=25)\n    p.add_argument(\"--batch-size\", type=int, default=12)\n    p.add_argument(\"--eval-batch-size\", type=int, default=24)\n    p.add_argument(\"--num-workers\", type=int, default=2)\n    p.add_argument(\"--save-every-steps\", type=int, default=100)\n    p.add_argument(\"--log-every-steps\", type=int, default=50)\n    p.add_argument(\"--max-train-samples\", type=int, default=0)\n    p.add_argument(\"--max-val-samples\", type=int, default=0)",
         "detail": "train_colab",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "train_fast_student_dg",
+        "description": "train_fast_student_dg",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--repo-root\", default=\"/content/UPAR-Challenge-2027\")\n    p.add_argument(\"--checkpoint-dir\", default=\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\")\n    p.add_argument(\"--seed\", type=int, default=42)\n    p.add_argument(\"--epochs\", type=int, default=8)\n    p.add_argument(\"--batch-size\", type=int, default=128)\n    p.add_argument(\"--eval-batch-size\", type=int, default=256)\n    p.add_argument(\"--num-workers\", type=int, default=2)\n    p.add_argument(\"--lr\", type=float, default=2e-4)",
+        "detail": "train_fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "load_init_weights",
+        "kind": 2,
+        "importPath": "train_fast_student_dg",
+        "description": "train_fast_student_dg",
+        "peekOfCode": "def load_init_weights(model, path: Path):\n    if not path.exists():\n        return False\n    obj = torch.load(path, map_location=\"cpu\", weights_only=False)\n    state = obj.get(\"model_state\") or obj.get(\"model\") or obj.get(\"state_dict\") or obj.get(\"model_state_dict\")\n    if not isinstance(state, dict):\n        return False\n    # Old fast student = torchvision EfficientNet state_dict. Convert to DG wrapper.\n    if \"features.0.0.weight\" in state and \"classifier.1.weight\" in state:\n        converted = {}",
+        "detail": "train_fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "kind": 2,
+        "importPath": "train_fast_student_dg",
+        "description": "train_fast_student_dg",
+        "peekOfCode": "def evaluate(model, loader, device):\n    model.eval()\n    all_probs, all_targets, all_domains = [], [], []\n    for batch in tqdm(loader, desc=\"Validation\", leave=False):\n        images = batch[\"image\"].to(device, non_blocking=True)\n        with torch.autocast(\n            device_type=device.type,\n            dtype=torch.float16,\n            enabled=(device.type == \"cuda\"),\n        ):",
+        "detail": "train_fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_report",
+        "kind": 2,
+        "importPath": "train_fast_student_dg",
+        "description": "train_fast_student_dg",
+        "peekOfCode": "def metrics_report(targets, probs, domains, thresholds=0.5):\n    overall = evaluate_probs(targets, probs, thresholds)\n    per_domain = {}\n    for d in sorted(set(int(x) for x in domains.tolist() if int(x) >= 0)):\n        mask = domains == d\n        per_domain[DOMAIN_NAMES[d]] = evaluate_probs(targets[mask], probs[mask], thresholds)\n    robust, _, _ = robust_selection_score(targets, probs, thresholds, domains=domains)\n    return overall, per_domain, robust\ndef main():\n    args = parse_args()",
+        "detail": "train_fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_fast_student_dg",
+        "description": "train_fast_student_dg",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    repo_root = Path(args.repo_root)\n    data_root = repo_root / \"data\"\n    train_csv = data_root / \"annotations\" / \"task1\" / \"train\" / \"gt.csv\"\n    val_csv = data_root / \"annotations\" / \"task1\" / \"val\" / \"gt.csv\"\n    ckpt_dir = Path(args.checkpoint_dir)\n    ckpt_dir.mkdir(parents=True, exist_ok=True)\n    if not train_csv.exists() or not val_csv.exists():",
+        "detail": "train_fast_student_dg",
         "documentation": {}
     }
 ]
