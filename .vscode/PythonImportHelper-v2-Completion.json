@@ -56,6 +56,62 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -71,6 +127,78 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -278,6 +406,46 @@
         "documentation": {}
     },
     {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
         "label": "Siglip2ImageProcessor",
         "importPath": "transformers",
         "description": "transformers",
@@ -438,6 +606,22 @@
         "documentation": {}
     },
     {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
         "label": "math",
         "kind": 6,
         "isExtraImport": true,
@@ -504,11 +688,99 @@
         "documentation": {}
     },
     {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "WeightedRandomSampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "WeightedRandomSampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "DataLoader",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
         "isExtraImport": true,
         "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
         "documentation": {}
     },
     {
@@ -542,6 +814,30 @@
         "importPath": "os.",
         "description": "os.",
         "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
         "documentation": {}
     },
     {
@@ -624,6 +920,160 @@
         "description": "vapor_par.inference",
         "isExtraImport": true,
         "detail": "vapor_par.inference",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt_Tiny_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_small",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt_Small_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "efficientnet_b0",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_small",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "swin_v2_t",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "efficientnet_b0",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "EfficientNet_B0_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt_Tiny_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_small",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt_Small_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "swin_v2_t",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "Swin_V2_T_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "textwrap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "textwrap",
+        "description": "textwrap",
+        "detail": "textwrap",
         "documentation": {}
     },
     {
@@ -774,30 +1224,6 @@
         "documentation": {}
     },
     {
-        "label": "efficientnet_b0",
-        "importPath": "torchvision.models",
-        "description": "torchvision.models",
-        "isExtraImport": true,
-        "detail": "torchvision.models",
-        "documentation": {}
-    },
-    {
-        "label": "efficientnet_b0",
-        "importPath": "torchvision.models",
-        "description": "torchvision.models",
-        "isExtraImport": true,
-        "detail": "torchvision.models",
-        "documentation": {}
-    },
-    {
-        "label": "EfficientNet_B0_Weights",
-        "importPath": "torchvision.models",
-        "description": "torchvision.models",
-        "isExtraImport": true,
-        "detail": "torchvision.models",
-        "documentation": {}
-    },
-    {
         "label": "Iterable",
         "importPath": "typing",
         "description": "typing",
@@ -811,15 +1237,6 @@
         "description": "typing",
         "isExtraImport": true,
         "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "copy",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "copy",
-        "description": "copy",
-        "detail": "copy",
         "documentation": {}
     },
     {
@@ -847,6 +1264,158 @@
         "documentation": {}
     },
     {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXtPAR",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedAsymmetricLoss",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "confidence_distillation_loss",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "domain_loss",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "exclusivity_regularizer",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "feature_distillation_loss",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_domain_balanced_sampler",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "isExtraImport": true,
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
         "label": "evaluate_probs",
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
@@ -868,6 +1437,167 @@
         "description": "vapor_par.metrics",
         "isExtraImport": true,
         "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedBalancedBCE",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "average_state_dicts",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_pos_weight",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "load_legacy_teacher",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_tempered_domain_sampler",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "response_kd_loss",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
         "documentation": {}
     },
     {
@@ -1460,7 +2190,7 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def mean_accuracy(y_true, y_pred) -> float:\n    \"\"\"UPAR label-based mean accuracy, ignoring unknown labels.\"\"\"\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        valid = (y_true[:, c] == 0) | (y_true[:, c] == 1)\n        yt = y_true[valid, c]\n        yp = y_pred[valid, c]\n        pos = yt == 1",
+        "peekOfCode": "def mean_accuracy(y_true, y_pred) -> float:\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        valid = (y_true[:, c] == 0) | (y_true[:, c] == 1)\n        yt = y_true[valid, c]\n        yp = y_pred[valid, c]\n        if yt.size == 0:\n            continue",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1469,7 +2199,7 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def label_f1(y_true, y_pred) -> float:\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        valid = (y_true[:, c] == 0) | (y_true[:, c] == 1)\n        yt = y_true[valid, c]\n        yp = y_pred[valid, c]\n        if len(yt) == 0:\n            continue",
+        "peekOfCode": "def label_f1(y_true, y_pred) -> float:\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    vals = []\n    for c in range(y_true.shape[1]):\n        valid = (y_true[:, c] == 0) | (y_true[:, c] == 1)\n        yt = y_true[valid, c]\n        yp = y_pred[valid, c]\n        if yt.size == 0:\n            continue",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1478,7 +2208,7 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def instance_metrics(y_true, y_pred):\n    \"\"\"Mean instance accuracy/precision/recall/F1, matching the scorer layout.\"\"\"\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    accs, precs, recs, f1s = [], [], [], []\n    for i in range(y_true.shape[0]):\n        valid = (y_true[i] == 0) | (y_true[i] == 1)\n        yt = y_true[i, valid] == 1\n        yp = y_pred[i, valid] == 1\n        tp = np.logical_and(yt, yp).sum()",
+        "peekOfCode": "def instance_metrics(y_true, y_pred):\n    y_true = _np(y_true).astype(np.int32)\n    y_pred = _np(y_pred).astype(np.int32)\n    valid = (y_true == 0) | (y_true == 1)\n    yt = (y_true == 1) & valid\n    yp = (y_pred == 1) & valid\n    tp = np.logical_and(yt, yp).sum(axis=1).astype(np.float64)\n    fp = np.logical_and(~yt, yp).sum(axis=1).astype(np.float64)\n    fn = np.logical_and(yt, ~yp).sum(axis=1).astype(np.float64)\n    union = tp + fp + fn",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1487,7 +2217,7 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def harmonic_challenge_average(ma: float, instance_f1: float) -> float:\n    \"\"\"\n    UPAR-2027 Challenge_Avg inferred exactly from the official scorer output:\n        H(mA, Instance_F1) = 2*mA*Instance_F1/(mA+Instance_F1)\n    This reproduces 0.546626 from mA=0.669752 and Instance_F1=0.461740.\n    \"\"\"\n    ma = float(ma)\n    instance_f1 = float(instance_f1)\n    return float(2.0 * ma * instance_f1 / max(ma + instance_f1, EPS))\ndef evaluate_probs(y_true, probs, thresholds=0.5):",
+        "peekOfCode": "def harmonic_challenge_average(ma: float, instance_f1: float) -> float:\n    ma = float(ma)\n    instance_f1 = float(instance_f1)\n    return float(2.0 * ma * instance_f1 / max(ma + instance_f1, EPS))\ndef evaluate_probs(y_true, probs, thresholds=0.5):\n    y_true = _np(y_true).astype(np.int32)\n    probs = _np(probs).astype(np.float32)\n    th = _threshold_vector(thresholds, probs.shape[1])\n    pred = (probs >= th.reshape(1, -1)).astype(np.int32)\n    ma = mean_accuracy(y_true, pred)",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1496,7 +2226,7 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def evaluate_probs(y_true, probs, thresholds=0.5):\n    y_true = _np(y_true).astype(np.int32)\n    probs = _np(probs).astype(np.float32)\n    th = _threshold_vector(thresholds, probs.shape[1])\n    pred = (probs >= th.reshape(1, -1)).astype(np.int32)\n    ma = mean_accuracy(y_true, pred)\n    lf1 = label_f1(y_true, pred)\n    iacc, iprec, irec, if1 = instance_metrics(y_true, pred)\n    challenge = harmonic_challenge_average(ma, if1)\n    return {",
+        "peekOfCode": "def evaluate_probs(y_true, probs, thresholds=0.5):\n    y_true = _np(y_true).astype(np.int32)\n    probs = _np(probs).astype(np.float32)\n    th = _threshold_vector(thresholds, probs.shape[1])\n    pred = (probs >= th.reshape(1, -1)).astype(np.int32)\n    ma = mean_accuracy(y_true, pred)\n    lf1 = label_f1(y_true, pred)\n    iacc, iprec, irec, if1 = instance_metrics(y_true, pred)\n    score = harmonic_challenge_average(ma, if1)\n    return {",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1505,7 +2235,16 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def robust_selection_score(y_true, probs, thresholds, domains=None):\n    overall = evaluate_probs(y_true, probs, thresholds)\n    if domains is None:\n        return overall[\"Challenge_Avg\"], overall, {}\n    domains = np.asarray(domains)\n    per_domain = {}\n    domain_scores = []\n    for d in sorted(set(int(x) for x in domains.tolist() if int(x) >= 0)):\n        mask = domains == d\n        if mask.sum() == 0:",
+        "peekOfCode": "def robust_selection_score(y_true, probs, thresholds=0.5, domains=None):\n    overall = evaluate_probs(y_true, probs, thresholds)\n    if domains is None:\n        return overall[\"Challenge_Avg\"], overall, {}\n    domains = np.asarray(domains, dtype=np.int64)\n    per_domain = {}\n    vals = []\n    for d in sorted(set(int(x) for x in domains.tolist() if int(x) >= 0)):\n        mask = domains == d\n        if not mask.any():",
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "kind": 2,
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "peekOfCode": "def tune_lodo_thresholds(y_true, probs, domains, grid=None):\n    \"\"\"\n    Leave-one-domain-out threshold calibration for hidden-domain PAR.\n    The per-fold attribute thresholds are precomputed once, so this remains\n    practical on the 33k-image validation split.  The objective penalizes\n    recall-heavy operating points because the supplied hidden row had\n    precision far below recall (0.5633 vs 0.8022).\n    \"\"\"\n    y_true = _np(y_true).astype(np.int32)\n    probs = _np(probs).astype(np.float32)",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1514,7 +2253,7 @@
         "kind": 2,
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
-        "peekOfCode": "def tune_attribute_thresholds(y_true, probs, grid=None, domains=None):\n    \"\"\"\n    Domain-robust threshold calibration.\n    Old code independently optimized each attribute for mA, producing extreme\n    thresholds and high recall/low precision on the private domain. This version:\n      1) finds conservative per-attribute candidates;\n      2) shrinks them toward one global threshold;\n      3) selects the combination by official harmonic Challenge_Avg;\n      4) when domain IDs are supplied, includes the weakest source-domain score.\n    \"\"\"",
+        "peekOfCode": "def tune_attribute_thresholds(y_true, probs, grid=None, domains=None):\n    if domains is not None:\n        return tune_lodo_thresholds(y_true, probs, domains, grid=grid)[0]\n    return _attribute_ma_thresholds(y_true, probs, grid=grid)",
         "detail": "vapor_par.metrics",
         "documentation": {}
     },
@@ -1615,6 +2354,276 @@
         "description": "vapor_par.utils",
         "peekOfCode": "def get_amp_dtype():\n    if not torch.cuda.is_available():\n        return torch.float32\n    if torch.cuda.is_bf16_supported():\n        return torch.bfloat16\n    return torch.float16",
         "detail": "vapor_par.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class ImageResolver:\n    def __init__(self, data_root: str | Path, repo_root: str | Path):\n        self.data_root = Path(data_root)\n        self.repo_root = Path(repo_root)\n        self._index = None\n    def _build_index(self):\n        if self._index is not None:\n            return\n        self._index = {}\n        for p in self.data_root.rglob(\"*\"):",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class UPARDataset(Dataset):\n    def __init__(self, dataframe, resolver: ImageResolver, transform):\n        self.df = dataframe.reset_index(drop=True).copy()\n        self.image_col = detect_image_column(self.df)\n        self.paths = self.df[self.image_col].astype(str).tolist()\n        self.targets = self.df[ATTRIBUTE_NAMES].to_numpy(dtype=np.float32)\n        self.domains = np.asarray([infer_domain_id(p) for p in self.paths], dtype=np.int64)\n        self.resolver = resolver\n        self.transform = transform\n    def __len__(self):",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "MixStyle",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class MixStyle(nn.Module):\n    def __init__(self, p=0.35, alpha=0.1, eps=1e-6):\n        super().__init__()\n        self.p, self.alpha, self.eps = float(p), float(alpha), float(eps)\n    def forward(self, x):\n        if (not self.training) or x.ndim != 4 or x.size(0) < 2:\n            return x\n        if torch.rand((), device=x.device).item() > self.p:\n            return x\n        mu = x.mean((2,3), keepdim=True)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "_GRL",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class _GRL(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, lambd):\n        ctx.lambd = float(lambd)\n        return x.view_as(x)\n    @staticmethod\n    def backward(ctx, grad):\n        return -ctx.lambd * grad, None\ndef grad_reverse(x, lambd=1.0):\n    return _GRL.apply(x, lambd)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXtPAR",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class ConvNeXtPAR(nn.Module):\n    \"\"\"ConvNeXt PAR model. ConvNeXt uses LayerNorm rather than BatchNorm, useful under domain shift.\"\"\"\n    def __init__(self, backbone=\"tiny\", num_attributes=NUM_ATTRIBUTES, pretrained=True, mixstyle=True):\n        super().__init__()\n        if backbone == \"tiny\":\n            weights = ConvNeXt_Tiny_Weights.DEFAULT if pretrained else None\n            try:\n                base = convnext_tiny(weights=weights)\n            except Exception:\n                base = convnext_tiny(weights=None)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedAsymmetricLoss",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class MaskedAsymmetricLoss(nn.Module):\n    def __init__(self, gamma_neg=4.0, gamma_pos=1.0, clip=0.05, eps=1e-8):\n        super().__init__()\n        self.gamma_neg = gamma_neg\n        self.gamma_pos = gamma_pos\n        self.clip = clip\n        self.eps = eps\n    def forward(self, logits, targets, valid):\n        xs_pos = torch.sigmoid(logits)\n        xs_neg = 1.0 - xs_pos",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class ModelEMA:\n    def __init__(self, model: nn.Module, decay=0.9997):\n        self.decay = float(decay)\n        self.module = copy.deepcopy(model).eval()\n        for p in self.module.parameters():\n            p.requires_grad_(False)\n    @torch.no_grad()\n    def update(self, model: nn.Module):\n        ema = self.module.state_dict()\n        cur = model.state_dict()",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "kind": 6,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "class TrainConfig:\n    image_height: int = 288\n    image_width: int = 144\n    batch_size: int = 48\n    num_workers: int = 4\n    teacher_epochs: int = 8\n    student_epochs: int = 10\n    lr_teacher: float = 1.8e-4\n    lr_student: float = 2.2e-4\n    weight_decay: float = 0.04",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\ndef infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()\n    if \"market1501\" in s or \"/market\" in s:\n        return 0",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "infer_domain_id",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()\n    if \"market1501\" in s or \"/market\" in s:\n        return 0\n    if \"pa100k\" in s or \"pa-100k\" in s:\n        return 1\n    if \"peta\" in s:\n        return 2\n    return -1\ndef detect_image_column(df):",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "detect_image_column",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def detect_image_column(df):\n    for candidate in (\"# image\", \"image\", \"image_path\", \"path\", \"filename\"):\n        if candidate in df.columns:\n            return candidate\n    for col in df.columns:\n        vals = df[col].astype(str).head(100).str.lower()\n        if vals.str.endswith((\".jpg\", \".jpeg\", \".png\", \".bmp\")).any():\n            return col\n    raise RuntimeError(\"Cannot detect image path column\")\nclass ImageResolver:",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def build_train_transform(height=288, width=144):\n    return transforms.Compose([\n        transforms.RandomResizedCrop(\n            (height, width), scale=(0.74, 1.0), ratio=(0.40, 0.60),\n            interpolation=transforms.InterpolationMode.BICUBIC,\n        ),\n        transforms.RandomHorizontalFlip(0.5),\n        transforms.RandomApply([\n            transforms.ColorJitter(brightness=0.22, contrast=0.22, saturation=0.18, hue=0.04)\n        ], p=0.7),",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def build_eval_transform(height=288, width=144):\n    return transforms.Compose([\n        transforms.Resize((height, width), interpolation=transforms.InterpolationMode.BICUBIC),\n        transforms.ToTensor(),\n        transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n    ])\nclass UPARDataset(Dataset):\n    def __init__(self, dataframe, resolver: ImageResolver, transform):\n        self.df = dataframe.reset_index(drop=True).copy()\n        self.image_col = detect_image_column(self.df)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_domain_balanced_sampler",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def make_domain_balanced_sampler(domains: np.ndarray, seed=42):\n    domains = np.asarray(domains, dtype=np.int64)\n    weights = np.ones(len(domains), dtype=np.float64)\n    for d in sorted(set(int(x) for x in domains.tolist() if int(x) >= 0)):\n        n = int((domains == d).sum())\n        if n:\n            weights[domains == d] = 1.0 / n\n    gen = torch.Generator().manual_seed(int(seed))\n    return WeightedRandomSampler(torch.as_tensor(weights, dtype=torch.double), len(weights), True, generator=gen)\nclass MixStyle(nn.Module):",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "grad_reverse",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def grad_reverse(x, lambd=1.0):\n    return _GRL.apply(x, lambd)\nclass ConvNeXtPAR(nn.Module):\n    \"\"\"ConvNeXt PAR model. ConvNeXt uses LayerNorm rather than BatchNorm, useful under domain shift.\"\"\"\n    def __init__(self, backbone=\"tiny\", num_attributes=NUM_ATTRIBUTES, pretrained=True, mixstyle=True):\n        super().__init__()\n        if backbone == \"tiny\":\n            weights = ConvNeXt_Tiny_Weights.DEFAULT if pretrained else None\n            try:\n                base = convnext_tiny(weights=weights)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "domain_loss",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def domain_loss(logits, domains):\n    domains = domains.long()\n    valid = domains >= 0\n    if not valid.any():\n        return logits.sum() * 0.0\n    return F.cross_entropy(logits[valid], domains[valid])\ndef confidence_distillation_loss(student_logits, teacher_logits, valid, temperature=2.0, unknown_weight=0.15):\n    t = float(temperature)\n    teacher_prob = torch.sigmoid(teacher_logits.detach() / t)\n    bce = F.binary_cross_entropy_with_logits(student_logits / t, teacher_prob, reduction=\"none\") * (t*t)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "confidence_distillation_loss",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def confidence_distillation_loss(student_logits, teacher_logits, valid, temperature=2.0, unknown_weight=0.15):\n    t = float(temperature)\n    teacher_prob = torch.sigmoid(teacher_logits.detach() / t)\n    bce = F.binary_cross_entropy_with_logits(student_logits / t, teacher_prob, reduction=\"none\") * (t*t)\n    confidence = (2.0 * (teacher_prob - 0.5).abs()).pow(1.5).detach()\n    mask = valid + float(unknown_weight) * (1.0 - valid)\n    w = confidence * mask\n    return (bce * w).sum() / w.sum().clamp(min=1.0)\ndef feature_distillation_loss(student_feat, teacher_feat):\n    if student_feat.shape[1] != teacher_feat.shape[1]:",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "feature_distillation_loss",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def feature_distillation_loss(student_feat, teacher_feat):\n    if student_feat.shape[1] != teacher_feat.shape[1]:\n        # Tiny and Small currently share the same final width in torchvision,\n        # but keep a safe dimensional crop for forward compatibility.\n        d = min(student_feat.shape[1], teacher_feat.shape[1])\n        student_feat = student_feat[:, :d]\n        teacher_feat = teacher_feat[:, :d]\n    s = F.normalize(student_feat, dim=1)\n    t = F.normalize(teacher_feat.detach(), dim=1)\n    return (1.0 - (s*t).sum(dim=1)).mean()",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "exclusivity_regularizer",
+        "kind": 2,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "def exclusivity_regularizer(logits):\n    p = torch.sigmoid(logits)\n    vals = []\n    for g in ATTRIBUTE_GROUPS:\n        q = p[:, list(g)].sum(dim=1)\n        vals.append(((q - 1.0) ** 2).mean())\n    return torch.stack(vals).mean()\nclass ModelEMA:\n    def __init__(self, model: nn.Module, decay=0.9997):\n        self.decay = float(decay)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "kind": 5,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "ATTRIBUTE_NAMES = [\n    \"Age-Young\",\"Age-Adult\",\"Age-Old\",\"Gender-Female\",\n    \"Hair-Length-Short\",\"Hair-Length-Long\",\"Hair-Length-Bald\",\n    \"UpperBody-Length-Short\",\n    \"UpperBody-Color-Black\",\"UpperBody-Color-Blue\",\"UpperBody-Color-Brown\",\n    \"UpperBody-Color-Green\",\"UpperBody-Color-Grey\",\"UpperBody-Color-Orange\",\n    \"UpperBody-Color-Pink\",\"UpperBody-Color-Purple\",\"UpperBody-Color-Red\",\n    \"UpperBody-Color-White\",\"UpperBody-Color-Yellow\",\"UpperBody-Color-Other\",\n    \"LowerBody-Length-Short\",\n    \"LowerBody-Color-Black\",\"LowerBody-Color-Blue\",\"LowerBody-Color-Brown\",",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_ATTRIBUTES",
+        "kind": 5,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "NUM_ATTRIBUTES = len(ATTRIBUTE_NAMES)\nDOMAIN_NAMES = [\"Market1501\", \"PA100k\", \"PETA\"]\n# Low-weight structural prior. These groups are mostly mutually exclusive in UPAR.\nATTRIBUTE_GROUPS = [\n    (0, 1, 2),       # age\n    (4, 5, 6),       # hair length/state\n    tuple(range(8, 20)),   # upper-body color\n    tuple(range(21, 33)),  # lower-body color\n    (33, 34),        # lower-body type\n]",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "kind": 5,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "DOMAIN_NAMES = [\"Market1501\", \"PA100k\", \"PETA\"]\n# Low-weight structural prior. These groups are mostly mutually exclusive in UPAR.\nATTRIBUTE_GROUPS = [\n    (0, 1, 2),       # age\n    (4, 5, 6),       # hair length/state\n    tuple(range(8, 20)),   # upper-body color\n    tuple(range(21, 33)),  # lower-body color\n    (33, 34),        # lower-body type\n]\ndef seed_everything(seed: int) -> None:",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_GROUPS",
+        "kind": 5,
+        "importPath": "distill_par",
+        "description": "distill_par",
+        "peekOfCode": "ATTRIBUTE_GROUPS = [\n    (0, 1, 2),       # age\n    (4, 5, 6),       # hair length/state\n    tuple(range(8, 20)),   # upper-body color\n    tuple(range(21, 33)),  # lower-body color\n    (33, 34),        # lower-body type\n]\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)",
+        "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "export_distill_submission",
+        "description": "export_distill_submission",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self):\n        super().__init__()\n        b=convnext_tiny(weights=None)\n        self.features=b.features; self.avgpool=b.avgpool; self.norm=b.classifier[0]\n        self.dropout=nn.Identity(); self.attr_head=nn.Linear(b.classifier[2].in_features,40)\n    def forward(self,x):\n        x=self.features(x); x=self.avgpool(x); x=self.norm(x); x=torch.flatten(x,1)\n        return self.attr_head(x)\nMODELS=[]; TH=[]",
+        "detail": "export_distill_submission",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "export_distill_submission",
+        "description": "export_distill_submission",
+        "peekOfCode": "def parse_args():\n    p=argparse.ArgumentParser()\n    p.add_argument(\"--official-root\",type=Path,default=Path(\"/content/UPAR-Challenge-2027\"))\n    p.add_argument(\"--checkpoint-dir\",type=Path,default=Path(\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\"))\n    p.add_argument(\"--result-dir\",type=Path,default=Path(\"/content/drive/MyDrive/PedestrianAttributeRecognition/Results\"))\n    p.add_argument(\"--seeds\",default=\"42,123\")\n    p.add_argument(\"--tta\",action=\"store_true\")\n    p.add_argument(\"--batch-size\",type=int,default=48)\n    return p.parse_args()\ndef sha256(p):",
+        "detail": "export_distill_submission",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_distill_submission",
+        "description": "export_distill_submission",
+        "peekOfCode": "def sha256(p):\n    h=hashlib.sha256()\n    with open(p,\"rb\") as f:\n        for b in iter(lambda:f.read(8*1024*1024),b\"\"): h.update(b)\n    return h.hexdigest()\ndef main():\n    args=parse_args(); args.result_dir.mkdir(parents=True,exist_ok=True)\n    out=Path(\"/content/submission_distill_convnext\")\n    if out.exists(): shutil.rmtree(out)\n    (out/\"assets\").mkdir(parents=True)",
+        "detail": "export_distill_submission",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_distill_submission",
+        "description": "export_distill_submission",
+        "peekOfCode": "def main():\n    args=parse_args(); args.result_dir.mkdir(parents=True,exist_ok=True)\n    out=Path(\"/content/submission_distill_convnext\")\n    if out.exists(): shutil.rmtree(out)\n    (out/\"assets\").mkdir(parents=True)\n    members=[]\n    for seed in [int(x) for x in args.seeds.split(\",\") if x.strip()]:\n        p=args.checkpoint_dir/f\"distill_student_convnext_tiny_seed{seed}_best.pt\"\n        if not p.exists():\n            print(\"Skipping missing checkpoint:\",p); continue",
+        "detail": "export_distill_submission",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "export_distill_submission",
+        "description": "export_distill_submission",
+        "peekOfCode": "def predict_batch(samples:list[dict])->list[list[float]]:\n    out=[]\n    for st in range(0,len(samples),BATCH_SIZE):\n        chunk=samples[st:st+BATCH_SIZE]\n        x=torch.stack([_load(s) for s in chunk]).to(DEVICE,non_blocking=True)\n        p=_predict(x).float().cpu().numpy()\n        for s,row in zip(chunk,p): out.append(_reorder(row.tolist(),_requested(s)))\n    return out\ndef predict_image(sample:dict)->list[float]:\n    return predict_batch([sample])[0]",
+        "detail": "export_distill_submission",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "export_distill_submission",
+        "description": "export_distill_submission",
+        "peekOfCode": "def predict_image(sample:dict)->list[float]:\n    return predict_batch([sample])[0]\ndef load_model():\n    return None\n'''\n    (out/\"run.py\").write_text(run_py,encoding=\"utf-8\")\n    final=args.result_dir/\"Submission_DISTILL_CONVNEXT.zip\"\n    if final.exists(): final.unlink()\n    with zipfile.ZipFile(final,\"w\",zipfile.ZIP_DEFLATED) as z:\n        for p in out.rglob(\"*\"):",
+        "detail": "export_distill_submission",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "export_distill_submission",
+        "description": "export_distill_submission",
+        "peekOfCode": "def load_model():\n    return None\n'''\n    (out/\"run.py\").write_text(run_py,encoding=\"utf-8\")\n    final=args.result_dir/\"Submission_DISTILL_CONVNEXT.zip\"\n    if final.exists(): final.unlink()\n    with zipfile.ZipFile(final,\"w\",zipfile.ZIP_DEFLATED) as z:\n        for p in out.rglob(\"*\"):\n            if p.is_file() and \"__pycache__\" not in p.parts and p.suffix not in {\".pyc\",\".pyo\"}:\n                z.write(p,p.relative_to(out))",
+        "detail": "export_distill_submission",
         "documentation": {}
     },
     {
@@ -1825,6 +2834,258 @@
         "documentation": {}
     },
     {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "export_legacy_teacher_tta",
+        "description": "export_legacy_teacher_tta",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self):\n        super().__init__()\n        b=convnext_small(weights=None)\n        self.features=b.features\n        self.avgpool=b.avgpool\n        self.norm=b.classifier[0]\n        self.dropout=nn.Dropout(0.30)\n        self.attr_head=nn.Linear(b.classifier[2].in_features,40)\n    def forward(self,x):",
+        "detail": "export_legacy_teacher_tta",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "export_legacy_teacher_tta",
+        "description": "export_legacy_teacher_tta",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--official-root\", type=Path, default=Path(\"/content/UPAR-Challenge-2027\")\n    )\n    p.add_argument(\n        \"--teacher-checkpoint\",\n        type=Path,\n        default=Path(\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints/distill_teacher_convnext_small_seed42_best.pt\"),\n    )",
+        "detail": "export_legacy_teacher_tta",
+        "documentation": {}
+    },
+    {
+        "label": "half_state",
+        "kind": 2,
+        "importPath": "export_legacy_teacher_tta",
+        "description": "export_legacy_teacher_tta",
+        "peekOfCode": "def half_state(state):\n    out = {}\n    for k, v in state.items():\n        if not k.startswith((\"features.\", \"avgpool.\", \"norm.\", \"attr_head.\")):\n            continue\n        t = v.detach().cpu()\n        if torch.is_floating_point(t):\n            t = t.half()\n        out[k] = t\n    return out",
+        "detail": "export_legacy_teacher_tta",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_legacy_teacher_tta",
+        "description": "export_legacy_teacher_tta",
+        "peekOfCode": "def main():\n    args = parse_args()\n    if not args.teacher_checkpoint.exists():\n        raise FileNotFoundError(args.teacher_checkpoint)\n    args.result_dir.mkdir(parents=True, exist_ok=True)\n    ck = torch.load(args.teacher_checkpoint, map_location=\"cpu\", weights_only=False)\n    state = ck.get(\"inference_model_state\") or ck.get(\"ema_model_state\")\n    thresholds = ck.get(\"thresholds\")\n    attrs = ck.get(\"attribute_names\")\n    if state is None or thresholds is None or attrs is None:",
+        "detail": "export_legacy_teacher_tta",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "export_legacy_teacher_tta",
+        "description": "export_legacy_teacher_tta",
+        "peekOfCode": "def predict_batch(samples):\n    out=[]\n    for st in range(0,len(samples),BATCH_SIZE):\n        chunk=samples[st:st+BATCH_SIZE]\n        x=torch.stack([_load(s) for s in chunk]).to(DEVICE,non_blocking=True)\n        p=_predict(x).cpu().numpy()\n        for s,row in zip(chunk,p):\n            out.append(_reorder(row.tolist(),_requested(s)))\n    return out\ndef predict_image(sample): return predict_batch([sample])[0]",
+        "detail": "export_legacy_teacher_tta",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "export_legacy_teacher_tta",
+        "description": "export_legacy_teacher_tta",
+        "peekOfCode": "def predict_image(sample): return predict_batch([sample])[0]\ndef load_model(): return None\n'''\n    (out / \"run.py\").write_text(run_py, encoding=\"utf-8\")\n    final = args.result_dir / args.output_name\n    if final.exists():\n        final.unlink()\n    with zipfile.ZipFile(final, \"w\", zipfile.ZIP_DEFLATED) as z:\n        for p in out.rglob(\"*\"):\n            if p.is_file() and \"__pycache__\" not in p.parts and p.suffix not in {\".pyc\",\".pyo\"}:",
+        "detail": "export_legacy_teacher_tta",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "export_legacy_teacher_tta",
+        "description": "export_legacy_teacher_tta",
+        "peekOfCode": "def load_model(): return None\n'''\n    (out / \"run.py\").write_text(run_py, encoding=\"utf-8\")\n    final = args.result_dir / args.output_name\n    if final.exists():\n        final.unlink()\n    with zipfile.ZipFile(final, \"w\", zipfile.ZIP_DEFLATED) as z:\n        for p in out.rglob(\"*\"):\n            if p.is_file() and \"__pycache__\" not in p.parts and p.suffix not in {\".pyc\",\".pyo\"}:\n                z.write(p, p.relative_to(out))",
+        "detail": "export_legacy_teacher_tta",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "kind": 6,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "class StrongPARModel(nn.Module):\n    def __init__(self, backbone):\n        super().__init__()\n        self.backbone_name = backbone\n        if backbone == \"convnext_tiny\":\n            base = convnext_tiny(weights=None)\n            d = int(base.classifier[2].in_features)\n            base.classifier[2] = nn.Sequential(\n                nn.Dropout(0.22),\n                nn.Linear(d, 40),",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--official-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def sha256(path: Path):\n    h = hashlib.sha256()\n    with path.open(\"rb\") as f:\n        while True:\n            b = f.read(1024 * 1024)\n            if not b:\n                break\n            h.update(b)\n    return h.hexdigest()\ndef half_state_dict(state):",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "half_state_dict",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def half_state_dict(state):\n    out = {}\n    for k, v in state.items():\n        t = v.detach().cpu()\n        if torch.is_floating_point(t):\n            t = t.half()\n        out[k] = t\n    return out\ndef parse_members(spec: str):\n    items = []",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "parse_members",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def parse_members(spec: str):\n    items = []\n    for chunk in spec.split(\",\"):\n        chunk = chunk.strip()\n        if not chunk:\n            continue\n        backbone, seed = chunk.split(\":\")\n        items.append((backbone.strip(), int(seed)))\n    if not items:\n        raise ValueError(\"No ensemble members specified\")",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def main():\n    args = parse_args()\n    args.result_dir.mkdir(parents=True, exist_ok=True)\n    out = Path(\"/content/submission_strong_tta\")\n    if out.exists():\n        shutil.rmtree(out)\n    (out / \"assets\").mkdir(parents=True)\n    members = []\n    attrs = None\n    image_height = 288",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def predict_batch(samples: list[dict]) -> list[list[float]]:\n    out = []\n    for st in range(0, len(samples), BATCH_SIZE):\n        chunk = samples[st:st+BATCH_SIZE]\n        x = torch.stack([_load(s) for s in chunk]).to(\n            DEVICE,\n            non_blocking=True,\n        )\n        p = _predict(x).cpu().numpy()\n        for sample, row in zip(chunk, p):",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def predict_image(sample: dict) -> list[float]:\n    return predict_batch([sample])[0]\ndef load_model():\n    return None\n'''\n    (out / \"run.py\").write_text(run_py, encoding=\"utf-8\")\n    final = args.result_dir / args.output_name\n    if final.exists():\n        final.unlink()\n    with zipfile.ZipFile(final, \"w\", zipfile.ZIP_DEFLATED) as z:",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "def load_model():\n    return None\n'''\n    (out / \"run.py\").write_text(run_py, encoding=\"utf-8\")\n    final = args.result_dir / args.output_name\n    if final.exists():\n        final.unlink()\n    with zipfile.ZipFile(final, \"w\", zipfile.ZIP_DEFLATED) as z:\n        for p in out.rglob(\"*\"):\n            if (",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nPKG = torch.load(ROOT / \"assets\" / \"model.pt\", map_location=\"cpu\", weights_only=False)\nDEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nH = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(os.environ.get(\"UPAR_BATCH_SIZE\", \"40\"))\nATTRS = PKG[\"attribute_names\"]\nTTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "PKG",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "PKG = torch.load(ROOT / \"assets\" / \"model.pt\", map_location=\"cpu\", weights_only=False)\nDEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nH = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(os.environ.get(\"UPAR_BATCH_SIZE\", \"40\"))\nATTRS = PKG[\"attribute_names\"]\nTTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "DEVICE",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "DEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nH = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(os.environ.get(\"UPAR_BATCH_SIZE\", \"40\"))\nATTRS = PKG[\"attribute_names\"]\nTTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "H",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "H = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(os.environ.get(\"UPAR_BATCH_SIZE\", \"40\"))\nATTRS = PKG[\"attribute_names\"]\nTTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),\n    transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "W",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "W = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(os.environ.get(\"UPAR_BATCH_SIZE\", \"40\"))\nATTRS = PKG[\"attribute_names\"]\nTTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),\n    transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n])",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "BATCH_SIZE = int(os.environ.get(\"UPAR_BATCH_SIZE\", \"40\"))\nATTRS = PKG[\"attribute_names\"]\nTTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),\n    transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n])\nclass StrongPARModel(nn.Module):",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRS",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "ATTRS = PKG[\"attribute_names\"]\nTTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),\n    transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n])\nclass StrongPARModel(nn.Module):\n    def __init__(self, backbone):",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "TTA",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "TTA = str(PKG.get(\"tta\", \"flip\"))\nCAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),\n    transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n])\nclass StrongPARModel(nn.Module):\n    def __init__(self, backbone):\n        super().__init__()",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "CAL_BIAS",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "CAL_BIAS = float(PKG.get(\"calibration_bias\", 0.0))\nTFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),\n    transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n])\nclass StrongPARModel(nn.Module):\n    def __init__(self, backbone):\n        super().__init__()\n        self.backbone_name = backbone",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "TFM",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "TFM = transforms.Compose([\n    transforms.Resize((H, W), interpolation=transforms.InterpolationMode.BICUBIC),\n    transforms.ToTensor(),\n    transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n])\nclass StrongPARModel(nn.Module):\n    def __init__(self, backbone):\n        super().__init__()\n        self.backbone_name = backbone\n        if backbone == \"convnext_tiny\":",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "MODELS = []\nTHRESHOLD_LOGITS = []\nfor item in PKG[\"members\"]:\n    model = StrongPARModel(item[\"backbone\"])\n    model.load_state_dict(item[\"state_dict\"], strict=True)\n    model = model.to(DEVICE).eval()\n    MODELS.append(model)\n    th = torch.as_tensor(\n        item[\"thresholds\"],\n        dtype=torch.float32,",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
+        "label": "THRESHOLD_LOGITS",
+        "kind": 5,
+        "importPath": "export_strong_tta",
+        "description": "export_strong_tta",
+        "peekOfCode": "THRESHOLD_LOGITS = []\nfor item in PKG[\"members\"]:\n    model = StrongPARModel(item[\"backbone\"])\n    model.load_state_dict(item[\"state_dict\"], strict=True)\n    model = model.to(DEVICE).eval()\n    MODELS.append(model)\n    th = torch.as_tensor(\n        item[\"thresholds\"],\n        dtype=torch.float32,\n        device=DEVICE,",
+        "detail": "export_strong_tta",
+        "documentation": {}
+    },
+    {
         "label": "ImageResolver",
         "kind": 6,
         "importPath": "fast_student_dg",
@@ -2023,12 +3284,246 @@
         "documentation": {}
     },
     {
+        "label": "ImageResolver",
+        "kind": 6,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "class ImageResolver:\n    def __init__(self, data_root: str | Path, repo_root: str | Path):\n        self.data_root = Path(data_root)\n        self.repo_root = Path(repo_root)\n        self._index = None\n    def _build_index(self):\n        if self._index is not None:\n            return\n        self._index = {}\n        scan = tqdm(",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "kind": 6,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "class UPARDataset(Dataset):\n    def __init__(self, dataframe, resolver: ImageResolver, transform):\n        self.df = dataframe.reset_index(drop=True).copy()\n        self.image_col = detect_image_column(self.df)\n        raw_paths = self.df[self.image_col].astype(str).tolist()\n        self.targets = self.df[ATTRIBUTE_NAMES].to_numpy(dtype=np.float32)\n        self.domains = np.asarray([infer_domain_id(p) for p in raw_paths], dtype=np.int64)\n        self.transform = transform\n        self.paths = []\n        for value in tqdm(",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "kind": 6,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "class StrongPARModel(nn.Module):\n    def __init__(self, backbone=\"convnext_tiny\", num_attributes=NUM_ATTRIBUTES, pretrained=True):\n        super().__init__()\n        self.backbone_name = str(backbone)\n        if self.backbone_name == \"convnext_tiny\":\n            weights = ConvNeXt_Tiny_Weights.DEFAULT if pretrained else None\n            try:\n                base = convnext_tiny(weights=weights)\n            except Exception:\n                base = convnext_tiny(weights=None)",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "LegacyConvNeXtSmallTeacher",
+        "kind": 6,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "class LegacyConvNeXtSmallTeacher(nn.Module):\n    \"\"\"Matches the ConvNeXt-Small teacher created by the previous notebook.\"\"\"\n    def __init__(self):\n        super().__init__()\n        base = convnext_small(weights=None)\n        self.features = base.features\n        self.avgpool = base.avgpool\n        self.norm = copy.deepcopy(base.classifier[0])\n        in_features = int(base.classifier[2].in_features)\n        self.dropout = nn.Dropout(0.30)",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedBalancedBCE",
+        "kind": 6,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "class MaskedBalancedBCE(nn.Module):\n    def __init__(self, pos_weight, label_smoothing=0.03):\n        super().__init__()\n        self.register_buffer(\"pos_weight\", torch.as_tensor(pos_weight, dtype=torch.float32))\n        self.label_smoothing = float(label_smoothing)\n    def forward(self, logits, targets, valid):\n        targets = targets.float()\n        valid = valid.float()\n        if self.label_smoothing > 0:\n            s = self.label_smoothing",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "kind": 6,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "class ModelEMA:\n    def __init__(self, model: nn.Module, decay=0.9995):\n        self.decay = float(decay)\n        self.module = copy.deepcopy(model).eval()\n        for p in self.module.parameters():\n            p.requires_grad_(False)\n    @torch.no_grad()\n    def update(self, model: nn.Module):\n        ema = self.module.state_dict()\n        cur = model.state_dict()",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "kind": 6,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "class TrainConfig:\n    image_height: int = 288\n    image_width: int = 144\n    batch_size: int = 48\n    num_workers: int = 4\n    epochs: int = 12\n    lr_convnext: float = 1.6e-4\n    lr_swin: float = 1.2e-4\n    weight_decay: float = 0.035\n    ema_decay: float = 0.9995",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.benchmark = True\ndef infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()\n    if \"market1501\" in s or \"/market\" in s:",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "infer_domain_id",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()\n    if \"market1501\" in s or \"/market\" in s:\n        return 0\n    if \"pa100k\" in s or \"pa-100k\" in s:\n        return 1\n    if \"peta\" in s:\n        return 2\n    return -1\ndef detect_image_column(df):",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "detect_image_column",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def detect_image_column(df):\n    for candidate in (\"# image\", \"image\", \"image_path\", \"path\", \"filename\"):\n        if candidate in df.columns:\n            return candidate\n    for col in df.columns:\n        vals = df[col].astype(str).head(100).str.lower()\n        if vals.str.endswith((\".jpg\", \".jpeg\", \".png\", \".bmp\")).any():\n            return col\n    raise RuntimeError(\"Cannot detect image path column\")\nclass ImageResolver:",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def build_train_transform(height=288, width=144):\n    \"\"\"\n    Full-body preserving augmentation.\n    The previous RandomResizedCrop(scale=0.74) could remove head/feet, which is\n    especially damaging for age, hair, hat and lower-body attributes.\n    \"\"\"\n    return transforms.Compose([\n        transforms.Resize((height, width), interpolation=transforms.InterpolationMode.BICUBIC),\n        transforms.RandomHorizontalFlip(p=0.5),\n        transforms.RandomApply([",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def build_eval_transform(height=288, width=144):\n    return transforms.Compose([\n        transforms.Resize((height, width), interpolation=transforms.InterpolationMode.BICUBIC),\n        transforms.ToTensor(),\n        transforms.Normalize([0.485,0.456,0.406], [0.229,0.224,0.225]),\n    ])\nclass UPARDataset(Dataset):\n    def __init__(self, dataframe, resolver: ImageResolver, transform):\n        self.df = dataframe.reset_index(drop=True).copy()\n        self.image_col = detect_image_column(self.df)",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_tempered_domain_sampler",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def make_tempered_domain_sampler(domains: np.ndarray, seed=42, alpha=0.35):\n    \"\"\"\n    Partial domain rebalance.\n    alpha=0   -> original sample frequency\n    alpha=1   -> exactly equal domain mass (the old patch)\n    alpha=0.35 keeps PA100K important while giving Market/PETA more exposure.\n    \"\"\"\n    domains = np.asarray(domains, dtype=np.int64)\n    weights = np.ones(len(domains), dtype=np.float64)\n    for d in sorted(set(int(x) for x in domains.tolist() if int(x) >= 0)):",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_pos_weight",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def dataset_pos_weight(targets: np.ndarray, exponent=0.25, max_weight=2.5):\n    y = np.asarray(targets, dtype=np.float32)\n    out = np.ones(y.shape[1], dtype=np.float32)\n    for c in range(y.shape[1]):\n        valid = (y[:, c] == 0) | (y[:, c] == 1)\n        yc = y[valid, c]\n        pos = float((yc == 1).sum())\n        neg = float((yc == 0).sum())\n        if pos > 0 and neg > 0:\n            ratio = (neg + 1.0) / (pos + 1.0)",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "load_legacy_teacher",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def load_legacy_teacher(checkpoint_path: str | Path, device):\n    p = Path(checkpoint_path)\n    if not p.exists():\n        return None\n    obj = torch.load(p, map_location=\"cpu\", weights_only=False)\n    state = obj.get(\"inference_model_state\") or obj.get(\"ema_model_state\") or obj.get(\"model_state\") or obj\n    state = {\n        k: v for k, v in state.items()\n        if k.startswith((\"features.\", \"avgpool.\", \"norm.\", \"attr_head.\"))\n    }",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "response_kd_loss",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def response_kd_loss(student_logits, teacher_logits, valid, temperature=1.5):\n    \"\"\"Small response-level KD term; unlike the old patch it cannot dominate BCE.\"\"\"\n    t = float(temperature)\n    teacher_p = torch.sigmoid(teacher_logits.detach() / t)\n    raw = F.binary_cross_entropy_with_logits(\n        student_logits / t, teacher_p, reduction=\"none\"\n    ) * (t * t)\n    # Only distill labels that exist in the official harmonized training target.\n    w = valid.float()\n    return (raw * w).sum() / w.sum().clamp(min=1.0)",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "average_state_dicts",
+        "kind": 2,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "def average_state_dicts(states: list[dict[str, torch.Tensor]]) -> dict[str, torch.Tensor]:\n    if not states:\n        raise ValueError(\"No states to average\")\n    keys = states[0].keys()\n    out = {}\n    for k in keys:\n        vals = [s[k] for s in states]\n        if torch.is_floating_point(vals[0]):\n            acc = vals[0].detach().float().clone()\n            for v in vals[1:]:",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "kind": 5,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "ATTRIBUTE_NAMES = [\n    \"Age-Young\",\"Age-Adult\",\"Age-Old\",\"Gender-Female\",\n    \"Hair-Length-Short\",\"Hair-Length-Long\",\"Hair-Length-Bald\",\n    \"UpperBody-Length-Short\",\n    \"UpperBody-Color-Black\",\"UpperBody-Color-Blue\",\"UpperBody-Color-Brown\",\n    \"UpperBody-Color-Green\",\"UpperBody-Color-Grey\",\"UpperBody-Color-Orange\",\n    \"UpperBody-Color-Pink\",\"UpperBody-Color-Purple\",\"UpperBody-Color-Red\",\n    \"UpperBody-Color-White\",\"UpperBody-Color-Yellow\",\"UpperBody-Color-Other\",\n    \"LowerBody-Length-Short\",\n    \"LowerBody-Color-Black\",\"LowerBody-Color-Blue\",\"LowerBody-Color-Brown\",",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_ATTRIBUTES",
+        "kind": 5,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "NUM_ATTRIBUTES = len(ATTRIBUTE_NAMES)\nDOMAIN_NAMES = [\"Market1501\", \"PA100k\", \"PETA\"]\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.benchmark = True\ndef infer_domain_id(path: str) -> int:",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "kind": 5,
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "peekOfCode": "DOMAIN_NAMES = [\"Market1501\", \"PA100k\", \"PETA\"]\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    if torch.cuda.is_available():\n        torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.benchmark = True\ndef infer_domain_id(path: str) -> int:\n    s = str(path).replace(\"\\\\\", \"/\").lower()",
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
         "label": "parse_args",
         "kind": 2,
         "importPath": "train_colab",
         "description": "train_colab",
         "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--epochs\", type=int, default=25)\n    p.add_argument(\"--batch-size\", type=int, default=12)\n    p.add_argument(\"--eval-batch-size\", type=int, default=24)\n    p.add_argument(\"--num-workers\", type=int, default=2)\n    p.add_argument(\"--save-every-steps\", type=int, default=100)\n    p.add_argument(\"--log-every-steps\", type=int, default=50)\n    p.add_argument(\"--max-train-samples\", type=int, default=0)\n    p.add_argument(\"--max-val-samples\", type=int, default=0)",
         "detail": "train_colab",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "train_distill_par",
+        "description": "train_distill_par",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--stage\", choices=[\"teacher\",\"student\"], required=True)\n    p.add_argument(\"--repo-root\", type=Path, default=Path(\"/content/UPAR-Challenge-2027\"))\n    p.add_argument(\"--checkpoint-dir\", type=Path, default=Path(\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\"))\n    p.add_argument(\"--seed\", type=int, default=42)\n    p.add_argument(\"--epochs\", type=int, default=0)\n    p.add_argument(\"--batch-size\", type=int, default=0)\n    p.add_argument(\"--num-workers\", type=int, default=4)\n    p.add_argument(\"--resume\", action=\"store_true\")",
+        "detail": "train_distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "paths_for",
+        "kind": 2,
+        "importPath": "train_distill_par",
+        "description": "train_distill_par",
+        "peekOfCode": "def paths_for(args, cfg):\n    args.checkpoint_dir.mkdir(parents=True, exist_ok=True)\n    if args.stage == \"teacher\":\n        stem = f\"distill_teacher_convnext_small_seed{args.seed}\"\n    else:\n        stem = f\"distill_student_convnext_tiny_seed{args.seed}\"\n    return args.checkpoint_dir / f\"{stem}_last.pt\", args.checkpoint_dir / f\"{stem}_best.pt\"\n@torch.inference_mode()\ndef evaluate(model, loader, device):\n    model.eval()",
+        "detail": "train_distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "kind": 2,
+        "importPath": "train_distill_par",
+        "description": "train_distill_par",
+        "peekOfCode": "def evaluate(model, loader, device):\n    model.eval()\n    probs, ys, ds = [], [], []\n    for batch in tqdm(loader, desc=\"Validation\", leave=False):\n        x = batch[\"image\"].to(device, non_blocking=True)\n        with torch.autocast(device_type=device.type, dtype=torch.float16, enabled=device.type==\"cuda\"):\n            logits = model(x)\n        probs.append(torch.sigmoid(logits).float().cpu().numpy())\n        y = batch[\"target\"].numpy()\n        v = batch[\"valid\"].numpy()",
+        "detail": "train_distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_loaders",
+        "kind": 2,
+        "importPath": "train_distill_par",
+        "description": "train_distill_par",
+        "peekOfCode": "def make_loaders(args, cfg):\n    data_root = args.repo_root / \"data\"\n    train_csv = data_root / \"annotations\" / \"task1\" / \"train\" / \"gt.csv\"\n    val_csv = data_root / \"annotations\" / \"task1\" / \"val\" / \"gt.csv\"\n    if not train_csv.exists() or not val_csv.exists():\n        raise FileNotFoundError(\"Official task1 train/val annotations not found. Run prepare_data.py first.\")\n    train_df, val_df = pd.read_csv(train_csv), pd.read_csv(val_csv)\n    resolver = ImageResolver(data_root, args.repo_root)\n    train_ds = UPARDataset(train_df, resolver, build_train_transform(cfg.image_height, cfg.image_width))\n    val_ds = UPARDataset(val_df, resolver, build_eval_transform(cfg.image_height, cfg.image_width))",
+        "detail": "train_distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "state_for_inference",
+        "kind": 2,
+        "importPath": "train_distill_par",
+        "description": "train_distill_par",
+        "peekOfCode": "def state_for_inference(model):\n    return {k:v.detach().cpu() for k,v in model.state_dict().items() if not k.startswith(\"domain_head.\")}\ndef main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(num_workers=args.num_workers)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    train_loader, val_loader = make_loaders(args, cfg)\n    last_path, best_path = paths_for(args, cfg)\n    if args.stage == \"teacher\":",
+        "detail": "train_distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_distill_par",
+        "description": "train_distill_par",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(num_workers=args.num_workers)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    train_loader, val_loader = make_loaders(args, cfg)\n    last_path, best_path = paths_for(args, cfg)\n    if args.stage == \"teacher\":\n        model = ConvNeXtPAR(\"small\", pretrained=True, mixstyle=True).to(device)\n        teacher = None",
+        "detail": "train_distill_par",
         "documentation": {}
     },
     {
@@ -2074,6 +3569,87 @@
         "description": "train_fast_student_dg",
         "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    repo_root = Path(args.repo_root)\n    data_root = repo_root / \"data\"\n    train_csv = data_root / \"annotations\" / \"task1\" / \"train\" / \"gt.csv\"\n    val_csv = data_root / \"annotations\" / \"task1\" / \"val\" / \"gt.csv\"\n    ckpt_dir = Path(args.checkpoint_dir)\n    ckpt_dir.mkdir(parents=True, exist_ok=True)\n    if not train_csv.exists() or not val_csv.exists():",
         "detail": "train_fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--backbone\", choices=[\"convnext_tiny\", \"swin_v2_t\"], required=True)\n    p.add_argument(\"--repo-root\", type=Path, default=Path(\"/content/UPAR-Challenge-2027\"))\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,\n        default=Path(\"/content/drive/MyDrive/PedestrianAttributeRecognition/Checkpoints\"),\n    )\n    p.add_argument(\"--seed\", type=int, default=42)",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "paths_for",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def paths_for(args):\n    args.checkpoint_dir.mkdir(parents=True, exist_ok=True)\n    stem = f\"strong_{args.backbone}_seed{args.seed}\"\n    return (\n        args.checkpoint_dir / f\"{stem}_last.pt\",\n        args.checkpoint_dir / f\"{stem}_best.pt\",\n        stem,\n    )\n@torch.inference_mode()\ndef evaluate(model, loader, device, tta_flip=False):",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def evaluate(model, loader, device, tta_flip=False):\n    model.eval()\n    probs, ys, ds = [], [], []\n    for batch in tqdm(\n        loader,\n        desc=\"Validation\" + (\" + flip-TTA\" if tta_flip else \"\"),\n        leave=False,\n        file=sys.stdout,\n        dynamic_ncols=True,\n        mininterval=0.25,",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_loaders",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def make_loaders(args, cfg):\n    data_root = args.repo_root / \"data\"\n    train_csv = data_root / \"annotations\" / \"task1\" / \"train\" / \"gt.csv\"\n    val_csv = data_root / \"annotations\" / \"task1\" / \"val\" / \"gt.csv\"\n    if not train_csv.exists() or not val_csv.exists():\n        raise FileNotFoundError(\n            \"Official task1 train/val annotations not found. Run prepare_data.py first.\"\n        )\n    train_df = pd.read_csv(train_csv)\n    val_df = pd.read_csv(val_csv)",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "candidate_paths",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def candidate_paths(checkpoint_dir: Path, stem: str):\n    return sorted(\n        checkpoint_dir.glob(f\"{stem}_ep*_score*.pt\"),\n        key=_candidate_score,\n        reverse=True,\n    )\ndef prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "prune_candidates",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:\n            p.unlink()\n        except FileNotFoundError:\n            pass\n    return paths[:keep]\ndef save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "save_candidate",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {\n        \"epoch\": int(epoch),\n        \"selection\": float(selection),\n        \"ema_model_state\": {k: v.detach().cpu() for k, v in model_state.items()},\n        \"metrics_05\": metrics_05,\n    }\n    torch.save(payload, path)\ndef calibrate_and_save(\n    *,",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "calibrate_and_save",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def calibrate_and_save(\n    *,\n    backbone,\n    seed,\n    state,\n    model,\n    val_loader,\n    device,\n    best_path,\n    selection,",
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(num_workers=args.num_workers)\n    if args.epochs > 0:\n        cfg.epochs = int(args.epochs)\n    if args.batch_size > 0:\n        cfg.batch_size = int(args.batch_size)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    last_path, best_path, stem = paths_for(args)",
+        "detail": "train_strong_par",
         "documentation": {}
     }
 ]
