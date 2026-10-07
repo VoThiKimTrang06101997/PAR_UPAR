@@ -15,11 +15,11 @@ from strong_par import (
     ATTRIBUTE_NAMES,
     DOMAIN_NAMES,
     ImageResolver,
-    StrongPARModel,
     UPARDataset,
     build_eval_transform,
     seed_everything,
 )
+from prototype_par import HybridPrototypePAR
 from vapor_par.metrics import (
     robust_selection_score,
     tune_lodo_thresholds,
@@ -67,15 +67,14 @@ def parse_members(spec):
         token = token.strip()
         if not token:
             continue
-        backbone, seed = token.rsplit(":", 1)
-        out.append((backbone.strip(), int(seed)))
+        out.append(int(token))
     if not out:
-        raise ValueError("No ensemble members specified")
+        raise ValueError("No prototype ensemble seeds specified")
     return out
 
 
-def checkpoint_path(root, backbone, seed):
-    return root / f"strong_{backbone}_seed{seed}_best.pt"
+def checkpoint_path(root, seed):
+    return root / f"prototype_convnext_tiny_seed{seed}_best.pt"
 
 
 def sigmoid_np(x):
@@ -233,7 +232,7 @@ def main():
     )
 
     print("=" * 100, flush=True)
-    print("UPAR AUTOENSEMBLE CALIBRATION", flush=True)
+    print("UPAR PROTOTYPE AUTOENSEMBLE CALIBRATION", flush=True)
     print("Members:", members, flush=True)
     print("Device :", device, flush=True)
     print("TTA    :", args.tta, flush=True)
@@ -246,10 +245,9 @@ def main():
     y_true = None
     domains = None
 
-    for idx, (backbone, seed) in enumerate(members, start=1):
+    for idx, seed in enumerate(members, start=1):
         p = checkpoint_path(
             args.checkpoint_dir,
-            backbone,
             seed,
         )
 
@@ -288,14 +286,16 @@ def main():
 
         print(
             f"\n[{idx}/{len(members)}] "
-            f"{backbone}:{seed} "
+            f"prototype_convnext_tiny:{seed} "
             f"| local calibrated={local_score:.6f}",
             flush=True,
         )
 
-        model = StrongPARModel(
-            backbone,
+        proto_cfg = dict(ck.get("prototype_config", {}))
+        # gate init only affects construction; checkpoint state overwrites it.
+        model = HybridPrototypePAR(
             pretrained=False,
+            **proto_cfg,
         )
         model.load_state_dict(
             state,
@@ -328,11 +328,12 @@ def main():
         )
 
         member_info.append({
-            "backbone": backbone,
+            "model": "prototype_convnext_tiny",
             "seed": int(seed),
             "checkpoint": str(p),
             "checkpoint_local_score": local_score,
             "checkpoint_source": ck.get("source"),
+            "prototype_config": proto_cfg,
         })
 
         del model
@@ -348,7 +349,7 @@ def main():
 
     for weights in tqdm(
         weight_candidates(len(members)),
-        desc="Coarse ensemble-weight search",
+        desc="Prototype ensemble-weight search",
         unit="candidate",
         dynamic_ncols=True,
         file=sys.stdout,
@@ -526,14 +527,14 @@ def main():
         )
 
     print("\n" + "=" * 100, flush=True)
-    print("BEST AUTOENSEMBLE", flush=True)
+    print("BEST PROTOTYPE AUTOENSEMBLE", flush=True)
 
     for member, weight in zip(
         member_info,
         best["weights"],
     ):
         print(
-            f"{member['backbone']}:{member['seed']} "
+            f"{member['model']}:{member['seed']} "
             f"weight={float(weight):.4f} "
             f"local={member['checkpoint_local_score']:.6f}",
             flush=True,
@@ -574,7 +575,7 @@ def main():
 
     torch.save(
         {
-            "format": "upar-autoensemble-calibration",
+            "format": "upar-prototype-autoensemble-calibration",
             "members": member_info,
             "weights": torch.tensor(
                 best["weights"],
