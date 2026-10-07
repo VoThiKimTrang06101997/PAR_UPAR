@@ -112,6 +112,22 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -127,6 +143,22 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -446,6 +478,14 @@
         "documentation": {}
     },
     {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
         "label": "Siglip2ImageProcessor",
         "importPath": "transformers",
         "description": "transformers",
@@ -672,6 +712,14 @@
         "documentation": {}
     },
     {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "Dataset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
@@ -741,6 +789,14 @@
         "description": "torch.utils.data",
         "isExtraImport": true,
         "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
         "documentation": {}
     },
     {
@@ -865,6 +921,14 @@
         "documentation": {}
     },
     {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
         "label": "time",
         "kind": 6,
         "isExtraImport": true,
@@ -880,6 +944,278 @@
         "importPath": "csv.",
         "description": "csv.",
         "detail": "csv.",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedBalancedBCE",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "average_state_dicts",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_pos_weight",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "load_legacy_teacher",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_tempered_domain_sampler",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "response_kd_loss",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_attribute_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
         "documentation": {}
     },
     {
@@ -957,6 +1293,22 @@
     },
     {
         "label": "ConvNeXt_Small_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "swin_v2_t",
         "importPath": "torchvision.models",
         "description": "torchvision.models",
         "isExtraImport": true,
@@ -1392,212 +1744,12 @@
         "documentation": {}
     },
     {
-        "label": "evaluate_probs",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "robust_selection_score",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "tune_lodo_thresholds",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "evaluate_probs",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "tune_attribute_thresholds",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "robust_selection_score",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "evaluate_probs",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "robust_selection_score",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
-        "label": "tune_lodo_thresholds",
-        "importPath": "vapor_par.metrics",
-        "description": "vapor_par.metrics",
-        "isExtraImport": true,
-        "detail": "vapor_par.metrics",
-        "documentation": {}
-    },
-    {
         "label": "re",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "re",
         "description": "re",
         "detail": "re",
-        "documentation": {}
-    },
-    {
-        "label": "ATTRIBUTE_NAMES",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "DOMAIN_NAMES",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "ImageResolver",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "MaskedBalancedBCE",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "ModelEMA",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "StrongPARModel",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "TrainConfig",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "UPARDataset",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "average_state_dicts",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "build_eval_transform",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "build_train_transform",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "dataset_pos_weight",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "load_legacy_teacher",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "make_tempered_domain_sampler",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "response_kd_loss",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
-        "documentation": {}
-    },
-    {
-        "label": "seed_everything",
-        "importPath": "strong_par",
-        "description": "strong_par",
-        "isExtraImport": true,
-        "detail": "strong_par",
         "documentation": {}
     },
     {
@@ -2357,6 +2509,105 @@
         "documentation": {}
     },
     {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "parse_members",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def parse_members(spec):\n    out = []\n    for token in spec.split(\",\"):\n        token = token.strip()\n        if not token:\n            continue\n        backbone, seed = token.rsplit(\":\", 1)\n        out.append((backbone.strip(), int(seed)))\n    if not out:\n        raise ValueError(\"No ensemble members specified\")",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def checkpoint_path(root, backbone, seed):\n    return root / f\"strong_{backbone}_seed{seed}_best.pt\"\ndef sigmoid_np(x):\n    x = np.clip(np.asarray(x, dtype=np.float64), -40.0, 40.0)\n    return 1.0 / (1.0 + np.exp(-x))\ndef logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\n@torch.inference_mode()\ndef predict_logits(model, loader, device, flip=True):",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid_np",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def sigmoid_np(x):\n    x = np.clip(np.asarray(x, dtype=np.float64), -40.0, 40.0)\n    return 1.0 / (1.0 + np.exp(-x))\ndef logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\n@torch.inference_mode()\ndef predict_logits(model, loader, device, flip=True):\n    model.eval()\n    zs, ys, ds = [], [], []",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "logit_np",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\n@torch.inference_mode()\ndef predict_logits(model, loader, device, flip=True):\n    model.eval()\n    zs, ys, ds = [], [], []\n    for batch in tqdm(\n        loader,\n        desc=\"Validation inference + flip-TTA\" if flip else \"Validation inference\",",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "predict_logits",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def predict_logits(model, loader, device, flip=True):\n    model.eval()\n    zs, ys, ds = [], [], []\n    for batch in tqdm(\n        loader,\n        desc=\"Validation inference + flip-TTA\" if flip else \"Validation inference\",\n        unit=\"batch\",\n        dynamic_ncols=True,\n        mininterval=0.25,\n        file=sys.stdout,",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "build_val_loader",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def build_val_loader(args):\n    data_root = args.repo_root / \"data\"\n    val_csv = (\n        data_root\n        / \"annotations\"\n        / \"task1\"\n        / \"val\"\n        / \"gt.csv\"\n    )\n    if not val_csv.exists():",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "weight_candidates",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def weight_candidates(n_models):\n    if n_models == 1:\n        return [np.asarray([1.0], dtype=np.float64)]\n    if n_models == 2:\n        return [\n            np.asarray([w, 1.0 - w], dtype=np.float64)\n            for w in np.arange(0.0, 1.0001, 0.10)\n        ]\n    out = []\n    for i in range(n_models):",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ensemble_logits",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def ensemble_logits(logits_list, weights):\n    out = np.zeros_like(logits_list[0], dtype=np.float64)\n    for w, z in zip(weights, logits_list):\n        out += float(w) * z.astype(np.float64)\n    return out\ndef objective(overall, robust, per_domain):\n    domain_scores = [\n        float(v[\"Challenge_Avg\"])\n        for v in per_domain.values()\n    ]",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "objective",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def objective(overall, robust, per_domain):\n    domain_scores = [\n        float(v[\"Challenge_Avg\"])\n        for v in per_domain.values()\n    ]\n    min_domain = (\n        min(domain_scores)\n        if domain_scores\n        else float(overall[\"Challenge_Avg\"])\n    )",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(2027)\n    members = parse_members(args.members)\n    device = torch.device(\n        \"cuda\" if torch.cuda.is_available() else \"cpu\"\n    )\n    print(\"=\" * 100, flush=True)\n    print(\"UPAR AUTOENSEMBLE CALIBRATION\", flush=True)\n    print(\"Members:\", members, flush=True)",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
         "label": "ImageResolver",
         "kind": 6,
         "importPath": "distill_par",
@@ -2561,6 +2812,204 @@
         "description": "distill_par",
         "peekOfCode": "ATTRIBUTE_GROUPS = [\n    (0, 1, 2),       # age\n    (4, 5, 6),       # hair length/state\n    tuple(range(8, 20)),   # upper-body color\n    tuple(range(21, 33)),  # lower-body color\n    (33, 34),        # lower-body type\n]\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)",
         "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "kind": 6,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "class StrongPARModel(nn.Module):\n    def __init__(self, backbone):\n        super().__init__()\n        if backbone == \"convnext_tiny\":\n            base = convnext_tiny(weights=None)\n            d = int(\n                base.classifier[2].in_features\n            )\n            base.classifier[2] = nn.Sequential(\n                nn.Dropout(0.22),",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,\n        required=True,\n    )\n    p.add_argument(\n        \"--calibration\",\n        type=Path,",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def sha256(path):\n    h = hashlib.sha256()\n    with Path(path).open(\"rb\") as f:\n        for chunk in iter(\n            lambda: f.read(1024 * 1024),\n            b\"\",\n        ):\n            h.update(chunk)\n    return h.hexdigest()\ndef half_state_dict(state):",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "half_state_dict",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def half_state_dict(state):\n    out = {}\n    for key, value in state.items():\n        t = value.detach().cpu()\n        if torch.is_floating_point(t):\n            t = t.half()\n        out[key] = t\n    return out\ndef checkpoint_path(root, backbone, seed):\n    return (",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def checkpoint_path(root, backbone, seed):\n    return (\n        root\n        / f\"strong_{backbone}_seed{seed}_best.pt\"\n    )\ndef main():\n    args = parse_args()\n    args.result_dir.mkdir(\n        parents=True,\n        exist_ok=True,",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def main():\n    args = parse_args()\n    args.result_dir.mkdir(\n        parents=True,\n        exist_ok=True,\n    )\n    calibration = torch.load(\n        args.calibration,\n        map_location=\"cpu\",\n        weights_only=False,",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def predict_batch(samples):\n    out = []\n    for start in range(\n        0,\n        len(samples),\n        BATCH_SIZE,\n    ):\n        chunk = samples[\n            start:start + BATCH_SIZE\n        ]",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def predict_image(sample):\n    return predict_batch([sample])[0]\ndef load_model():\n    return None\n'''\n    (out / \"run.py\").write_text(\n        run_py,\n        encoding=\"utf-8\",\n    )\n    (out / \"metadata.yaml\").write_text(",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def load_model():\n    return None\n'''\n    (out / \"run.py\").write_text(\n        run_py,\n        encoding=\"utf-8\",\n    )\n    (out / \"metadata.yaml\").write_text(\n        \"name: UPAR AutoEnsemble\\n\"\n        \"task: pedestrian_attribute_recognition\\n\"",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "ATTRIBUTE_NAMES = [\n    \"Age-Young\",\"Age-Adult\",\"Age-Old\",\"Gender-Female\",\n    \"Hair-Length-Short\",\"Hair-Length-Long\",\"Hair-Length-Bald\",\n    \"UpperBody-Length-Short\",\n    \"UpperBody-Color-Black\",\"UpperBody-Color-Blue\",\"UpperBody-Color-Brown\",\n    \"UpperBody-Color-Green\",\"UpperBody-Color-Grey\",\"UpperBody-Color-Orange\",\n    \"UpperBody-Color-Pink\",\"UpperBody-Color-Purple\",\"UpperBody-Color-Red\",\n    \"UpperBody-Color-White\",\"UpperBody-Color-Yellow\",\"UpperBody-Color-Other\",\n    \"LowerBody-Length-Short\",\n    \"LowerBody-Color-Black\",\"LowerBody-Color-Blue\",\"LowerBody-Color-Brown\",",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nPKG = torch.load(\n    ROOT / \"assets\" / \"model.pt\",\n    map_location=\"cpu\",\n    weights_only=False,\n)\nDEVICE = torch.device(\n    \"cuda\" if torch.cuda.is_available() else \"cpu\"\n)\nH = int(PKG.get(\"image_height\", 288))",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "PKG",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "PKG = torch.load(\n    ROOT / \"assets\" / \"model.pt\",\n    map_location=\"cpu\",\n    weights_only=False,\n)\nDEVICE = torch.device(\n    \"cuda\" if torch.cuda.is_available() else \"cpu\"\n)\nH = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "DEVICE",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "DEVICE = torch.device(\n    \"cuda\" if torch.cuda.is_available() else \"cpu\"\n)\nH = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "H",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "H = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )\n)\nATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "W",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "W = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )\n)\nATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "BATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )\n)\nATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([\n    transforms.Resize(",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "ATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([\n    transforms.Resize(\n        (H, W),\n        interpolation=transforms.InterpolationMode.BICUBIC,\n    ),\n    transforms.ToTensor(),\n    transforms.Normalize(\n        [0.485, 0.456, 0.406],",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "TTA",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "TTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([\n    transforms.Resize(\n        (H, W),\n        interpolation=transforms.InterpolationMode.BICUBIC,\n    ),\n    transforms.ToTensor(),\n    transforms.Normalize(\n        [0.485, 0.456, 0.406],\n        [0.229, 0.224, 0.225],",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "TFM",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "TFM = transforms.Compose([\n    transforms.Resize(\n        (H, W),\n        interpolation=transforms.InterpolationMode.BICUBIC,\n    ),\n    transforms.ToTensor(),\n    transforms.Normalize(\n        [0.485, 0.456, 0.406],\n        [0.229, 0.224, 0.225],\n    ),",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "MODELS = []\nWEIGHTS = []\nfor item in PKG[\"members\"]:\n    model = StrongPARModel(\n        item[\"backbone\"]\n    )\n    model.load_state_dict(\n        item[\"state_dict\"],\n        strict=True,\n    )",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "WEIGHTS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "WEIGHTS = []\nfor item in PKG[\"members\"]:\n    model = StrongPARModel(\n        item[\"backbone\"]\n    )\n    model.load_state_dict(\n        item[\"state_dict\"],\n        strict=True,\n    )\n    model = model.to(",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "THRESHOLD_LOGITS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "THRESHOLD_LOGITS = torch.as_tensor(\n    PKG[\"threshold_logits\"],\n    dtype=torch.float32,\n    device=DEVICE,\n).reshape(1, -1)\ndef _path(sample):\n    for key in (\n        \"image_path\",\n        \"path\",\n        \"image\",",
+        "detail": "export_autoensemble",
         "documentation": {}
     },
     {

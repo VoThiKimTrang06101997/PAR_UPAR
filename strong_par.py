@@ -390,3 +390,4 @@ class TrainConfig:
     kd_temperature: float = 1.5
     kd_warmup_epochs: int = 2
     topk_soup: int = 3
+
