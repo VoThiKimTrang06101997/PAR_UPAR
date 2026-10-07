@@ -35,6 +35,8 @@ class HybridPrototypePAR(nn.Module):
         prototype_dim: int = 256,
         prototype_temperature: float = 0.20,
         prototype_gate_init: float = 0.35,
+        prototype_gate_min: float = 0.08,
+        prototype_gate_max: float = 0.92,
         prototype_ema_momentum: float = 0.95,
         prototype_ema_mix: float = 0.25,
         pretrained: bool = True,
@@ -44,6 +46,10 @@ class HybridPrototypePAR(nn.Module):
         self.num_attributes = int(num_attributes)
         self.prototype_dim = int(prototype_dim)
         self.prototype_temperature = float(prototype_temperature)
+        self.prototype_gate_min = float(prototype_gate_min)
+        self.prototype_gate_max = float(prototype_gate_max)
+        if not (0.0 <= self.prototype_gate_min < self.prototype_gate_max <= 1.0):
+            raise ValueError("Invalid prototype gate range")
         self.prototype_ema_momentum = float(prototype_ema_momentum)
         self.prototype_ema_mix = float(prototype_ema_mix)
 
@@ -175,7 +181,10 @@ class HybridPrototypePAR(nn.Module):
 
         gate = torch.sigmoid(self.prototype_gate_logits).reshape(1, -1)
         # Keep either branch from disappearing entirely during training.
-        gate = gate.clamp(0.08, 0.92)
+        gate = gate.clamp(
+            self.prototype_gate_min,
+            self.prototype_gate_max,
+        )
 
         logits = (1.0 - gate) * linear_logits + gate * proto_logits
 
@@ -426,3 +435,49 @@ def cross_domain_prototype_alignment_loss(
         return features.sum() * 0.0
 
     return torch.stack(losses).mean()
+
+
+def hard_negative_false_positive_loss(
+    logits: torch.Tensor,
+    targets: torch.Tensor,
+    valid: torch.Tensor,
+    gamma: float = 2.0,
+    min_probability: float = 0.35,
+) -> torch.Tensor:
+    """
+    Focuses only on valid negative labels that the model predicts as positive.
+
+    This complements class-balanced BCE. It is intentionally one-sided because
+    the latest hidden result is recall-heavy: false positives are the main
+    deployment error we want to suppress without destroying rare-positive mA.
+    """
+    targets = targets.float()
+    valid = valid.bool()
+
+    neg = valid & (targets <= 0.5)
+    if not bool(neg.any()):
+        return logits.sum() * 0.0
+
+    p = torch.sigmoid(logits.float())
+    active = neg & (p >= float(min_probability))
+    if not bool(active.any()):
+        return logits.sum() * 0.0
+
+    # BCE target=0 is softplus(logit). p^gamma emphasizes hard negatives.
+    raw = F.softplus(logits.float()) * p.pow(float(gamma))
+    return raw[active].mean()
+
+
+def prototype_gate_anchor_loss(
+    gate: torch.Tensor,
+    target: float = 0.22,
+) -> torch.Tensor:
+    """
+    Mildly anchors prototype contribution toward a conservative operating point.
+
+    It does not freeze the gate; attributes can still deviate when prototypes
+    are useful. The deployment calibrator additionally searches group-wise gate
+    scales on leave-one-domain-out validation.
+    """
+    target = float(target)
+    return (gate.float() - target).pow(2).mean()

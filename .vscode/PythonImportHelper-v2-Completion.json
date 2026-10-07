@@ -144,6 +144,30 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -159,6 +183,38 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -510,6 +566,14 @@
         "documentation": {}
     },
     {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
         "label": "Siglip2ImageProcessor",
         "importPath": "transformers",
         "description": "transformers",
@@ -744,6 +808,14 @@
         "documentation": {}
     },
     {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "Dataset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
@@ -813,6 +885,14 @@
         "description": "torch.utils.data",
         "isExtraImport": true,
         "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
         "documentation": {}
     },
     {
@@ -953,6 +1033,22 @@
         "documentation": {}
     },
     {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
         "label": "time",
         "kind": 6,
         "isExtraImport": true,
@@ -1019,7 +1115,127 @@
         "documentation": {}
     },
     {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
         "label": "NUM_ATTRIBUTES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedBalancedBCE",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "average_state_dicts",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "load_legacy_teacher",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "response_kd_loss",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
         "importPath": "strong_par",
         "description": "strong_par",
         "isExtraImport": true,
@@ -1243,6 +1459,14 @@
         "documentation": {}
     },
     {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
         "label": "cross_domain_prototype_alignment_loss",
         "importPath": "prototype_par",
         "description": "prototype_par",
@@ -1267,6 +1491,54 @@
         "documentation": {}
     },
     {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_prototype_alignment_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_margin_aux_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_pair_separation_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "hard_negative_false_positive_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_gate_anchor_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
         "label": "robust_selection_score",
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
@@ -1276,6 +1548,22 @@
     },
     {
         "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
         "isExtraImport": true,
@@ -1324,6 +1612,30 @@
     },
     {
         "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
         "isExtraImport": true,
@@ -1477,6 +1789,14 @@
     },
     {
         "label": "convnext_small",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
         "importPath": "torchvision.models",
         "description": "torchvision.models",
         "isExtraImport": true,
@@ -1736,6 +2056,15 @@
         "documentation": {}
     },
     {
+        "label": "gc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gc",
+        "description": "gc",
+        "detail": "gc",
+        "documentation": {}
+    },
+    {
         "label": "Iterable",
         "importPath": "typing",
         "description": "typing",
@@ -1910,6 +2239,22 @@
         "importPath": "re",
         "description": "re",
         "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "isExtraImport": true,
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_loaders",
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "isExtraImport": true,
+        "detail": "train_strong_par",
         "documentation": {}
     },
     {
@@ -2784,6 +3129,195 @@
         "documentation": {}
     },
     {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "safe_torch_load",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def safe_torch_load(path, map_location=\"cpu\"):\n    try:\n        return torch.load(\n            path,\n            map_location=map_location,\n            weights_only=False,\n        )\n    except TypeError:\n        return torch.load(\n            path,",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "parse_members",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def parse_members(spec):\n    out = []\n    for token in spec.split(\",\"):\n        token = token.strip()\n        if token:\n            out.append(int(token))\n    if not out:\n        raise ValueError(\"No ensemble members\")\n    return out\ndef checkpoint_path(root, prefix, seed):",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def checkpoint_path(root, prefix, seed):\n    return root / f\"{prefix}_seed{seed}_best.pt\"\ndef sigmoid_np(x):\n    x = np.clip(np.asarray(x, dtype=np.float64), -40.0, 40.0)\n    return 1.0 / (1.0 + np.exp(-x))\ndef logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\ndef group_scale_vector(group_scales):\n    out = np.ones(40, dtype=np.float32)",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid_np",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def sigmoid_np(x):\n    x = np.clip(np.asarray(x, dtype=np.float64), -40.0, 40.0)\n    return 1.0 / (1.0 + np.exp(-x))\ndef logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\ndef group_scale_vector(group_scales):\n    out = np.ones(40, dtype=np.float32)\n    for name, indices in ATTRIBUTE_GROUPS.items():\n        out[indices] = float(group_scales[name])",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "logit_np",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\ndef group_scale_vector(group_scales):\n    out = np.ones(40, dtype=np.float32)\n    for name, indices in ATTRIBUTE_GROUPS.items():\n        out[indices] = float(group_scales[name])\n    return out\ndef compose_hybrid_logits(\n    linear_logits,",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "group_scale_vector",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def group_scale_vector(group_scales):\n    out = np.ones(40, dtype=np.float32)\n    for name, indices in ATTRIBUTE_GROUPS.items():\n        out[indices] = float(group_scales[name])\n    return out\ndef compose_hybrid_logits(\n    linear_logits,\n    proto_logits,\n    learned_gate,\n    group_scales,",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "compose_hybrid_logits",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def compose_hybrid_logits(\n    linear_logits,\n    proto_logits,\n    learned_gate,\n    group_scales,\n    gate_max=0.60,\n):\n    scale = group_scale_vector(group_scales).reshape(1, -1)\n    gate = np.asarray(learned_gate, dtype=np.float32).reshape(1, -1)\n    gate = np.clip(",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "build_val_loader",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def build_val_loader(args):\n    data_root = args.repo_root / \"data\"\n    val_csv = data_root / \"annotations\" / \"task1\" / \"val\" / \"gt.csv\"\n    if not val_csv.exists():\n        raise FileNotFoundError(val_csv)\n    df = pd.read_csv(val_csv)\n    resolver = ImageResolver(data_root, args.repo_root)\n    ds = UPARDataset(\n        df,\n        resolver,",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "predict_components",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def predict_components(model, loader, device, use_flip=True):\n    model.eval()\n    linear_all = []\n    proto_all = []\n    ys = []\n    ds = []\n    for batch in tqdm(\n        loader,\n        desc=\"Validation components + flip-TTA\" if use_flip else \"Validation components\",\n        unit=\"batch\",",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "domain_objective",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def domain_objective(overall, robust, per_domain):\n    domain_scores = [\n        float(v[\"Challenge_Avg\"])\n        for v in per_domain.values()\n    ]\n    min_domain = (\n        min(domain_scores)\n        if domain_scores\n        else float(overall[\"Challenge_Avg\"])\n    )",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "fast_operating_point",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def fast_operating_point(\n    y_true,\n    logits,\n    domains,\n):\n    probs = sigmoid_np(logits).astype(np.float32)\n    best = None\n    for t in np.arange(\n        0.48,\n        0.721,",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "optimize_group_scales",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def optimize_group_scales(\n    y_true,\n    linear_logits,\n    proto_logits,\n    learned_gate,\n    domains,\n    gate_max,\n    coordinate_passes,\n):\n    # Step 1: global prototype strength.",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "ensemble_weight_candidates",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def ensemble_weight_candidates(n):\n    if n == 1:\n        return [\n            np.asarray(\n                [1.0],\n                dtype=np.float32,\n            )\n        ]\n    if n == 2:\n        return [",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "ensemble_logits",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def ensemble_logits(logits_list, weights):\n    out = np.zeros_like(\n        logits_list[0],\n        dtype=np.float64,\n    )\n    for weight, logits in zip(\n        weights,\n        logits_list,\n    ):\n        out += (",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "attribute_ma_thresholds",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def attribute_ma_thresholds(\n    y_true,\n    probs,\n    grid=None,\n):\n    y_true = np.asarray(\n        y_true,\n        dtype=np.int32,\n    )\n    probs = np.asarray(",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "tune_precision_lodo_thresholds",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def tune_precision_lodo_thresholds(\n    y_true,\n    probs,\n    domains,\n):\n    y_true = np.asarray(\n        y_true,\n        dtype=np.int32,\n    )\n    probs = np.asarray(",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(2027)\n    seeds = parse_members(\n        args.members\n    )\n    device = torch.device(\n        \"cuda\"\n        if torch.cuda.is_available()\n        else \"cpu\"",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_GROUPS",
+        "kind": 5,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "ATTRIBUTE_GROUPS = {\n    \"age\": list(range(0, 3)),\n    \"gender\": [3],\n    \"hair\": list(range(4, 7)),\n    \"upper_body\": list(range(7, 20)),\n    \"lower_body\": list(range(20, 33)),\n    \"lower_type\": list(range(33, 35)),\n    \"accessories\": list(range(35, 40)),\n}\nGROUP_NAMES = list(ATTRIBUTE_GROUPS)",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "GROUP_NAMES",
+        "kind": 5,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "GROUP_NAMES = list(ATTRIBUTE_GROUPS)\nGROUP_SCALE_GRID = (0.00, 0.25, 0.50, 0.75, 1.00)\ndef parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "GROUP_SCALE_GRID",
+        "kind": 5,
+        "importPath": "calibrate_prototype_precision",
+        "description": "calibrate_prototype_precision",
+        "peekOfCode": "GROUP_SCALE_GRID = (0.00, 0.25, 0.50, 0.75, 1.00)\ndef parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",",
+        "detail": "calibrate_prototype_precision",
+        "documentation": {}
+    },
+    {
         "label": "ImageResolver",
         "kind": 6,
         "importPath": "distill_par",
@@ -3405,6 +3939,159 @@
         "documentation": {}
     },
     {
+        "label": "HybridPrototypePAR",
+        "kind": 6,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "class HybridPrototypePAR(nn.Module):\n    def __init__(\n        self,\n        num_attributes=40,\n        prototype_dim=256,\n        prototype_temperature=0.20,\n        prototype_gate_init=0.35,\n        prototype_gate_min=0.08,\n        prototype_gate_max=0.92,\n        prototype_ema_momentum=0.95,",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "Runtime",
+        "kind": 6,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "class Runtime:\n    def __init__(self):\n        self.device = torch.device(\n            \"cuda\"\n            if torch.cuda.is_available()\n            else \"cpu\"\n        )\n        bundle = _safe_torch_load(\n            ROOT\n            / \"assets\"",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,\n        required=True,\n    )\n    p.add_argument(\n        \"--calibration\",\n        type=Path,",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "safe_torch_load",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def safe_torch_load(path, map_location=\"cpu\"):\n    try:\n        return torch.load(\n            path,\n            map_location=map_location,\n            weights_only=False,\n        )\n    except TypeError:\n        return torch.load(\n            path,",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def sha256(path):\n    h = hashlib.sha256()\n    with Path(path).open(\"rb\") as f:\n        for chunk in iter(\n            lambda: f.read(1024 * 1024),\n            b\"\",\n        ):\n            h.update(chunk)\n    return h.hexdigest()\ndef half_state_dict(state):",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "half_state_dict",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def half_state_dict(state):\n    out = {}\n    for key, value in state.items():\n        tensor = value.detach().cpu()\n        if torch.is_floating_point(\n            tensor\n        ):\n            tensor = tensor.half()\n        out[key] = tensor\n    return out",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def checkpoint_path(root, prefix, seed):\n    return (\n        root\n        / f\"{prefix}_seed{seed}_best.pt\"\n    )\nRUNTIME = r\"\"\"from __future__ import annotations\nimport gc\nimport math\nimport os\nfrom pathlib import Path",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def load_model():\n    _ensure_model()\n    return None\ndef predict_image(sample):\n    return _ensure_model().predict(\n        [sample]\n    )[0]\ndef predict_batch(samples):\n    if not samples:\n        return []",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def predict_image(sample):\n    return _ensure_model().predict(\n        [sample]\n    )[0]\ndef predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure_model().predict(\n        list(samples)\n    )",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure_model().predict(\n        list(samples)\n    )\n\"\"\"\ndef runtime_smoke_test(\n    zip_path,\n    attribute_names,",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "runtime_smoke_test",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def runtime_smoke_test(\n    zip_path,\n    attribute_names,\n):\n    with tempfile.TemporaryDirectory() as td:\n        td = Path(td)\n        with zipfile.ZipFile(\n            zip_path\n        ) as z:\n            z.extractall(",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "def main():\n    args = parse_args()\n    calibration = safe_torch_load(\n        args.calibration,\n        map_location=\"cpu\",\n    )\n    weights = torch.as_tensor(\n        calibration[\n            \"weights\"\n        ],",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "RUNTIME",
+        "kind": 5,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "RUNTIME = r\"\"\"from __future__ import annotations\nimport gc\nimport math\nimport os\nfrom pathlib import Path\nimport torch\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom PIL import Image\nfrom torchvision import transforms",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nBATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(\n    1,\n    int(\n        os.environ.get(\n            \"UPAR_MICRO_BATCH_SIZE\",\n            \"__MICRO_BATCH_SIZE__\",\n        )\n    ),",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "BATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(\n    1,\n    int(\n        os.environ.get(\n            \"UPAR_MICRO_BATCH_SIZE\",\n            \"__MICRO_BATCH_SIZE__\",\n        )\n    ),\n)",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "MICRO_BATCH_SIZE",
+        "kind": 5,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "MICRO_BATCH_SIZE = max(\n    1,\n    int(\n        os.environ.get(\n            \"UPAR_MICRO_BATCH_SIZE\",\n            \"__MICRO_BATCH_SIZE__\",\n        )\n    ),\n)\n_MODEL = None",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "_MODEL",
+        "kind": 5,
+        "importPath": "export_prototype_precision",
+        "description": "export_prototype_precision",
+        "peekOfCode": "_MODEL = None\ndef _safe_torch_load(path, map_location=\"cpu\"):\n    try:\n        return torch.load(\n            path,\n            map_location=map_location,\n            weights_only=False,\n        )\n    except TypeError:\n        return torch.load(",
+        "detail": "export_prototype_precision",
+        "documentation": {}
+    },
+    {
         "label": "StrongPARModel",
         "kind": 6,
         "importPath": "export_strong_tta",
@@ -3828,6 +4515,24 @@
         "documentation": {}
     },
     {
+        "label": "hard_negative_false_positive_loss",
+        "kind": 2,
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "peekOfCode": "def hard_negative_false_positive_loss(\n    logits: torch.Tensor,\n    targets: torch.Tensor,\n    valid: torch.Tensor,\n    gamma: float = 2.0,\n    min_probability: float = 0.35,\n) -> torch.Tensor:\n    \"\"\"\n    Focuses only on valid negative labels that the model predicts as positive.\n    This complements class-balanced BCE. It is intentionally one-sided because",
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_gate_anchor_loss",
+        "kind": 2,
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "peekOfCode": "def prototype_gate_anchor_loss(\n    gate: torch.Tensor,\n    target: float = 0.22,\n) -> torch.Tensor:\n    \"\"\"\n    Mildly anchors prototype contribution toward a conservative operating point.\n    It does not freeze the gate; attributes can still deviate when prototypes\n    are useful. The deployment calibrator additionally searches group-wise gate\n    scales on leave-one-domain-out validation.\n    \"\"\"",
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
         "label": "ImageResolver",
         "kind": 6,
         "importPath": "strong_par",
@@ -4212,6 +4917,105 @@
         "description": "train_prototype_par",
         "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(\n        batch_size=int(args.batch_size),\n        num_workers=int(args.num_workers),\n        epochs=int(args.epochs),\n        sampler_alpha=float(args.sampler_alpha),\n    )\n    device = torch.device(",
         "detail": "train_prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "paths_for",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def paths_for(args):\n    args.checkpoint_dir.mkdir(parents=True, exist_ok=True)\n    stem = f\"prototype_precision_convnext_tiny_seed{args.seed}\"\n    return (\n        args.checkpoint_dir / f\"{stem}_last.pt\",\n        args.checkpoint_dir / f\"{stem}_best.pt\",\n        stem,\n    )\ndef _candidate_score(path: Path):\n    m = re.search(r\"_score([0-9.]+)\\.pt$\", path.name)",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "candidate_paths",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def candidate_paths(checkpoint_dir: Path, stem: str):\n    return sorted(\n        checkpoint_dir.glob(f\"{stem}_ep*_score*.pt\"),\n        key=_candidate_score,\n        reverse=True,\n    )\ndef prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "prune_candidates",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:\n            p.unlink()\n        except FileNotFoundError:\n            pass\n    return paths[:keep]\ndef save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "save_candidate",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {\n        \"epoch\": int(epoch),\n        \"selection\": float(selection),\n        \"ema_model_state\": {\n            k: v.detach().cpu()\n            for k, v in model_state.items()\n        },\n        \"metrics_05\": metrics_05,\n    }",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "model_kwargs_from_args",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def model_kwargs_from_args(args):\n    return {\n        \"num_attributes\": len(ATTRIBUTE_NAMES),\n        \"prototype_dim\": int(args.prototype_dim),\n        \"prototype_temperature\": float(args.prototype_temperature),\n        \"prototype_gate_init\": float(args.prototype_gate_init),\n        \"prototype_gate_min\": float(args.prototype_gate_min),\n        \"prototype_gate_max\": float(args.prototype_gate_max),\n        \"prototype_ema_momentum\": float(args.prototype_ema_momentum),\n        \"prototype_ema_mix\": float(args.prototype_ema_mix),",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "sync_prototype_buffers_to_ema",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def sync_prototype_buffers_to_ema(model, ema):\n    \"\"\"\n    ModelEMA already smooths trainable parameters. Prototype EMA buffers are\n    themselves moving averages, so they should be copied directly instead of\n    being averaged a second time.\n    \"\"\"\n    with torch.no_grad():\n        for name in (\n            \"prototype_pos_ema\",\n            \"prototype_neg_ema\",",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "parameter_groups",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def parameter_groups(model, args):\n    backbone_params = []\n    head_params = []\n    for name, param in model.named_parameters():\n        if not param.requires_grad:\n            continue\n        if name.startswith(\"backbone.features.\") or name.startswith(\n            \"backbone.classifier.0.\"\n        ):\n            backbone_params.append(param)",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_factor",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def cosine_factor(epoch, total_epochs, floor=0.06):\n    if total_epochs <= 1:\n        return 1.0\n    progress = min(\n        max(float(epoch) / float(total_epochs - 1), 0.0),\n        1.0,\n    )\n    return float(\n        floor\n        + (1.0 - floor)",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "calibrate_and_save",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def calibrate_and_save(\n    *,\n    args,\n    state,\n    model,\n    val_loader,\n    device,\n    best_path,\n    selection,\n    epoch,",
+        "detail": "train_prototype_precision",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_prototype_precision",
+        "description": "train_prototype_precision",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(\n        batch_size=int(args.batch_size),\n        num_workers=int(args.num_workers),\n        epochs=int(args.epochs),\n        sampler_alpha=float(args.sampler_alpha),\n    )\n    device = torch.device(",
+        "detail": "train_prototype_precision",
         "documentation": {}
     },
     {
