@@ -1,0 +1,11 @@
+PAR_UPAR resume + official code-submission fix
+Version: 2026-09-24-resume-v4
+Key fixes:
+- ResumableEpochBatchSampler seeks directly to next_batch_idx.
+- Emergency checkpoint on KeyboardInterrupt/Exception.
+- Auto-select furthest resume_step.pt vs last.pt.
+- Restore optimizer/scheduler/scaler/RNG and resume-critical config.
+- Persistent Hugging Face cache on Google Drive.
+- Official load_model/predict_image/predict_batch code-submission API.
+- metadata.yaml copied byte-for-byte unchanged.
+- Offline inference bundle + vendored Python 3.11 dependencies.

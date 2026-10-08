@@ -168,6 +168,54 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -183,6 +231,54 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -574,6 +670,22 @@
         "documentation": {}
     },
     {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
         "label": "Siglip2ImageProcessor",
         "importPath": "transformers",
         "description": "transformers",
@@ -816,6 +928,22 @@
         "documentation": {}
     },
     {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "Dataset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
@@ -885,6 +1013,22 @@
         "description": "torch.utils.data",
         "isExtraImport": true,
         "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
         "documentation": {}
     },
     {
@@ -1049,6 +1193,30 @@
         "documentation": {}
     },
     {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
         "label": "time",
         "kind": 6,
         "isExtraImport": true,
@@ -1064,6 +1232,110 @@
         "importPath": "csv.",
         "description": "csv.",
         "detail": "csv.",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
         "documentation": {}
     },
     {
@@ -1164,6 +1436,78 @@
     },
     {
         "label": "NUM_ATTRIBUTES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedBalancedBCE",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "average_state_dicts",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "load_legacy_teacher",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "response_kd_loss",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
         "importPath": "strong_par",
         "description": "strong_par",
         "isExtraImport": true,
@@ -1443,99 +1787,27 @@
         "documentation": {}
     },
     {
-        "label": "HybridPrototypePAR",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
         "isExtraImport": true,
-        "detail": "prototype_par",
+        "detail": "vapor_par.metrics",
         "documentation": {}
     },
     {
-        "label": "HybridPrototypePAR",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
         "isExtraImport": true,
-        "detail": "prototype_par",
+        "detail": "vapor_par.metrics",
         "documentation": {}
     },
     {
-        "label": "HybridPrototypePAR",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
         "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "cross_domain_prototype_alignment_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "prototype_margin_aux_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "prototype_pair_separation_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "HybridPrototypePAR",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "cross_domain_prototype_alignment_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "prototype_margin_aux_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "prototype_pair_separation_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "hard_negative_false_positive_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "prototype_gate_anchor_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
+        "detail": "vapor_par.metrics",
         "documentation": {}
     },
     {
@@ -1691,6 +1963,182 @@
         "documentation": {}
     },
     {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_prototype_alignment_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_margin_aux_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_pair_separation_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "hard_negative_false_positive_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_gate_anchor_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_prototype_alignment_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_margin_aux_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_pair_separation_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_prototype_alignment_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_margin_aux_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_pair_separation_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "hard_negative_false_positive_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_gate_anchor_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
         "label": "Config",
         "importPath": "vapor_par.config",
         "description": "vapor_par.config",
@@ -1765,6 +2213,22 @@
     },
     {
         "label": "ConvNeXt_Small_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "swin_v2_t",
         "importPath": "torchvision.models",
         "description": "torchvision.models",
         "isExtraImport": true,
@@ -1893,6 +2357,22 @@
     },
     {
         "label": "Swin_V2_T_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt_Tiny_Weights",
         "importPath": "torchvision.models",
         "description": "torchvision.models",
         "isExtraImport": true,
@@ -2239,6 +2719,22 @@
         "importPath": "re",
         "description": "re",
         "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "isExtraImport": true,
+        "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "make_loaders",
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "isExtraImport": true,
+        "detail": "train_strong_par",
         "documentation": {}
     },
     {
@@ -3032,6 +3528,240 @@
     {
         "label": "parse_args",
         "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "parse_members",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def parse_members(spec):\n    out = []\n    for token in spec.split(\",\"):\n        token = token.strip()\n        if not token:\n            continue\n        backbone, seed = token.rsplit(\":\", 1)\n        out.append((backbone.strip(), int(seed)))\n    if not out:\n        raise ValueError(\"No ensemble members specified\")",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def checkpoint_path(root, backbone, seed):\n    return root / f\"strong_{backbone}_seed{seed}_best.pt\"\ndef sigmoid_np(x):\n    x = np.clip(np.asarray(x, dtype=np.float64), -40.0, 40.0)\n    return 1.0 / (1.0 + np.exp(-x))\ndef logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\n@torch.inference_mode()\ndef predict_logits(model, loader, device, flip=True):",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid_np",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def sigmoid_np(x):\n    x = np.clip(np.asarray(x, dtype=np.float64), -40.0, 40.0)\n    return 1.0 / (1.0 + np.exp(-x))\ndef logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\n@torch.inference_mode()\ndef predict_logits(model, loader, device, flip=True):\n    model.eval()\n    zs, ys, ds = [], [], []",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "logit_np",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def logit_np(p):\n    p = np.clip(np.asarray(p, dtype=np.float64), 1e-6, 1.0 - 1e-6)\n    return np.log(p / (1.0 - p))\n@torch.inference_mode()\ndef predict_logits(model, loader, device, flip=True):\n    model.eval()\n    zs, ys, ds = [], [], []\n    for batch in tqdm(\n        loader,\n        desc=\"Validation inference + flip-TTA\" if flip else \"Validation inference\",",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "predict_logits",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def predict_logits(model, loader, device, flip=True):\n    model.eval()\n    zs, ys, ds = [], [], []\n    for batch in tqdm(\n        loader,\n        desc=\"Validation inference + flip-TTA\" if flip else \"Validation inference\",\n        unit=\"batch\",\n        dynamic_ncols=True,\n        mininterval=0.25,\n        file=sys.stdout,",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "build_val_loader",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def build_val_loader(args):\n    data_root = args.repo_root / \"data\"\n    val_csv = (\n        data_root\n        / \"annotations\"\n        / \"task1\"\n        / \"val\"\n        / \"gt.csv\"\n    )\n    if not val_csv.exists():",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "weight_candidates",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def weight_candidates(n_models):\n    if n_models == 1:\n        return [np.asarray([1.0], dtype=np.float64)]\n    if n_models == 2:\n        return [\n            np.asarray([w, 1.0 - w], dtype=np.float64)\n            for w in np.arange(0.0, 1.0001, 0.10)\n        ]\n    out = []\n    for i in range(n_models):",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ensemble_logits",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def ensemble_logits(logits_list, weights):\n    out = np.zeros_like(logits_list[0], dtype=np.float64)\n    for w, z in zip(weights, logits_list):\n        out += float(w) * z.astype(np.float64)\n    return out\ndef objective(overall, robust, per_domain):\n    domain_scores = [\n        float(v[\"Challenge_Avg\"])\n        for v in per_domain.values()\n    ]",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "objective",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def objective(overall, robust, per_domain):\n    domain_scores = [\n        float(v[\"Challenge_Avg\"])\n        for v in per_domain.values()\n    ]\n    min_domain = (\n        min(domain_scores)\n        if domain_scores\n        else float(overall[\"Challenge_Avg\"])\n    )",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_ensemble",
+        "description": "calibrate_ensemble",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(2027)\n    members = parse_members(args.members)\n    device = torch.device(\n        \"cuda\" if torch.cuda.is_available() else \"cpu\"\n    )\n    print(\"=\" * 100, flush=True)\n    print(\"UPAR AUTOENSEMBLE CALIBRATION\", flush=True)\n    print(\"Members:\", members, flush=True)",
+        "detail": "calibrate_ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def load_pt(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\ndef get_state(ck):\n    for key in ('inference_model_state', 'ema_model_state', 'model_state'):\n        if key in ck and ck[key] is not None:\n            return ck[key]\n    raise ValueError('No model state in checkpoint')",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def get_state(ck):\n    for key in ('inference_model_state', 'ema_model_state', 'model_state'):\n        if key in ck and ck[key] is not None:\n            return ck[key]\n    raise ValueError('No model state in checkpoint')\ndef checkpoint_file(root, kind, seed):\n    if kind == 'prototype':\n        return root / f'prototype_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'trained':\n        return root / f'prototype_generalization_convnext_tiny_seed{seed}_best.pt'",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_file",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def checkpoint_file(root, kind, seed):\n    if kind == 'prototype':\n        return root / f'prototype_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'trained':\n        return root / f'prototype_generalization_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'strong':\n        return root / f'strong_convnext_tiny_seed{seed}_best.pt'\n    raise ValueError(kind)\ndef stable_split(paths, domains, audit_fraction=.30):\n    \"\"\"Split by stable filename hash; no label leakage into selection split.\"\"\"",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "stable_split",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def stable_split(paths, domains, audit_fraction=.30):\n    \"\"\"Split by stable filename hash; no label leakage into selection split.\"\"\"\n    split = np.zeros(len(paths), dtype=bool)\n    for i, path in enumerate(paths):\n        key = str(path).replace('\\\\', '/').lower().encode('utf-8')\n        val = int.from_bytes(hashlib.sha256(key).digest()[:8], 'little') / 2**64\n        split[i] = val < audit_fraction\n    for d in np.unique(domains):\n        if d >= 0 and (sum((domains == d) & split) < 20 or sum((domains == d) & ~split) < 20):\n            raise RuntimeError(f'Insufficient fit/audit examples for domain {d}')",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def sigmoid(z):\n    return 1. / (1. + np.exp(-np.clip(z, -35, 35)))\ndef logit(x):\n    x = np.clip(x, 1e-5, 1-1e-5)\n    return np.log(x/(1-x))\ndef state_signature(path):\n    s = path.stat()\n    return f'{str(path.resolve())}::{s.st_size}::{s.st_mtime_ns}'\n@torch.inference_mode()\ndef inference(model, kind, loader, device):",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "logit",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def logit(x):\n    x = np.clip(x, 1e-5, 1-1e-5)\n    return np.log(x/(1-x))\ndef state_signature(path):\n    s = path.stat()\n    return f'{str(path.resolve())}::{s.st_size}::{s.st_mtime_ns}'\n@torch.inference_mode()\ndef inference(model, kind, loader, device):\n    lin, pro, gates, ys, dom = [], [], [], [], []\n    for batch in tqdm(loader, desc=f'{kind} validation inference (flip TTA)', unit='batch', leave=True):",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "state_signature",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def state_signature(path):\n    s = path.stat()\n    return f'{str(path.resolve())}::{s.st_size}::{s.st_mtime_ns}'\n@torch.inference_mode()\ndef inference(model, kind, loader, device):\n    lin, pro, gates, ys, dom = [], [], [], [], []\n    for batch in tqdm(loader, desc=f'{kind} validation inference (flip TTA)', unit='batch', leave=True):\n        x = batch['image'].to(device, non_blocking=True)\n        with torch.autocast(device_type=device.type, dtype=torch.float16,\n                            enabled=device.type == 'cuda'):",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "inference",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def inference(model, kind, loader, device):\n    lin, pro, gates, ys, dom = [], [], [], [], []\n    for batch in tqdm(loader, desc=f'{kind} validation inference (flip TTA)', unit='batch', leave=True):\n        x = batch['image'].to(device, non_blocking=True)\n        with torch.autocast(device_type=device.type, dtype=torch.float16,\n                            enabled=device.type == 'cuda'):\n            if kind in ('prototype','trained'):\n                a = model(x, return_aux=True)\n                b = model(torch.flip(x, dims=[3]), return_aux=True)\n                l = (a['linear_logits'] + b['linear_logits']) * .5",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "per_domain_scores",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def per_domain_scores(y, z, d, thresholds):\n    p = sigmoid(z)\n    overall = evaluate_probs(y, p, thresholds)\n    domain = {}\n    for index in sorted(int(x) for x in set(d.tolist()) if int(x) >= 0):\n        mask = d == index\n        if sum(mask) >= 10:\n            domain[index] = evaluate_probs(y[mask], p[mask], thresholds)\n    scores = [v['challenge_score'] for v in domain.values()]\n    # Emphasize consistent quality across the three source domains.",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "fit_attribute_thresholds",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def fit_attribute_thresholds(y, z, d):\n    \"\"\"Attribute BA thresholds learned only on the fit subset.\"\"\"\n    p = sigmoid(z)\n    grid = np.arange(.30, .76, .025)\n    th = np.full(40, .50, dtype=np.float32)\n    for c in range(40):\n        mask = (y[:, c] >= 0)\n        values = y[mask, c]\n        if np.count_nonzero(values == 1) < 15 or np.count_nonzero(values == 0) < 15:\n            continue",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "operating_options",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def operating_options(y, z, d, fit):\n    \"\"\"Very small family; no 40-dimensional unrestricted threshold search.\"\"\"\n    attr = fit_attribute_thresholds(y[fit], z[fit], d[fit])\n    for alpha in (0., .20, .40):\n        for base in (.48, .50, .52, .55):\n            th = np.clip((1-alpha)*base + alpha*attr, .30, .78)\n            yield {'alpha':alpha,'base':base}, th.astype(np.float32)\ndef score_for_choice(y, z, d, mask, threshold):\n    robust, met, bydom = per_domain_scores(y[mask], z[mask], d[mask], threshold)\n    worst = min((v['challenge_score'] for v in bydom.values()), default=robust)",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "score_for_choice",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def score_for_choice(y, z, d, mask, threshold):\n    robust, met, bydom = per_domain_scores(y[mask], z[mask], d[mask], threshold)\n    worst = min((v['challenge_score'] for v in bydom.values()), default=robust)\n    # Do not enforce precision == recall; reward the actual challenge components.\n    criterion = .70*robust + .30*worst\n    return float(criterion), robust, met, bydom\ndef blend_kind(cache, entry, strength):\n    if entry['kind'] in ('prototype','trained'):\n        item = cache[entry['key']]\n        gate = np.clip(item['gate']*float(strength), 0, .60)",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "blend_kind",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def blend_kind(cache, entry, strength):\n    if entry['kind'] in ('prototype','trained'):\n        item = cache[entry['key']]\n        gate = np.clip(item['gate']*float(strength), 0, .60)\n        return ((1-gate)*item['linear'] + gate*item['proto']).astype(np.float32)\n    return cache[entry['key']]['linear']\ndef choices(entries):\n    \"\"\"Small, predeclared candidate family. No per-label gate search.\"\"\"\n    previous = [e for e in entries if e['kind'] == 'prototype']\n    trained = [e for e in entries if e['kind'] == 'trained']",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "choices",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def choices(entries):\n    \"\"\"Small, predeclared candidate family. No per-label gate search.\"\"\"\n    previous = [e for e in entries if e['kind'] == 'prototype']\n    trained = [e for e in entries if e['kind'] == 'trained']\n    strong = [e for e in entries if e['kind'] == 'strong']\n    if not previous or not trained:\n        raise RuntimeError('Both original and newly trained Prototype checkpoints are required')\n    def pairs(group):\n        group = sorted(group, key=lambda x: x['seed'])\n        if len(group) >= 2:",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "peekOfCode": "def main():\n    p = argparse.ArgumentParser()\n    p.add_argument('--repo-root',type=Path,required=True)\n    p.add_argument('--checkpoint-dir',type=Path,required=True)\n    p.add_argument('--result-dir',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)\n    p.add_argument('--prototype-seeds',default='42,123')\n    p.add_argument('--trained-seeds',default='42,123')\n    p.add_argument('--strong-seeds',default='42,123')\n    p.add_argument('--batch-size',type=int,default=64)",
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
         "importPath": "calibrate_prototype_ensemble",
         "description": "calibrate_prototype_ensemble",
         "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
@@ -3525,6 +4255,204 @@
         "documentation": {}
     },
     {
+        "label": "StrongPARModel",
+        "kind": 6,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "class StrongPARModel(nn.Module):\n    def __init__(self, backbone):\n        super().__init__()\n        if backbone == \"convnext_tiny\":\n            base = convnext_tiny(weights=None)\n            d = int(\n                base.classifier[2].in_features\n            )\n            base.classifier[2] = nn.Sequential(\n                nn.Dropout(0.22),",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,\n        required=True,\n    )\n    p.add_argument(\n        \"--calibration\",\n        type=Path,",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def sha256(path):\n    h = hashlib.sha256()\n    with Path(path).open(\"rb\") as f:\n        for chunk in iter(\n            lambda: f.read(1024 * 1024),\n            b\"\",\n        ):\n            h.update(chunk)\n    return h.hexdigest()\ndef half_state_dict(state):",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "half_state_dict",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def half_state_dict(state):\n    out = {}\n    for key, value in state.items():\n        t = value.detach().cpu()\n        if torch.is_floating_point(t):\n            t = t.half()\n        out[key] = t\n    return out\ndef checkpoint_path(root, backbone, seed):\n    return (",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_path",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def checkpoint_path(root, backbone, seed):\n    return (\n        root\n        / f\"strong_{backbone}_seed{seed}_best.pt\"\n    )\ndef main():\n    args = parse_args()\n    args.result_dir.mkdir(\n        parents=True,\n        exist_ok=True,",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def main():\n    args = parse_args()\n    args.result_dir.mkdir(\n        parents=True,\n        exist_ok=True,\n    )\n    calibration = torch.load(\n        args.calibration,\n        map_location=\"cpu\",\n        weights_only=False,",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def predict_batch(samples):\n    out = []\n    for start in range(\n        0,\n        len(samples),\n        BATCH_SIZE,\n    ):\n        chunk = samples[\n            start:start + BATCH_SIZE\n        ]",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def predict_image(sample):\n    return predict_batch([sample])[0]\ndef load_model():\n    return None\n'''\n    (out / \"run.py\").write_text(\n        run_py,\n        encoding=\"utf-8\",\n    )\n    (out / \"metadata.yaml\").write_text(",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "def load_model():\n    return None\n'''\n    (out / \"run.py\").write_text(\n        run_py,\n        encoding=\"utf-8\",\n    )\n    (out / \"metadata.yaml\").write_text(\n        \"name: UPAR AutoEnsemble\\n\"\n        \"task: pedestrian_attribute_recognition\\n\"",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "ATTRIBUTE_NAMES = [\n    \"Age-Young\",\"Age-Adult\",\"Age-Old\",\"Gender-Female\",\n    \"Hair-Length-Short\",\"Hair-Length-Long\",\"Hair-Length-Bald\",\n    \"UpperBody-Length-Short\",\n    \"UpperBody-Color-Black\",\"UpperBody-Color-Blue\",\"UpperBody-Color-Brown\",\n    \"UpperBody-Color-Green\",\"UpperBody-Color-Grey\",\"UpperBody-Color-Orange\",\n    \"UpperBody-Color-Pink\",\"UpperBody-Color-Purple\",\"UpperBody-Color-Red\",\n    \"UpperBody-Color-White\",\"UpperBody-Color-Yellow\",\"UpperBody-Color-Other\",\n    \"LowerBody-Length-Short\",\n    \"LowerBody-Color-Black\",\"LowerBody-Color-Blue\",\"LowerBody-Color-Brown\",",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nPKG = torch.load(\n    ROOT / \"assets\" / \"model.pt\",\n    map_location=\"cpu\",\n    weights_only=False,\n)\nDEVICE = torch.device(\n    \"cuda\" if torch.cuda.is_available() else \"cpu\"\n)\nH = int(PKG.get(\"image_height\", 288))",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "PKG",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "PKG = torch.load(\n    ROOT / \"assets\" / \"model.pt\",\n    map_location=\"cpu\",\n    weights_only=False,\n)\nDEVICE = torch.device(\n    \"cuda\" if torch.cuda.is_available() else \"cpu\"\n)\nH = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "DEVICE",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "DEVICE = torch.device(\n    \"cuda\" if torch.cuda.is_available() else \"cpu\"\n)\nH = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "H",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "H = int(PKG.get(\"image_height\", 288))\nW = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )\n)\nATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "W",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "W = int(PKG.get(\"image_width\", 144))\nBATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )\n)\nATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "BATCH_SIZE = int(\n    os.environ.get(\n        \"UPAR_BATCH_SIZE\",\n        \"48\",\n    )\n)\nATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([\n    transforms.Resize(",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "ATTRS = list(PKG[\"attribute_names\"])\nTTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([\n    transforms.Resize(\n        (H, W),\n        interpolation=transforms.InterpolationMode.BICUBIC,\n    ),\n    transforms.ToTensor(),\n    transforms.Normalize(\n        [0.485, 0.456, 0.406],",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "TTA",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "TTA = str(PKG.get(\"tta\", \"flip\"))\nTFM = transforms.Compose([\n    transforms.Resize(\n        (H, W),\n        interpolation=transforms.InterpolationMode.BICUBIC,\n    ),\n    transforms.ToTensor(),\n    transforms.Normalize(\n        [0.485, 0.456, 0.406],\n        [0.229, 0.224, 0.225],",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "TFM",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "TFM = transforms.Compose([\n    transforms.Resize(\n        (H, W),\n        interpolation=transforms.InterpolationMode.BICUBIC,\n    ),\n    transforms.ToTensor(),\n    transforms.Normalize(\n        [0.485, 0.456, 0.406],\n        [0.229, 0.224, 0.225],\n    ),",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "MODELS = []\nWEIGHTS = []\nfor item in PKG[\"members\"]:\n    model = StrongPARModel(\n        item[\"backbone\"]\n    )\n    model.load_state_dict(\n        item[\"state_dict\"],\n        strict=True,\n    )",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "WEIGHTS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "WEIGHTS = []\nfor item in PKG[\"members\"]:\n    model = StrongPARModel(\n        item[\"backbone\"]\n    )\n    model.load_state_dict(\n        item[\"state_dict\"],\n        strict=True,\n    )\n    model = model.to(",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "THRESHOLD_LOGITS",
+        "kind": 5,
+        "importPath": "export_autoensemble",
+        "description": "export_autoensemble",
+        "peekOfCode": "THRESHOLD_LOGITS = torch.as_tensor(\n    PKG[\"threshold_logits\"],\n    dtype=torch.float32,\n    device=DEVICE,\n).reshape(1, -1)\ndef _path(sample):\n    for key in (\n        \"image_path\",\n        \"path\",\n        \"image\",",
+        "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
         "label": "Net",
         "kind": 6,
         "importPath": "export_distill_submission",
@@ -3792,6 +4720,51 @@
         "description": "export_fast_student_dg_submission",
         "peekOfCode": "_COUNT = 0\ndef _sha256(path):\n    h = hashlib.sha256()\n    with open(path, \"rb\") as f:\n        while True:\n            b = f.read(8 * 1024 * 1024)\n            if not b:\n                break\n            h.update(b)\n    return h.hexdigest()",
         "detail": "export_fast_student_dg_submission",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "kind": 2,
+        "importPath": "export_generalization",
+        "description": "export_generalization",
+        "peekOfCode": "def load_pt(path):\n    try:return torch.load(path,map_location='cpu',weights_only=False)\n    except TypeError:return torch.load(path,map_location='cpu')\ndef get_state(ck):\n    for k in ('inference_model_state','ema_model_state','model_state'):\n        if k in ck and ck[k] is not None:return ck[k]\n    raise RuntimeError('No deployable checkpoint state')\ndef sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:",
+        "detail": "export_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "kind": 2,
+        "importPath": "export_generalization",
+        "description": "export_generalization",
+        "peekOfCode": "def get_state(ck):\n    for k in ('inference_model_state','ema_model_state','model_state'):\n        if k in ck and ck[k] is not None:return ck[k]\n    raise RuntimeError('No deployable checkpoint state')\ndef sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:\n        for chunk in iter(lambda:f.read(1024*1024),b''):h.update(chunk)\n    return h.hexdigest()\ndef main():",
+        "detail": "export_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_generalization",
+        "description": "export_generalization",
+        "peekOfCode": "def sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:\n        for chunk in iter(lambda:f.read(1024*1024),b''):h.update(chunk)\n    return h.hexdigest()\ndef main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--calibration',type=Path,required=True)\n    p.add_argument('--runtime-file',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)",
+        "detail": "export_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_generalization",
+        "description": "export_generalization",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--calibration',type=Path,required=True)\n    p.add_argument('--runtime-file',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)\n    p.add_argument('--micro-batch-size',type=int,default=8)\n    p.add_argument('--require-trained',action='store_true',help='Reject submission if audit guard selected no retrained member')\n    args=p.parse_args()\n    if not 1<=args.micro_batch_size<=64:raise ValueError('micro batch must be between 1 and 64')\n    cal=load_pt(args.calibration)",
+        "detail": "export_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "smoke_test",
+        "kind": 2,
+        "importPath": "export_generalization",
+        "description": "export_generalization",
+        "peekOfCode": "def smoke_test(zippath):\n    \"\"\"Exercise the *exact exported archive*, including load_model and both APIs.\"\"\"\n    from PIL import Image\n    with tempfile.TemporaryDirectory() as tmp:\n        root=Path(tmp)\n        with zipfile.ZipFile(zippath) as z:z.extractall(root)\n        subprocess.run([sys.executable,'-m','py_compile',str(root/'run.py')],check=True)\n        image=root/'probe.jpg';Image.new('RGB',(144,288),(128,128,128)).save(image)\n        cfg=json.loads((root/'assets/config.json').read_text())\n        src=f'''import sys,math\\nsys.path.insert(0,{str(root)!r})\\nimport run\\nsample={{'image_path':{str(image)!r},'attribute_names':{cfg['attribute_names']!r}}}\\nrun.load_model()\\na=run.predict_image(sample)\\nb=run.predict_batch([sample,sample])\\nassert len(a)==40 and len(b)==2 and all(len(r)==40 for r in b)\\nassert all(math.isfinite(float(x)) and 0<=float(x)<=1 for x in a)\\nprint('RUNTIME_SMOKE_TEST_OK')\\n'''",
+        "detail": "export_generalization",
         "documentation": {}
     },
     {
@@ -4713,6 +5686,105 @@
         "documentation": {}
     },
     {
+        "label": "HybridPrototypePAR",
+        "kind": 6,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "class HybridPrototypePAR(nn.Module):\n    \"\"\"\n    ConvNeXt-Tiny + attribute-specific spatial queries + positive/negative prototypes.\n    The final logit is a learnable hybrid of:\n        1) a conventional global linear classifier, and\n        2) a prototype-margin classifier.\n    This is intentionally conservative for leaderboard use: if prototypes are\n    not yet useful for a specific attribute, the learned gate can keep more\n    weight on the linear path instead of forcing pure prototype classification.\n    \"\"\"",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "StrongTinyForSubmission",
+        "kind": 6,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "class StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = convnext_tiny(weights=None)\n        ch = int(base.classifier[2].in_features)\n        base.classifier[2] = nn.Sequential(nn.Dropout(.22), nn.Linear(ch, 40))\n        self.net = base\n    def forward(self, x):\n        return self.net(x)\nclass Runtime:",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "Runtime",
+        "kind": 6,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "class Runtime:\n    def __init__(self):\n        bundle = _load_bundle(ROOT/'assets'/'model.pt')\n        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n        self.attrs = list(bundle['attribute_names'])\n        if len(self.attrs) != 40 or len(set(self.attrs)) != 40:\n            raise ValueError('Expected 40 unique attribute names')\n        self.index = {name:i for i,name in enumerate(self.attrs)}\n        self.threshold_logits = torch.as_tensor(bundle['threshold_logits'],dtype=torch.float32).reshape(1,-1).to(self.device)\n        if self.threshold_logits.shape != (1,40):",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "def load_model():\n    \"\"\"Codabench load step.\"\"\"\n    _ensure()\n    return None\ndef predict_image(sample):\n    return _ensure().predict([sample])[0]\ndef predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "def predict_image(sample):\n    return _ensure().predict([sample])[0]\ndef predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "def predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_ATTRIBUTES",
+        "kind": 5,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "NUM_ATTRIBUTES = 40\ndef _logit(p: float) -> float:\n    p = min(max(float(p), 1e-5), 1.0 - 1e-5)\n    return math.log(p / (1.0 - p))\nclass HybridPrototypePAR(nn.Module):\n    \"\"\"\n    ConvNeXt-Tiny + attribute-specific spatial queries + positive/negative prototypes.\n    The final logit is a learnable hybrid of:\n        1) a conventional global linear classifier, and\n        2) a prototype-margin classifier.",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nBATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "BATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "MICRO_BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "MICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "_RUNTIME",
+        "kind": 5,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = convnext_tiny(weights=None)",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
         "label": "parse_args",
         "kind": 2,
         "importPath": "train_colab",
@@ -4818,6 +5890,105 @@
         "description": "train_fast_student_dg",
         "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    repo_root = Path(args.repo_root)\n    data_root = repo_root / \"data\"\n    train_csv = data_root / \"annotations\" / \"task1\" / \"train\" / \"gt.csv\"\n    val_csv = data_root / \"annotations\" / \"task1\" / \"val\" / \"gt.csv\"\n    ckpt_dir = Path(args.checkpoint_dir)\n    ckpt_dir.mkdir(parents=True, exist_ok=True)\n    if not train_csv.exists() or not val_csv.exists():",
         "detail": "train_fast_student_dg",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "paths_for",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def paths_for(args):\n    args.checkpoint_dir.mkdir(parents=True, exist_ok=True)\n    stem = f\"prototype_generalization_convnext_tiny_seed{args.seed}\"\n    return (\n        args.checkpoint_dir / f\"{stem}_last.pt\",\n        args.checkpoint_dir / f\"{stem}_best.pt\",\n        stem,\n    )\ndef _candidate_score(path: Path):\n    m = re.search(r\"_score([0-9.]+)\\.pt$\", path.name)",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "candidate_paths",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def candidate_paths(checkpoint_dir: Path, stem: str):\n    return sorted(\n        checkpoint_dir.glob(f\"{stem}_ep*_score*.pt\"),\n        key=_candidate_score,\n        reverse=True,\n    )\ndef prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "prune_candidates",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:\n            p.unlink()\n        except FileNotFoundError:\n            pass\n    return paths[:keep]\ndef save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "save_candidate",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {\n        \"epoch\": int(epoch),\n        \"selection\": float(selection),\n        \"ema_model_state\": {\n            k: v.detach().cpu()\n            for k, v in model_state.items()\n        },\n        \"metrics_05\": metrics_05,\n    }",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "model_kwargs_from_args",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def model_kwargs_from_args(args):\n    return {\n        \"num_attributes\": len(ATTRIBUTE_NAMES),\n        \"prototype_dim\": int(args.prototype_dim),\n        \"prototype_temperature\": float(args.prototype_temperature),\n        \"prototype_gate_init\": float(args.prototype_gate_init),\n        \"prototype_gate_min\": float(args.prototype_gate_min),\n        \"prototype_gate_max\": float(args.prototype_gate_max),\n        \"prototype_ema_momentum\": float(args.prototype_ema_momentum),\n        \"prototype_ema_mix\": float(args.prototype_ema_mix),",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "sync_prototype_buffers_to_ema",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def sync_prototype_buffers_to_ema(model, ema):\n    \"\"\"\n    ModelEMA already smooths trainable parameters. Prototype EMA buffers are\n    themselves moving averages, so they should be copied directly instead of\n    being averaged a second time.\n    \"\"\"\n    with torch.no_grad():\n        for name in (\n            \"prototype_pos_ema\",\n            \"prototype_neg_ema\",",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "parameter_groups",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def parameter_groups(model, args):\n    backbone_params = []\n    head_params = []\n    for name, param in model.named_parameters():\n        if not param.requires_grad:\n            continue\n        if name.startswith(\"backbone.features.\") or name.startswith(\n            \"backbone.classifier.0.\"\n        ):\n            backbone_params.append(param)",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_factor",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def cosine_factor(epoch, total_epochs, floor=0.06):\n    if total_epochs <= 1:\n        return 1.0\n    progress = min(\n        max(float(epoch) / float(total_epochs - 1), 0.0),\n        1.0,\n    )\n    return float(\n        floor\n        + (1.0 - floor)",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "calibrate_and_save",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def calibrate_and_save(\n    *,\n    args,\n    state,\n    model,\n    val_loader,\n    device,\n    best_path,\n    selection,\n    epoch,",
+        "detail": "train_prototype_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_prototype_generalization",
+        "description": "train_prototype_generalization",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(\n        batch_size=int(args.batch_size),\n        num_workers=int(args.num_workers),\n        epochs=int(args.epochs),\n        sampler_alpha=float(args.sampler_alpha),\n    )\n    device = torch.device(",
+        "detail": "train_prototype_generalization",
         "documentation": {}
     },
     {
