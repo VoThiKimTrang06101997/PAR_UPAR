@@ -216,6 +216,30 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -231,6 +255,22 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -960,6 +1000,14 @@
         "documentation": {}
     },
     {
+        "label": "Sampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "Dataset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
@@ -993,6 +1041,22 @@
     },
     {
         "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Subset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
         "isExtraImport": true,
@@ -1110,6 +1174,14 @@
         "importPath": "os.",
         "description": "os.",
         "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
         "documentation": {}
     },
     {
@@ -1436,6 +1508,118 @@
     },
     {
         "label": "NUM_ATTRIBUTES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "DOMAIN_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "MaskedBalancedBCE",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_pos_weight",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEMA",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "TrainConfig",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "average_state_dicts",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "load_legacy_teacher",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "response_kd_loss",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
         "importPath": "strong_par",
         "description": "strong_par",
         "isExtraImport": true,
@@ -1875,6 +2059,30 @@
         "documentation": {}
     },
     {
+        "label": "robust_selection_score",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "tune_lodo_thresholds",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
         "label": "tune_attribute_thresholds",
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
@@ -2004,6 +2212,54 @@
     },
     {
         "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_prototype_alignment_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_margin_aux_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_pair_separation_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "hard_negative_false_positive_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_gate_anchor_loss",
         "importPath": "prototype_par",
         "description": "prototype_par",
         "isExtraImport": true,
@@ -2719,6 +2975,38 @@
         "importPath": "re",
         "description": "re",
         "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "DomainMixBatchSampler",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_supcon",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "domain_positive_negative_alignment",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "importPath": "train_strong_par",
+        "description": "train_strong_par",
+        "isExtraImport": true,
+        "detail": "train_strong_par",
         "documentation": {}
     },
     {
@@ -3638,7 +3926,7 @@
         "kind": 2,
         "importPath": "calibrate_generalization",
         "description": "calibrate_generalization",
-        "peekOfCode": "def get_state(ck):\n    for key in ('inference_model_state', 'ema_model_state', 'model_state'):\n        if key in ck and ck[key] is not None:\n            return ck[key]\n    raise ValueError('No model state in checkpoint')\ndef checkpoint_file(root, kind, seed):\n    if kind == 'prototype':\n        return root / f'prototype_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'trained':\n        return root / f'prototype_generalization_convnext_tiny_seed{seed}_best.pt'",
+        "peekOfCode": "def get_state(ck):\n    for key in ('inference_model_state', 'ema_model_state', 'model_state'):\n        if key in ck and ck[key] is not None:\n            return ck[key]\n    raise ValueError('No model state in checkpoint')\ndef checkpoint_file(root, kind, seed):\n    if kind == 'prototype':\n        return root / f'prototype_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'trained':\n        return root / f'prototype_contrastive_convnext_tiny_seed{seed}_best.pt'",
         "detail": "calibrate_generalization",
         "documentation": {}
     },
@@ -3647,7 +3935,7 @@
         "kind": 2,
         "importPath": "calibrate_generalization",
         "description": "calibrate_generalization",
-        "peekOfCode": "def checkpoint_file(root, kind, seed):\n    if kind == 'prototype':\n        return root / f'prototype_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'trained':\n        return root / f'prototype_generalization_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'strong':\n        return root / f'strong_convnext_tiny_seed{seed}_best.pt'\n    raise ValueError(kind)\ndef stable_split(paths, domains, audit_fraction=.30):\n    \"\"\"Split by stable filename hash; no label leakage into selection split.\"\"\"",
+        "peekOfCode": "def checkpoint_file(root, kind, seed):\n    if kind == 'prototype':\n        return root / f'prototype_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'trained':\n        return root / f'prototype_contrastive_convnext_tiny_seed{seed}_best.pt'\n    if kind == 'strong':\n        return root / f'strong_convnext_tiny_seed{seed}_best.pt'\n    raise ValueError(kind)\ndef stable_split(paths, domains, audit_fraction=.30):\n    \"\"\"Split by stable filename hash; no label leakage into selection split.\"\"\"",
         "detail": "calibrate_generalization",
         "documentation": {}
     },
@@ -4252,6 +4540,33 @@
         "description": "distill_par",
         "peekOfCode": "ATTRIBUTE_GROUPS = [\n    (0, 1, 2),       # age\n    (4, 5, 6),       # hair length/state\n    tuple(range(8, 20)),   # upper-body color\n    tuple(range(21, 33)),  # lower-body color\n    (33, 34),        # lower-body type\n]\ndef seed_everything(seed: int) -> None:\n    random.seed(seed)\n    np.random.seed(seed)",
         "detail": "distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "DomainMixBatchSampler",
+        "kind": 6,
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "peekOfCode": "class DomainMixBatchSampler(Sampler[list[int]]):\n    \"\"\"Sample each batch from multiple known source domains.\n    Outputs positions in a domain-filtered torch.utils.data.Subset. Keeping\n    at least a few samples per domain avoids empty cross-domain objectives.\n    Sampling is with replacement. Seed + epoch make reruns reproducible.\n    \"\"\"\n    def __init__(self, domains, batch_size=48, steps_per_epoch=900,\n                 alpha=0.35, seed=42, min_per_domain=8):\n        self.domains = np.asarray(domains, dtype=np.int64)\n        self.batch_size = int(batch_size)",
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_supcon",
+        "kind": 2,
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "peekOfCode": "def cross_domain_supcon(features: torch.Tensor, targets: torch.Tensor,\n                        valid: torch.Tensor, domains: torch.Tensor,\n                        temperature: float = 0.18, max_per_cell: int = 8,\n                        max_attributes: int = 16):\n    \"\"\"Cross-domain, class-conditional InfoNCE on [batch,40,dim] features.\n    For each attribute, anchor positives are same-label examples from other\n    source domains; negatives have the opposite label (from any domain).\n    All terms use valid annotations; attributes without both classes and\n    sufficient cross-domain positives are skipped. No detached feature path.\n    \"\"\"",
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "domain_positive_negative_alignment",
+        "kind": 2,
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "peekOfCode": "def domain_positive_negative_alignment(features, targets, valid, domains,\n                                       min_per_cell=2, max_attributes=16):\n    \"\"\"Align positive with positive and negative with negative across domains.\n    A cell must have at least `min_per_cell` valid examples; compare each\n    centroid to the balanced mean of domain centroids of the same class.\n    \"\"\"\n    z = F.normalize(features.float(), dim=-1)\n    d = domains.long()\n    y = targets.float()\n    v = valid.bool()",
+        "detail": "domain_contrastive",
         "documentation": {}
     },
     {
@@ -5506,6 +5821,15 @@
         "documentation": {}
     },
     {
+        "label": "main",
+        "kind": 2,
+        "importPath": "select_domain_objective",
+        "description": "select_domain_objective",
+        "peekOfCode": "def main():\n    ap = argparse.ArgumentParser()\n    ap.add_argument('--report-dir', required=True, type=Path)\n    ap.add_argument('--output', required=True, type=Path)\n    ap.add_argument('--seed', type=int, default=42)\n    ap.add_argument('--candidates', default='none:0:0,moderate:0.04:0.01,strong:0.08:0.02')\n    ap.add_argument('--min-improvement', type=float, default=0.002)\n    ap.add_argument('--max-weakest-drop', type=float, default=0.004)\n    args = ap.parse_args()\n    trials = []",
+        "detail": "select_domain_objective",
+        "documentation": {}
+    },
+    {
         "label": "ImageResolver",
         "kind": 6,
         "importPath": "strong_par",
@@ -5845,6 +6169,114 @@
         "description": "train_distill_par",
         "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(num_workers=args.num_workers)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    train_loader, val_loader = make_loaders(args, cfg)\n    last_path, best_path = paths_for(args, cfg)\n    if args.stage == \"teacher\":\n        model = ConvNeXtPAR(\"small\", pretrained=True, mixstyle=True).to(device)\n        teacher = None",
         "detail": "train_distill_par",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\n        \"--repo-root\",\n        type=Path,\n        default=Path(\"/content/UPAR-Challenge-2027\"),\n    )\n    p.add_argument(\n        \"--checkpoint-dir\",\n        type=Path,",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "paths_for",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def paths_for(args):\n    args.checkpoint_dir.mkdir(parents=True, exist_ok=True)\n    if args.heldout_domain < 0:\n        stem = f\"prototype_contrastive_convnext_tiny_seed{args.seed}\"\n    else:\n        tag = ''.join(c for c in args.trial_tag if c.isalnum() or c in \"_-\" )\n        stem = f\"prototype_lodo_seed{args.seed}_heldout{args.heldout_domain}_{tag}\"\n    return (\n        args.checkpoint_dir / f\"{stem}_last.pt\",\n        args.checkpoint_dir / f\"{stem}_best.pt\",",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "candidate_paths",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def candidate_paths(checkpoint_dir: Path, stem: str):\n    return sorted(\n        checkpoint_dir.glob(f\"{stem}_ep*_score*.pt\"),\n        key=_candidate_score,\n        reverse=True,\n    )\ndef prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "prune_candidates",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def prune_candidates(checkpoint_dir: Path, stem: str, keep: int):\n    paths = candidate_paths(checkpoint_dir, stem)\n    for p in paths[keep:]:\n        try:\n            p.unlink()\n        except FileNotFoundError:\n            pass\n    return paths[:keep]\ndef save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "save_candidate",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def save_candidate(path, model_state, epoch, selection, metrics_05):\n    payload = {\n        \"epoch\": int(epoch),\n        \"selection\": float(selection),\n        \"ema_model_state\": {\n            k: v.detach().cpu()\n            for k, v in model_state.items()\n        },\n        \"metrics_05\": metrics_05,\n    }",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "model_kwargs_from_args",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def model_kwargs_from_args(args):\n    return {\n        \"num_attributes\": len(ATTRIBUTE_NAMES),\n        \"prototype_dim\": int(args.prototype_dim),\n        \"prototype_temperature\": float(args.prototype_temperature),\n        \"prototype_gate_init\": float(args.prototype_gate_init),\n        \"prototype_gate_min\": float(args.prototype_gate_min),\n        \"prototype_gate_max\": float(args.prototype_gate_max),\n        \"prototype_ema_momentum\": float(args.prototype_ema_momentum),\n        \"prototype_ema_mix\": float(args.prototype_ema_mix),",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "sync_prototype_buffers_to_ema",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def sync_prototype_buffers_to_ema(model, ema):\n    \"\"\"\n    ModelEMA already smooths trainable parameters. Prototype EMA buffers are\n    themselves moving averages, so they should be copied directly instead of\n    being averaged a second time.\n    \"\"\"\n    with torch.no_grad():\n        for name in (\n            \"prototype_pos_ema\",\n            \"prototype_neg_ema\",",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "parameter_groups",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def parameter_groups(model, args):\n    backbone_params = []\n    head_params = []\n    for name, param in model.named_parameters():\n        if not param.requires_grad:\n            continue\n        if name.startswith(\"backbone.features.\") or name.startswith(\n            \"backbone.classifier.0.\"\n        ):\n            backbone_params.append(param)",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_factor",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def cosine_factor(epoch, total_epochs, floor=0.06):\n    if total_epochs <= 1:\n        return 1.0\n    progress = min(\n        max(float(epoch) / float(total_epochs - 1), 0.0),\n        1.0,\n    )\n    return float(\n        floor\n        + (1.0 - floor)",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "calibrate_and_save",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def calibrate_and_save(\n    *,\n    args,\n    state,\n    model,\n    val_loader,\n    device,\n    best_path,\n    selection,\n    epoch,",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "make_domain_loaders",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def make_domain_loaders(args, cfg):\n    \"\"\"TRUE LODO: excludes held-out domain from *training annotations*.\n    IMPORTANT: LODO folds NEVER load any teacher or initialization checkpoint\n    trained on all three source domains. Only public ImageNet pretraining is used.\n    \"\"\"\n    data_root = args.repo_root / \"data\"\n    train_csv = data_root / \"annotations/task1/train/gt.csv\"\n    val_csv = data_root / \"annotations/task1/val/gt.csv\"\n    if not train_csv.exists() or not val_csv.exists():\n        raise FileNotFoundError(\"UPAR annotations missing; run prepare_data.py\")",
+        "detail": "train_domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_domain_contrastive",
+        "description": "train_domain_contrastive",
+        "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(\n        batch_size=int(args.batch_size),\n        num_workers=int(args.num_workers),\n        epochs=int(args.epochs),\n        sampler_alpha=float(args.sampler_alpha),\n    )\n    device = torch.device(",
+        "detail": "train_domain_contrastive",
         "documentation": {}
     },
     {

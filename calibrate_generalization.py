@@ -37,7 +37,7 @@ def checkpoint_file(root, kind, seed):
     if kind == 'prototype':
         return root / f'prototype_convnext_tiny_seed{seed}_best.pt'
     if kind == 'trained':
-        return root / f'prototype_generalization_convnext_tiny_seed{seed}_best.pt'
+        return root / f'prototype_contrastive_convnext_tiny_seed{seed}_best.pt'
     if kind == 'strong':
         return root / f'strong_convnext_tiny_seed{seed}_best.pt'
     raise ValueError(kind)
