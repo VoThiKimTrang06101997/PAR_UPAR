@@ -50,7 +50,8 @@ def main():
         if w<=1e-8:continue
         ck=load_pt(Path(entry['checkpoint']))
         sd=get_state(ck)
-        cfg=dict(ck.get('prototype_config',{})) if entry['kind'] in ('prototype','trained') else {}
+        cfg=(dict(ck.get('dinov2_config',{})) if entry['kind']=='dinov2' else
+             dict(ck.get('prototype_config',{})) if entry['kind'] in ('prototype','trained','robust') else {})
         cfg.pop('pretrained',None)
         members.append(dict(kind=entry['kind'],seed=int(entry['seed']),weight=w,
                             config=cfg,state_dict={k:(v.detach().cpu().half() if torch.is_floating_point(v) else v.detach().cpu())
@@ -61,7 +62,9 @@ def main():
         folder=Path(root)/'submission';(folder/'assets').mkdir(parents=True)
         torch.save(dict(members=members,attribute_names=cal['attribute_names'],
                         threshold_logits=cal['threshold_logits'],strength=cal['strength'],
-                        image_height=cal['image_height'],image_width=cal['image_width'],tta='flip'),
+                        image_height=cal['image_height'],image_width=cal['image_width'],
+                        tta=cal.get('tta','flip'),dual_height=cal.get('dual_height',320),
+                        dual_width=cal.get('dual_width',160)),
                    folder/'assets'/'model.pt')
         runtime=args.runtime_file.read_text(encoding='utf-8')
         runtime=runtime.replace("'UPAR_MICRO_BATCH_SIZE', '8'",f"'UPAR_MICRO_BATCH_SIZE', '{int(args.micro_batch_size)}'")
@@ -74,11 +77,11 @@ def main():
             'attribute_names':cal['attribute_names'],
             'audit_metrics':cal.get('audit_metrics'),
             'micro_batch_size':int(args.micro_batch_size),
-            'tta':'flip',
+            'tta':cal.get('tta','flip'),
         },indent=2),encoding='utf-8')
         (folder/'metadata.yaml').write_text('name: UPAR Generalization Ensemble\nframework: pytorch\n',encoding='utf-8')
-        (folder/'NOTICE.md').write_text('Prototype and optional ConvNeXt-Tiny models. Flip TTA. Fit/audit split calibration.\n',encoding='utf-8')
-        (folder/'LICENSE-model.txt').write_text('Participant-trained models; pretrained components retain upstream licenses.\n',encoding='utf-8')
+        (folder/'NOTICE.md').write_text('Prototype ConvNeXt and optional DINOv2-S pretrained backbone. FIT/AUDIT-selected ensemble; upstream pretrained licenses apply.\n',encoding='utf-8')
+        (folder/'LICENSE-model.txt').write_text('Participant-trained models; optional facebook/dinov2-small pretrained weights licensed Apache-2.0 by its upstream provider. Respect upstream license and attribution.\n',encoding='utf-8')
         args.output.parent.mkdir(parents=True,exist_ok=True)
         if args.output.exists():args.output.unlink()
         with zipfile.ZipFile(args.output,'w',zipfile.ZIP_DEFLATED) as z:

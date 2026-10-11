@@ -210,6 +210,7 @@ def main():
     p.add_argument('--num-workers',type=int,default=2)
     p.add_argument('--force-inference',action='store_true')
     p.add_argument('--anchor-calibration',type=Path,default=None)
+    p.add_argument('--trained-checkpoint-dir',type=Path,default=None)
     args=p.parse_args()
     seed_everything(2027)
     device=torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -225,7 +226,7 @@ def main():
     entries=[]
     for kind,seeds in [('prototype',args.prototype_seeds),('trained',args.trained_seeds),('strong',args.strong_seeds)]:
         for seed in [int(x) for x in seeds.split(',') if x.strip()]:
-            ckpt=checkpoint_file(args.checkpoint_dir,kind,seed)
+            ckpt=checkpoint_file(args.trained_checkpoint_dir or args.checkpoint_dir,kind,seed) if kind=='trained' else checkpoint_file(args.checkpoint_dir,kind,seed)
             if not ckpt.exists():
                 if kind in ('prototype','trained'): raise FileNotFoundError(ckpt)
                 print('Optional strong checkpoint unavailable:', ckpt,flush=True)

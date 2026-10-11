@@ -240,6 +240,86 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -255,6 +335,78 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -604,11 +756,59 @@
         "documentation": {}
     },
     {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
         "label": "torch.nn",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "torch.nn",
         "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
         "detail": "torch.nn",
         "documentation": {}
     },
@@ -639,6 +839,14 @@
     },
     {
         "label": "ImageFile",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
         "importPath": "PIL",
         "description": "PIL",
         "isExtraImport": true,
@@ -984,6 +1192,14 @@
         "documentation": {}
     },
     {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "Dataset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
@@ -1008,15 +1224,7 @@
         "documentation": {}
     },
     {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "WeightedRandomSampler",
+        "label": "DataLoader",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
         "isExtraImport": true,
@@ -1033,6 +1241,38 @@
     },
     {
         "label": "WeightedRandomSampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "WeightedRandomSampler",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Subset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
         "isExtraImport": true,
@@ -1077,6 +1317,14 @@
         "description": "torch.utils.data",
         "isExtraImport": true,
         "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
         "documentation": {}
     },
     {
@@ -1289,6 +1537,38 @@
         "documentation": {}
     },
     {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
         "label": "time",
         "kind": 6,
         "isExtraImport": true,
@@ -1307,6 +1587,159 @@
         "documentation": {}
     },
     {
+        "label": "argparse,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse.",
+        "description": "argparse.",
+        "detail": "argparse.",
+        "documentation": {}
+    },
+    {
+        "label": "stable_split",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "logit",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "stable_split",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "logit",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "stable_split",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "signature",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "domain_metrics",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "conservative_thresholds",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "signature",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "infer_logits",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
         "label": "ATTRIBUTE_NAMES",
         "importPath": "strong_par",
         "description": "strong_par",
@@ -1500,6 +1933,110 @@
     },
     {
         "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "StrongPARModel",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "detect_image_column",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "infer_domain_id",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
         "importPath": "strong_par",
         "description": "strong_par",
         "isExtraImport": true,
@@ -1508,6 +2045,62 @@
     },
     {
         "label": "NUM_ATTRIBUTES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ATTRIBUTE_NAMES",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_train_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_pos_weight",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "seed_everything",
         "importPath": "strong_par",
         "description": "strong_par",
         "isExtraImport": true,
@@ -2035,6 +2628,22 @@
         "documentation": {}
     },
     {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_probs",
+        "importPath": "vapor_par.metrics",
+        "description": "vapor_par.metrics",
+        "isExtraImport": true,
+        "detail": "vapor_par.metrics",
+        "documentation": {}
+    },
+    {
         "label": "robust_selection_score",
         "importPath": "vapor_par.metrics",
         "description": "vapor_par.metrics",
@@ -2227,7 +2836,7 @@
         "documentation": {}
     },
     {
-        "label": "cross_domain_prototype_alignment_loss",
+        "label": "HybridPrototypePAR",
         "importPath": "prototype_par",
         "description": "prototype_par",
         "isExtraImport": true,
@@ -2235,31 +2844,7 @@
         "documentation": {}
     },
     {
-        "label": "prototype_margin_aux_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "prototype_pair_separation_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "hard_negative_false_positive_loss",
-        "importPath": "prototype_par",
-        "description": "prototype_par",
-        "isExtraImport": true,
-        "detail": "prototype_par",
-        "documentation": {}
-    },
-    {
-        "label": "prototype_gate_anchor_loss",
+        "label": "HybridPrototypePAR",
         "importPath": "prototype_par",
         "description": "prototype_par",
         "isExtraImport": true,
@@ -2347,6 +2932,54 @@
         "documentation": {}
     },
     {
+        "label": "hard_negative_false_positive_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_gate_anchor_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_prototype_alignment_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_margin_aux_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_pair_separation_loss",
+        "importPath": "prototype_par",
+        "description": "prototype_par",
+        "isExtraImport": true,
+        "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
         "label": "HybridPrototypePAR",
         "importPath": "prototype_par",
         "description": "prototype_par",
@@ -2392,6 +3025,47 @@
         "description": "prototype_par",
         "isExtraImport": true,
         "detail": "prototype_par",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "DinoAttributePAR",
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "isExtraImport": true,
+        "detail": "dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "DinoAttributePAR",
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "isExtraImport": true,
+        "detail": "dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "DinoAttributePAR",
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "isExtraImport": true,
+        "detail": "dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "config_for_checkpoint",
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "isExtraImport": true,
+        "detail": "dinov2_par",
         "documentation": {}
     },
     {
@@ -2636,6 +3310,22 @@
         "documentation": {}
     },
     {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt_Tiny_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
         "label": "textwrap",
         "kind": 6,
         "isExtraImport": true,
@@ -2841,6 +3531,54 @@
         "documentation": {}
     },
     {
+        "label": "DomainMixBatchSampler",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_supcon",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "domain_positive_negative_alignment",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "DomainMixBatchSampler",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "cross_domain_supcon",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "domain_positive_negative_alignment",
+        "importPath": "domain_contrastive",
+        "description": "domain_contrastive",
+        "isExtraImport": true,
+        "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
         "label": "ATTRIBUTE_NAMES",
         "importPath": "distill_par",
         "description": "distill_par",
@@ -2978,30 +3716,6 @@
         "documentation": {}
     },
     {
-        "label": "DomainMixBatchSampler",
-        "importPath": "domain_contrastive",
-        "description": "domain_contrastive",
-        "isExtraImport": true,
-        "detail": "domain_contrastive",
-        "documentation": {}
-    },
-    {
-        "label": "cross_domain_supcon",
-        "importPath": "domain_contrastive",
-        "description": "domain_contrastive",
-        "isExtraImport": true,
-        "detail": "domain_contrastive",
-        "documentation": {}
-    },
-    {
-        "label": "domain_positive_negative_alignment",
-        "importPath": "domain_contrastive",
-        "description": "domain_contrastive",
-        "isExtraImport": true,
-        "detail": "domain_contrastive",
-        "documentation": {}
-    },
-    {
         "label": "evaluate",
         "importPath": "train_strong_par",
         "description": "train_strong_par",
@@ -3055,6 +3769,15 @@
         "description": "train_strong_par",
         "isExtraImport": true,
         "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "os,sys,pty,time,select,signal,codecs,subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.sys.pty.time.select.signal.codecs.subprocess",
+        "description": "os.sys.pty.time.select.signal.codecs.subprocess",
+        "detail": "os.sys.pty.time.select.signal.codecs.subprocess",
         "documentation": {}
     },
     {
@@ -3814,6 +4537,105 @@
         "documentation": {}
     },
     {
+        "label": "load_cache",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def load_cache(base, entries, repo_root, mode):\n    cache={}; y=None; domain=None\n    for e in entries:\n        cache_file=base/f\"shift_predictions_{e['kind']}_seed{e['seed']}_{mode}.npz\"\n        if not cache_file.is_file():\n            raise FileNotFoundError(f'Missing GPU prediction cache: {cache_file}. Run original Cell 9 first.')\n        with np.load(cache_file, allow_pickle=False) as record:\n            want=signature(Path(e['checkpoint']),mode,repo_root)\n            got=str(record['signature'].item())\n            if got!=want:",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "gate_from_checkpoint",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def gate_from_checkpoint(entry):\n    if entry['kind']=='strong':return np.zeros((1,40),dtype='float32')\n    ck=load_pt(Path(entry['checkpoint']))\n    sd=get_state(ck)\n    x=sd['prototype_gate_logits'].detach().float().cpu().numpy().reshape(1,40)\n    config=dict(entry.get('config') or {})\n    lo= .05 if entry['kind']=='dinov2' else float(config.get('prototype_gate_min',.08))\n    hi= .65 if entry['kind']=='dinov2' else float(config.get('prototype_gate_max',.92))\n    return np.clip(sigmoid(x),lo,hi)\ndef all_logits(cal,cache,entries):",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "all_logits",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def all_logits(cal,cache,entries):\n    strength=float(cal['strength']); out=[]\n    for e in entries:\n        record=cache[e['key']]\n        gate=np.clip(gate_from_checkpoint(e)*strength,0.,.60)\n        logits=(1.-gate)*record['linear']+gate*record['proto']\n        if not np.isfinite(logits).all():raise ValueError(f'NaN logits from {e[\"key\"]}')\n        out.append(logits.astype('float32'))\n    return np.stack(out,axis=1)\ndef weighted_logits(x, w):",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "weighted_logits",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def weighted_logits(x, w):\n    # x (N,K,C), w (K,C); same algebra used by Codabench runtime.\n    return np.einsum('nkc,kc->nc',x,w,optimize=True).astype('float32')\ndef fit_softmax_weights(x, y, d, train_mask, reference, penalty=.5, steps=120, seed=42):\n    \"\"\"Masked balanced BCE pooled over domains and classes; regularized toward reference.\n    Optimization learns a LOW-dimensional Kx40 gate only, never updates image models.\n    Training examples are drawn exclusively from FIT train_mask.\n    \"\"\"\n    torch.manual_seed(seed)\n    idx=np.flatnonzero(train_mask)",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "fit_softmax_weights",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def fit_softmax_weights(x, y, d, train_mask, reference, penalty=.5, steps=120, seed=42):\n    \"\"\"Masked balanced BCE pooled over domains and classes; regularized toward reference.\n    Optimization learns a LOW-dimensional Kx40 gate only, never updates image models.\n    Training examples are drawn exclusively from FIT train_mask.\n    \"\"\"\n    torch.manual_seed(seed)\n    idx=np.flatnonzero(train_mask)\n    device=torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    xx=torch.from_numpy(np.ascontiguousarray(x[idx])).float().to(device)\n    yy=torch.from_numpy(np.ascontiguousarray(y[idx])).float().to(device)",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "thresholds",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def thresholds(y,prob,domain,fit_mask,anchor_th):\n    stable=conservative_thresholds(y,prob,domain,fit_mask)\n    # Keep a short, stable threshold family. No per-attribute search on AUDIT.\n    choices=[('anchor',anchor_th)]\n    for blend in (.35,.65):\n        for center in (.45,.50,.55):\n            t=np.clip((1.-blend)*center+blend*stable,.25,.80)\n            choices.append((f'BA{blend:.2f}_center{center:.2f}',t.astype('float32')))\n    return choices\ndef metric(y,d,valid,z,th):",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "metric",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def metric(y,d,valid,z,th):\n    return domain_metrics(y,sigmoid(z),d,valid,th)\ndef tune_threshold(y,d,mask,z,anchor_th):\n    best=None\n    for name, th in thresholds(y,sigmoid(z),d,mask,anchor_th):\n        score,metrics,perdomain=metric(y,d,mask,z,th)\n        if best is None or score>best[0]:\n            best=(score,name,th,metrics,perdomain)\n    return best\ndef audit(y,d,mask,z,th):",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "tune_threshold",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def tune_threshold(y,d,mask,z,anchor_th):\n    best=None\n    for name, th in thresholds(y,sigmoid(z),d,mask,anchor_th):\n        score,metrics,perdomain=metric(y,d,mask,z,th)\n        if best is None or score>best[0]:\n            best=(score,name,th,metrics,perdomain)\n    return best\ndef audit(y,d,mask,z,th):\n    robust,metrics,doms=metric(y,d,mask,z,th)\n    return dict(robust=float(robust),metrics=metrics,",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "audit",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def audit(y,d,mask,z,th):\n    robust,metrics,doms=metric(y,d,mask,z,th)\n    return dict(robust=float(robust),metrics=metrics,\n                per_domain={str(k):v for k,v in doms.items()})\ndef run(args):\n    args.result_dir.mkdir(parents=True,exist_ok=True)\n    cal=load_pt(args.base_calibration)\n    if cal.get('format')!='upar-shift-robust-calibration':\n        raise ValueError('Expected the previous AttributeDINO shift-robust calibration')\n    if cal.get('tta')!='flip':",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def run(args):\n    args.result_dir.mkdir(parents=True,exist_ok=True)\n    cal=load_pt(args.base_calibration)\n    if cal.get('format')!='upar-shift-robust-calibration':\n        raise ValueError('Expected the previous AttributeDINO shift-robust calibration')\n    if cal.get('tta')!='flip':\n        raise ValueError('This calibration supports flip TTA only; re-run original Cell 9 with flip')\n    entries=[e for e in cal['entries'] if float(cal['weights'].get(e['key'],0.))>1e-7]\n    names=[e['key'] for e in entries]\n    if len(entries)<2:raise RuntimeError('At least two active models required')",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--repo-root',type=Path,required=True)\n    p.add_argument('--result-dir',type=Path,required=True)\n    p.add_argument('--base-calibration',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)\n    p.add_argument('--experimental-output',type=Path,required=True)\n    p.add_argument('--report',type=Path,required=True)\n    p.add_argument('--steps',type=int,default=95)\n    p.add_argument('--min-audit-gain',type=float,default=.001)",
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
         "label": "parse_args",
         "kind": 2,
         "importPath": "calibrate_ensemble",
@@ -4336,6 +5158,159 @@
         "documentation": {}
     },
     {
+        "label": "signature",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def signature(path, mode, repo_root):\n    stat = path.stat()\n    # Cache identity follows model + inference implementation + source annotations,\n    # not FIT threshold-search code. Pure search changes must not invalidate costly GPU inference.\n    files = [Path(__file__).with_name('prototype_par.py'),\n             Path(__file__).with_name('strong_par.py'),\n             Path(__file__).with_name('dinov2_par.py'),\n             repo_root/'data/annotations/task1/val/gt.csv']\n    infer_code = inspect.getsource(infer_logits) + inspect.getsource(model_logits) + repr(TTA_SIZES)\n    dig = hashlib.sha256((infer_code+'|288x144-bicubic').encode()).hexdigest()",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "model_path",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def model_path(root, kind, seed):\n    stems = {'prototype': 'prototype_convnext_tiny',\n             'trained': 'prototype_contrastive_convnext_tiny',\n             'strong': 'strong_convnext_tiny', 'dinov2': 'dinov2_attribute',\n             'robust': 'attribute_robust_convnext'}\n    stem = stems[kind]\n    return root / f'{stem}_seed{seed}_best.pt'\ndef model_logits(model, x):\n    if isinstance(model, StrongPARModel):\n        z = model(x).float()",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "model_logits",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def model_logits(model, x):\n    if isinstance(model, StrongPARModel):\n        z = model(x).float()\n        return z, z\n    if isinstance(model, DinoAttributePAR):\n        x = F.interpolate(x, size=(252,126), mode='bilinear', align_corners=False)\n    aux = model(x, return_aux=True)\n    return aux['linear_logits'].float(), aux['proto_logits'].float()\n@torch.inference_mode()\ndef infer_logits(model, loader, device, mode, title):",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "infer_logits",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def infer_logits(model, loader, device, mode, title):\n    ln, pn, ys, dom = [], [], [], []\n    for batch in tqdm(loader, desc=f'Inference {title} {mode}', unit='batch', dynamic_ncols=True):\n        x = batch['image'].to(device, non_blocking=True)\n        views = [x, x.flip(-1)]\n        if mode == 'dual_scale_flip':\n            x2 = F.interpolate(x, size=TTA_SIZES[mode], mode='bilinear', align_corners=False)\n            views += [x2, x2.flip(-1)]\n        ls, ps = [], []\n        with torch.autocast(device_type=device.type, dtype=torch.float16, enabled=device.type == 'cuda'):",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "domain_metrics",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def domain_metrics(y, prob, d, mask, th):\n    metrics = evaluate_probs(y[mask], prob[mask], th)\n    per_domain = {}\n    for domain in (0, 1, 2):\n        sub = mask & (d == domain)\n        if sub.sum() < 20:\n            raise ValueError(f'Domain {domain}: insufficient examples in split')\n        per_domain[domain] = evaluate_probs(y[sub], prob[sub], th)\n    s = np.array([m['challenge_score'] for m in per_domain.values()])\n    # A domain-robust FIT criterion: pooled score, equal-domain mean, worst domain.",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "ba_thresholds",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def ba_thresholds(y, prob, mask, domains=None):\n    \"\"\"Attribute-balanced thresholds; masked unknown labels excluded.\"\"\"\n    grid = np.arange(.26, .781, .02, dtype='float32')\n    result = np.full(40, .5, dtype='float32')\n    for c in range(40):\n        ok = mask & (y[:, c] >= 0)\n        if domains is not None:\n            ok &= np.isin(domains, [0, 1, 2])\n        labels = y[ok, c]\n        if (labels == 1).sum() < 15 or (labels == 0).sum() < 15:",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "conservative_thresholds",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def conservative_thresholds(y, prob, d, fit):\n    pooled = ba_thresholds(y, prob, fit)\n    domain_th = []\n    for domain in (0, 1, 2):\n        domain_th.append(ba_thresholds(y, prob, fit & (d == domain)))\n    median = np.median(np.stack(domain_th), axis=0)\n    # Shrink domain-specific thresholds toward pool mean, then toward .5\n    stable = .5 * pooled + .5 * median\n    return stable.astype('float32')\ndef threshold_options(y, prob, d, fit, anchor_th=None):",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "threshold_options",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def threshold_options(y, prob, d, fit, anchor_th=None):\n    stable = conservative_thresholds(y, prob, d, fit)\n    options = []\n    if anchor_th is not None:\n        options.append(('preserved_prototype_thresholds', np.asarray(anchor_th, dtype='float32')))\n    # Larger FIT shrink choices can recover balanced-accuracy of hard attributes.\n    # The locked AUDIT controls selection; do not tune on its labels.\n    for base in (.43, .46, .49, .50, .53, .56):\n        for alpha in (0., .20, .40, .60, .80):\n            th = np.clip((1.-alpha)*base + alpha*stable, .28, .75).astype('float32')",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "make_candidates",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def make_candidates(entries, anchor_weights):\n    original = [e for e in entries if e['kind'] == 'prototype']\n    students = [e for e in entries if e['kind'] == 'trained']\n    if len(original) != 2:\n        raise ValueError('Need both original Prototype checkpoints')\n    k1, k2 = [e['key'] for e in original]\n    initial = [('protected_anchor', dict(anchor_weights))]\n    for a in (.0, .20, .40, .60):\n        w = {k1:a, k2:1.-a}\n        if not np.allclose([w[k1],w[k2]], [anchor_weights.get(k1,0), anchor_weights.get(k2,0)]):",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "all_views",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def all_views(cache, entries, mode, strength):\n    result = {}\n    for entry in entries:\n        item = cache[(entry['key'],mode)]\n        gate = np.clip(entry['gate']*strength, 0, .60)\n        result[entry['key']] = ((1-gate)*item['linear'] + gate*item['proto']).astype('float32')\n    return result\ndef evaluate_candidate(candidate, views, y, d, fit, legacy_th=None):\n    name, weights = candidate\n    z = sum((float(w)*views[k] for k,w in weights.items() if w > 0),",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_candidate",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def evaluate_candidate(candidate, views, y, d, fit, legacy_th=None):\n    name, weights = candidate\n    z = sum((float(w)*views[k] for k,w in weights.items() if w > 0),\n            np.zeros_like(next(iter(views.values()))))\n    prob = sigmoid(z)\n    best = None\n    for desc, th in threshold_options(y,prob,d,fit,legacy_th if name=='protected_anchor' else None):\n        score, metrics, bydomain = domain_metrics(y,prob,d,fit,th)\n        # Tiny complexity preference; a very small gain may be noise.\n        student_mass = sum(float(v) for k,v in weights.items() if k.startswith('trained:'))",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "def main():\n    p = argparse.ArgumentParser()\n    p.add_argument('--repo-root', required=True, type=Path)\n    p.add_argument('--checkpoint-dir', required=True, type=Path)\n    p.add_argument('--trained-checkpoint-dir', required=True, type=Path)\n    p.add_argument('--result-dir', required=True, type=Path)\n    p.add_argument('--output', required=True, type=Path)\n    p.add_argument('--anchor-calibration', type=Path)\n    p.add_argument('--batch-size', type=int, default=32)\n    p.add_argument('--num-workers', type=int, default=0)",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "TTA_SIZES",
+        "kind": 5,
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "peekOfCode": "TTA_SIZES = {'flip': None, 'dual_scale_flip': (320, 160)}\ndef signature(path, mode, repo_root):\n    stat = path.stat()\n    # Cache identity follows model + inference implementation + source annotations,\n    # not FIT threshold-search code. Pure search changes must not invalidate costly GPU inference.\n    files = [Path(__file__).with_name('prototype_par.py'),\n             Path(__file__).with_name('strong_par.py'),\n             Path(__file__).with_name('dinov2_par.py'),\n             repo_root/'data/annotations/task1/val/gt.csv']\n    infer_code = inspect.getsource(infer_logits) + inspect.getsource(model_logits) + repr(TTA_SIZES)",
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "DinoBlock",
+        "kind": 6,
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "peekOfCode": "class DinoBlock(nn.Module):\n    def __init__(self, dim=384, heads=6):\n        super().__init__()\n        self.heads = heads\n        self.norm1 = nn.LayerNorm(dim, eps=1e-6)\n        self.q = nn.Linear(dim, dim)\n        self.k = nn.Linear(dim, dim)\n        self.v = nn.Linear(dim, dim)\n        self.attn_out = nn.Linear(dim, dim)\n        self.ls1 = nn.Parameter(torch.ones(dim))",
+        "detail": "dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "DinoSmall",
+        "kind": 6,
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "peekOfCode": "class DinoSmall(nn.Module):\n    def __init__(self, layers=12, dim=384, heads=6, patch=14):\n        super().__init__()\n        self.patch = patch\n        self.patch_embed = nn.Conv2d(3,dim,kernel_size=patch,stride=patch)\n        self.cls_token = nn.Parameter(torch.zeros(1,1,dim))\n        self.pos_embed = nn.Parameter(torch.zeros(1,1370,dim))\n        self.blocks = nn.ModuleList([DinoBlock(dim,heads) for _ in range(layers)])\n        self.norm = nn.LayerNorm(dim,eps=1e-6)\n        self.trainable_last = 0",
+        "detail": "dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "DinoAttributePAR",
+        "kind": 6,
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "peekOfCode": "class DinoAttributePAR(nn.Module):\n    def __init__(self, num_attributes=40, prototype_dim=192,\n                 prototype_temperature=.22, prototype_gate_init=.25,\n                 pretrained=False, trainable_last=0):\n        super().__init__()\n        self.num_attributes=int(num_attributes)\n        self.prototype_dim=int(prototype_dim)\n        self.prototype_temperature=float(prototype_temperature)\n        self.dino=DinoSmall()\n        self.dino.set_trainable_last(trainable_last)",
+        "detail": "dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "config_for_checkpoint",
+        "kind": 2,
+        "importPath": "dinov2_par",
+        "description": "dinov2_par",
+        "peekOfCode": "def config_for_checkpoint(model):\n    return {'num_attributes':model.num_attributes,'prototype_dim':model.prototype_dim,\n            'prototype_temperature':model.prototype_temperature,'trainable_last':0}",
+        "detail": "dinov2_par",
+        "documentation": {}
+    },
+    {
         "label": "ImageResolver",
         "kind": 6,
         "importPath": "distill_par",
@@ -4567,6 +5542,69 @@
         "description": "domain_contrastive",
         "peekOfCode": "def domain_positive_negative_alignment(features, targets, valid, domains,\n                                       min_per_cell=2, max_attributes=16):\n    \"\"\"Align positive with positive and negative with negative across domains.\n    A cell must have at least `min_per_cell` valid examples; compare each\n    centroid to the balanced mean of domain centroids of the same class.\n    \"\"\"\n    z = F.normalize(features.float(), dim=-1)\n    d = domains.long()\n    y = targets.float()\n    v = valid.bool()",
         "detail": "domain_contrastive",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "ensure_upar_prediction_cache",
+        "description": "ensure_upar_prediction_cache",
+        "peekOfCode": "def run(args):\n    cal=load_pt(args.base_calibration)\n    if cal.get('tta')!='flip':raise ValueError('Expected flip TTA source calibration')\n    entries=[e for e in cal['entries'] if float(cal['weights'].get(e['key'],0.))>1e-7]\n    if not entries:raise ValueError('No active model entries')\n    df=pd.read_csv(args.repo_root/'data/annotations/task1/val/gt.csv')\n    print('[DATA] Resolving source validation images',flush=True)\n    ds=UPARDataset(df,ImageResolver(args.repo_root/'data',args.repo_root),build_eval_transform(288,144))\n    device=torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n    loader=DataLoader(ds,batch_size=args.batch_size,shuffle=False,num_workers=args.num_workers,pin_memory=device.type=='cuda')",
+        "detail": "ensure_upar_prediction_cache",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ensure_upar_prediction_cache",
+        "description": "ensure_upar_prediction_cache",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--base-calibration',type=Path,required=True)\n    p.add_argument('--repo-root',type=Path,required=True)\n    p.add_argument('--result-dir',type=Path,required=True)\n    p.add_argument('--batch-size',type=int,default=16)\n    p.add_argument('--num-workers',type=int,default=0)\n    p.add_argument('--force',action='store_true')\n    args=p.parse_args()\n    run(args)",
+        "detail": "ensure_upar_prediction_cache",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "kind": 2,
+        "importPath": "export_attribute_adaptive",
+        "description": "export_attribute_adaptive",
+        "peekOfCode": "def load_pt(path):\n    try:return torch.load(path,map_location='cpu',weights_only=False)\n    except TypeError:return torch.load(path,map_location='cpu')\ndef get_state(ck):\n    for k in ('inference_model_state','ema_model_state','model_state'):\n        if k in ck and ck[k] is not None:return ck[k]\n    raise RuntimeError('No deployable checkpoint state')\ndef sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:",
+        "detail": "export_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "kind": 2,
+        "importPath": "export_attribute_adaptive",
+        "description": "export_attribute_adaptive",
+        "peekOfCode": "def get_state(ck):\n    for k in ('inference_model_state','ema_model_state','model_state'):\n        if k in ck and ck[k] is not None:return ck[k]\n    raise RuntimeError('No deployable checkpoint state')\ndef sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:\n        for chunk in iter(lambda:f.read(1024*1024),b''):h.update(chunk)\n    return h.hexdigest()\ndef main():",
+        "detail": "export_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_attribute_adaptive",
+        "description": "export_attribute_adaptive",
+        "peekOfCode": "def sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:\n        for chunk in iter(lambda:f.read(1024*1024),b''):h.update(chunk)\n    return h.hexdigest()\ndef main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--calibration',type=Path,required=True)\n    p.add_argument('--runtime-file',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)",
+        "detail": "export_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_attribute_adaptive",
+        "description": "export_attribute_adaptive",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--calibration',type=Path,required=True)\n    p.add_argument('--runtime-file',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)\n    p.add_argument('--micro-batch-size',type=int,default=8)\n    p.add_argument('--require-trained',action='store_true',help='Reject submission if audit guard selected no retrained member')\n    args=p.parse_args()\n    if not 1<=args.micro_batch_size<=64:raise ValueError('micro batch must be between 1 and 64')\n    cal=load_pt(args.calibration)",
+        "detail": "export_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "smoke_test",
+        "kind": 2,
+        "importPath": "export_attribute_adaptive",
+        "description": "export_attribute_adaptive",
+        "peekOfCode": "def smoke_test(zippath):\n    \"\"\"Exercise the *exact exported archive*, including load_model and both APIs.\"\"\"\n    from PIL import Image\n    with tempfile.TemporaryDirectory() as tmp:\n        root=Path(tmp)\n        with zipfile.ZipFile(zippath) as z:z.extractall(root)\n        subprocess.run([sys.executable,'-m','py_compile',str(root/'run.py')],check=True)\n        image=root/'probe.jpg';Image.new('RGB',(144,288),(128,128,128)).save(image)\n        cfg=json.loads((root/'assets/config.json').read_text())\n        src=f'''import sys,math\\nsys.path.insert(0,{str(root)!r})\\nimport run\\nsample={{'image_path':{str(image)!r},'attribute_names':{cfg['attribute_names']!r}}}\\nrun.load_model()\\na=run.predict_image(sample)\\nb=run.predict_batch([sample,sample])\\nassert len(a)==40 and len(b)==2 and all(len(r)==40 for r in b)\\nassert all(math.isfinite(float(x)) and 0<=float(x)<=1 for x in a)\\nprint('RUNTIME_SMOKE_TEST_OK')\\n'''",
+        "detail": "export_attribute_adaptive",
         "documentation": {}
     },
     {
@@ -5767,6 +6805,42 @@
         "documentation": {}
     },
     {
+        "label": "read_zip",
+        "kind": 2,
+        "importPath": "inspect_submission",
+        "description": "inspect_submission",
+        "peekOfCode": "def read_zip(path: Path) -> dict:\n    with zipfile.ZipFile(path) as z:\n        names=set(z.namelist())\n        expected={'run.py','metadata.yaml','assets/model.pt','assets/config.json','NOTICE.md','LICENSE-model.txt'}\n        if names!=expected: raise ValueError(f'Archive contents mismatch: {sorted(names^expected)}')\n        if z.testzip() is not None: raise ValueError(f'Corrupt archive: {path}')\n        import io\n        obj=torch.load(io.BytesIO(z.read('assets/model.pt')),map_location='cpu',weights_only=False)\n        cfg=json.loads(z.read('assets/config.json'))\n    digest=hashlib.sha256()",
+        "detail": "inspect_submission",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "inspect_submission",
+        "description": "inspect_submission",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--baseline',type=Path,required=True)\n    p.add_argument('--experimental',type=Path,required=True)\n    p.add_argument('--output',type=Path)\n    args=p.parse_args()\n    a=read_zip(args.baseline);b=read_zip(args.experimental)\n    unique=a['semantic_sha256']!=b['semantic_sha256']\n    report={'distinct_inference_configuration':unique,'baseline':a,'experimental':b}\n    if args.output:",
+        "detail": "inspect_submission",
+        "documentation": {}
+    },
+    {
+        "label": "contains_images",
+        "kind": 2,
+        "importPath": "prepare_upar_source",
+        "description": "prepare_upar_source",
+        "peekOfCode": "def contains_images(folder:Path):\n    return folder.is_dir() and any(p.is_file() for p in folder.rglob('*.jpg'))\ndef run(root:Path, auto_prepare:bool):\n    if not root.is_dir():\n        if not auto_prepare:\n            raise FileNotFoundError(root)\n        print('[PREPARE] Cloning official UPAR source metadata',flush=True)\n        import subprocess\n        subprocess.run(['git','clone','--depth','1',\n                        'https://github.com/speckean/UPAR-Challenge-2027.git',str(root)],check=True)",
+        "detail": "prepare_upar_source",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "prepare_upar_source",
+        "description": "prepare_upar_source",
+        "peekOfCode": "def run(root:Path, auto_prepare:bool):\n    if not root.is_dir():\n        if not auto_prepare:\n            raise FileNotFoundError(root)\n        print('[PREPARE] Cloning official UPAR source metadata',flush=True)\n        import subprocess\n        subprocess.run(['git','clone','--depth','1',\n                        'https://github.com/speckean/UPAR-Challenge-2027.git',str(root)],check=True)\n    data=root/'data'\n    ann=data/'annotations/task1/val/gt.csv'",
+        "detail": "prepare_upar_source",
+        "documentation": {}
+    },
+    {
         "label": "HybridPrototypePAR",
         "kind": 6,
         "importPath": "prototype_par",
@@ -6012,9 +7086,171 @@
     {
         "label": "HybridPrototypePAR",
         "kind": 6,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "class HybridPrototypePAR(nn.Module):\n    \"\"\"\n    ConvNeXt-Tiny + attribute-specific spatial queries + positive/negative prototypes.\n    The final logit is a learnable hybrid of:\n        1) a conventional global linear classifier, and\n        2) a prototype-margin classifier.\n    This is intentionally conservative for leaderboard use: if prototypes are\n    not yet useful for a specific attribute, the learned gate can keep more\n    weight on the linear path instead of forcing pure prototype classification.\n    \"\"\"",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "DinoBlock",
+        "kind": 6,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "class DinoBlock(nn.Module):\n    def __init__(self, dim=384, heads=6):\n        super().__init__()\n        self.heads = heads\n        self.norm1 = nn.LayerNorm(dim, eps=1e-6)\n        self.q = nn.Linear(dim, dim)\n        self.k = nn.Linear(dim, dim)\n        self.v = nn.Linear(dim, dim)\n        self.attn_out = nn.Linear(dim, dim)\n        self.ls1 = nn.Parameter(torch.ones(dim))",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "DinoSmall",
+        "kind": 6,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "class DinoSmall(nn.Module):\n    def __init__(self, layers=12, dim=384, heads=6, patch=14):\n        super().__init__()\n        self.patch = patch\n        self.patch_embed = nn.Conv2d(3,dim,kernel_size=patch,stride=patch)\n        self.cls_token = nn.Parameter(torch.zeros(1,1,dim))\n        self.pos_embed = nn.Parameter(torch.zeros(1,1370,dim))\n        self.blocks = nn.ModuleList([DinoBlock(dim,heads) for _ in range(layers)])\n        self.norm = nn.LayerNorm(dim,eps=1e-6)\n        self.trainable_last = 0",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "DinoAttributePAR",
+        "kind": 6,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "class DinoAttributePAR(nn.Module):\n    def __init__(self, num_attributes=40, prototype_dim=192,\n                 prototype_temperature=.22, prototype_gate_init=.25,\n                 pretrained=False, trainable_last=0):\n        super().__init__()\n        self.num_attributes=int(num_attributes)\n        self.prototype_dim=int(prototype_dim)\n        self.prototype_temperature=float(prototype_temperature)\n        self.dino=DinoSmall()\n        self.dino.set_trainable_last(trainable_last)",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "StrongTinyForSubmission",
+        "kind": 6,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "class StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = convnext_tiny(weights=None)\n        ch = int(base.classifier[2].in_features)\n        base.classifier[2] = nn.Sequential(nn.Dropout(.22), nn.Linear(ch, 40))\n        self.net = base\n    def forward(self, x):\n        return self.net(x)\nclass Runtime:",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "Runtime",
+        "kind": 6,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "class Runtime:\n    def __init__(self):\n        bundle = _load_bundle(ROOT/'assets'/'model.pt')\n        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n        self.attrs = list(bundle['attribute_names'])\n        if len(self.attrs) != 40 or len(set(self.attrs)) != 40:\n            raise ValueError('Expected 40 unique attribute names')\n        self.index = {name:i for i,name in enumerate(self.attrs)}\n        self.threshold_logits = torch.as_tensor(bundle['threshold_logits'],dtype=torch.float32).reshape(1,-1).to(self.device)\n        if self.threshold_logits.shape != (1,40):",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "config_for_checkpoint",
+        "kind": 2,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "def config_for_checkpoint(model):\n    return {'num_attributes':model.num_attributes,'prototype_dim':model.prototype_dim,\n            'prototype_temperature':model.prototype_temperature,'trainable_last':0}\n# Standalone Codabench submission entrypoint. No imports from participant repo.\nimport gc\nimport os\nfrom PIL import Image\nfrom torchvision import transforms\nROOT = Path(__file__).resolve().parent\nBATCH_SIZE = 64",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "def load_model():\n    \"\"\"Codabench load step.\"\"\"\n    _ensure()\n    return None\ndef predict_image(sample):\n    return _ensure().predict([sample])[0]\ndef predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "def predict_image(sample):\n    return _ensure().predict([sample])[0]\ndef predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "def predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_ATTRIBUTES",
+        "kind": 5,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "NUM_ATTRIBUTES = 40\ndef _logit(p: float) -> float:\n    p = min(max(float(p), 1e-5), 1.0 - 1e-5)\n    return math.log(p / (1.0 - p))\nclass HybridPrototypePAR(nn.Module):\n    \"\"\"\n    ConvNeXt-Tiny + attribute-specific spatial queries + positive/negative prototypes.\n    The final logit is a learnable hybrid of:\n        1) a conventional global linear classifier, and\n        2) a prototype-margin classifier.",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nBATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "BATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "MICRO_BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "MICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "_RUNTIME",
+        "kind": 5,
+        "importPath": "submission_attribute_adaptive",
+        "description": "submission_attribute_adaptive",
+        "peekOfCode": "_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = convnext_tiny(weights=None)",
+        "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "kind": 6,
         "importPath": "submission_generalization",
         "description": "submission_generalization",
         "peekOfCode": "class HybridPrototypePAR(nn.Module):\n    \"\"\"\n    ConvNeXt-Tiny + attribute-specific spatial queries + positive/negative prototypes.\n    The final logit is a learnable hybrid of:\n        1) a conventional global linear classifier, and\n        2) a prototype-margin classifier.\n    This is intentionally conservative for leaderboard use: if prototypes are\n    not yet useful for a specific attribute, the learned gate can keep more\n    weight on the linear path instead of forcing pure prototype classification.\n    \"\"\"",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "DinoBlock",
+        "kind": 6,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "class DinoBlock(nn.Module):\n    def __init__(self, dim=384, heads=6):\n        super().__init__()\n        self.heads = heads\n        self.norm1 = nn.LayerNorm(dim, eps=1e-6)\n        self.q = nn.Linear(dim, dim)\n        self.k = nn.Linear(dim, dim)\n        self.v = nn.Linear(dim, dim)\n        self.attn_out = nn.Linear(dim, dim)\n        self.ls1 = nn.Parameter(torch.ones(dim))",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "DinoSmall",
+        "kind": 6,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "class DinoSmall(nn.Module):\n    def __init__(self, layers=12, dim=384, heads=6, patch=14):\n        super().__init__()\n        self.patch = patch\n        self.patch_embed = nn.Conv2d(3,dim,kernel_size=patch,stride=patch)\n        self.cls_token = nn.Parameter(torch.zeros(1,1,dim))\n        self.pos_embed = nn.Parameter(torch.zeros(1,1370,dim))\n        self.blocks = nn.ModuleList([DinoBlock(dim,heads) for _ in range(layers)])\n        self.norm = nn.LayerNorm(dim,eps=1e-6)\n        self.trainable_last = 0",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "DinoAttributePAR",
+        "kind": 6,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "class DinoAttributePAR(nn.Module):\n    def __init__(self, num_attributes=40, prototype_dim=192,\n                 prototype_temperature=.22, prototype_gate_init=.25,\n                 pretrained=False, trainable_last=0):\n        super().__init__()\n        self.num_attributes=int(num_attributes)\n        self.prototype_dim=int(prototype_dim)\n        self.prototype_temperature=float(prototype_temperature)\n        self.dino=DinoSmall()\n        self.dino.set_trainable_last(trainable_last)",
         "detail": "submission_generalization",
         "documentation": {}
     },
@@ -6033,6 +7269,15 @@
         "importPath": "submission_generalization",
         "description": "submission_generalization",
         "peekOfCode": "class Runtime:\n    def __init__(self):\n        bundle = _load_bundle(ROOT/'assets'/'model.pt')\n        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n        self.attrs = list(bundle['attribute_names'])\n        if len(self.attrs) != 40 or len(set(self.attrs)) != 40:\n            raise ValueError('Expected 40 unique attribute names')\n        self.index = {name:i for i,name in enumerate(self.attrs)}\n        self.threshold_logits = torch.as_tensor(bundle['threshold_logits'],dtype=torch.float32).reshape(1,-1).to(self.device)\n        if self.threshold_logits.shape != (1,40):",
+        "detail": "submission_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "config_for_checkpoint",
+        "kind": 2,
+        "importPath": "submission_generalization",
+        "description": "submission_generalization",
+        "peekOfCode": "def config_for_checkpoint(model):\n    return {'num_attributes':model.num_attributes,'prototype_dim':model.prototype_dim,\n            'prototype_temperature':model.prototype_temperature,'trainable_last':0}\n# Standalone Codabench submission entrypoint. No imports from participant repo.\nimport gc\nimport os\nfrom PIL import Image\nfrom torchvision import transforms\nROOT = Path(__file__).resolve().parent\nBATCH_SIZE = 64",
         "detail": "submission_generalization",
         "documentation": {}
     },
@@ -6115,6 +7360,60 @@
         "description": "train_colab",
         "peekOfCode": "def parse_args():\n    p = argparse.ArgumentParser()\n    p.add_argument(\"--epochs\", type=int, default=25)\n    p.add_argument(\"--batch-size\", type=int, default=12)\n    p.add_argument(\"--eval-batch-size\", type=int, default=24)\n    p.add_argument(\"--num-workers\", type=int, default=2)\n    p.add_argument(\"--save-every-steps\", type=int, default=100)\n    p.add_argument(\"--log-every-steps\", type=int, default=50)\n    p.add_argument(\"--max-train-samples\", type=int, default=0)\n    p.add_argument(\"--max-val-samples\", type=int, default=0)",
         "detail": "train_colab",
+        "documentation": {}
+    },
+    {
+        "label": "masked_asl",
+        "kind": 2,
+        "importPath": "train_dinov2_par",
+        "description": "train_dinov2_par",
+        "peekOfCode": "def masked_asl(logits, targets, valid, pos_weights, gamma_negative=3., gamma_positive=0., neg_clip=.04):\n    \"\"\"Masked multi-label ASL: easy negative suppression + bounded attribute priors.\"\"\"\n    p=torch.sigmoid(logits.float()).clamp(1e-6,1-1e-6)\n    negative=(1.-p+neg_clip).clamp(max=1.)\n    positive_term=targets*torch.log(p)*torch.pow(1.-p,gamma_positive)*pos_weights.view(1,-1)\n    negative_term=(1-targets)*torch.log(negative)*torch.pow(1.-negative,gamma_negative)\n    loss=-(positive_term+negative_term)*valid\n    return loss.sum()/valid.sum().clamp_min(1.)\ndef prototype_separation(aux):\n    return torch.relu((aux['prototype_pos']*aux['prototype_neg']).sum(-1)+.15).mean()",
+        "detail": "train_dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "prototype_separation",
+        "kind": 2,
+        "importPath": "train_dinov2_par",
+        "description": "train_dinov2_par",
+        "peekOfCode": "def prototype_separation(aux):\n    return torch.relu((aux['prototype_pos']*aux['prototype_neg']).sum(-1)+.15).mean()\ndef mild_domain_augmentation(x):\n    \"\"\"Appearance shifts with no label-changing crop or occlusion.\"\"\"\n    x=x.float()\n    # Perturb normalized tensor only mildly to preserve clothing-color labels.\n    strength=torch.empty((x.shape[0],1,1,1),device=x.device).uniform_(.96,1.04)\n    offset=torch.empty((x.shape[0],1,1,1),device=x.device).uniform_(-.06,.06)\n    out=(x*strength+offset).clamp(-3.,3.)\n    if torch.rand((),device=x.device)<.5:",
+        "detail": "train_dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "mild_domain_augmentation",
+        "kind": 2,
+        "importPath": "train_dinov2_par",
+        "description": "train_dinov2_par",
+        "peekOfCode": "def mild_domain_augmentation(x):\n    \"\"\"Appearance shifts with no label-changing crop or occlusion.\"\"\"\n    x=x.float()\n    # Perturb normalized tensor only mildly to preserve clothing-color labels.\n    strength=torch.empty((x.shape[0],1,1,1),device=x.device).uniform_(.96,1.04)\n    offset=torch.empty((x.shape[0],1,1,1),device=x.device).uniform_(-.06,.06)\n    out=(x*strength+offset).clamp(-3.,3.)\n    if torch.rand((),device=x.device)<.5:\n        out=out.flip(-1)\n    return out",
+        "detail": "train_dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint_paths",
+        "kind": 2,
+        "importPath": "train_dinov2_par",
+        "description": "train_dinov2_par",
+        "peekOfCode": "def checkpoint_paths(root,seed,heldout,encoder):\n    suffix='' if heldout<0 else f'_heldout{heldout}'\n    stem=(f'dinov2_attribute_seed{seed}{suffix}' if encoder=='dinov2'\n          else f'attribute_robust_convnext_seed{seed}{suffix}')\n    return root/f'{stem}_last.pt',root/f'{stem}_best.pt'\ndef _read(path):\n    return torch.load(path,map_location='cpu',weights_only=False)\n@torch.inference_mode()\ndef evaluate(model,loader,device,domain_filter=None):\n    model.eval()",
+        "detail": "train_dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "kind": 2,
+        "importPath": "train_dinov2_par",
+        "description": "train_dinov2_par",
+        "peekOfCode": "def evaluate(model,loader,device,domain_filter=None):\n    model.eval()\n    probs=[]; targets=[]; domains=[]\n    for batch in tqdm(loader,desc='DINO source FIT validation',unit='batch',leave=False,dynamic_ncols=True):\n        x=batch['image'].to(device)\n        with torch.autocast(device_type=device.type,dtype=torch.float16,enabled=device.type=='cuda'):\n            logits=(model(x).float()+model(x.flip(-1)).float())*.5\n        probs.append(torch.sigmoid(logits).cpu().numpy())\n        raw=batch['target'].numpy(); v=batch['valid'].numpy()\n        targets.append(np.where(v>0,raw,-1))",
+        "detail": "train_dinov2_par",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_dinov2_par",
+        "description": "train_dinov2_par",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--repo-root',type=Path,required=True)\n    p.add_argument('--checkpoint-dir',type=Path,required=True)\n    p.add_argument('--seed',type=int,default=42)\n    p.add_argument('--encoder',choices=['dinov2','convnext'],default='dinov2')\n    p.add_argument('--init-prototype-checkpoint',type=Path,default=None)\n    p.add_argument('--heldout-domain',type=int,default=-1)\n    p.add_argument('--epochs',type=int,default=8)\n    p.add_argument('--steps-per-epoch',type=int,default=350)",
+        "detail": "train_dinov2_par",
         "documentation": {}
     },
     {
@@ -6700,6 +7999,15 @@
         "description": "train_strong_par",
         "peekOfCode": "def main():\n    args = parse_args()\n    seed_everything(args.seed)\n    cfg = TrainConfig(num_workers=args.num_workers)\n    if args.epochs > 0:\n        cfg.epochs = int(args.epochs)\n    if args.batch_size > 0:\n        cfg.batch_size = int(args.batch_size)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    last_path, best_path, stem = paths_for(args)",
         "detail": "train_strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "run_live",
+        "kind": 2,
+        "importPath": "upar_progress",
+        "description": "upar_progress",
+        "peekOfCode": "def run_live(cmd,cwd,description,logfile=None):\n    env={**os.environ,'PYTHONUNBUFFERED':'1','PYTHONIOENCODING':'utf-8','TERM':'xterm','COLUMNS':'140'}\n    master,slave=pty.openpty();proc=None\n    started=time.monotonic();last_output=started;last_beat=started\n    phase='Initializing';tail=''\n    print('='*80,'[START] '+description,'='*80,sep='\\n',flush=True)\n    try:\n        proc=subprocess.Popen([str(x) for x in cmd],cwd=str(cwd),env=env,stdin=subprocess.DEVNULL,\n                              stdout=slave,stderr=slave,start_new_session=True,close_fds=True)\n        os.close(slave);slave=None",
+        "detail": "upar_progress",
         "documentation": {}
     }
 ]
