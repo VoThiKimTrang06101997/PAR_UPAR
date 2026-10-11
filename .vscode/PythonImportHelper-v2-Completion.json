@@ -320,6 +320,38 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -335,6 +367,38 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
         "documentation": {}
     },
     {
@@ -780,11 +844,27 @@
         "documentation": {}
     },
     {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
         "label": "torch.nn",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "torch.nn",
         "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
         "detail": "torch.nn",
         "documentation": {}
     },
@@ -839,6 +919,14 @@
     },
     {
         "label": "ImageFile",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
         "importPath": "PIL",
         "description": "PIL",
         "isExtraImport": true,
@@ -1416,12 +1504,36 @@
         "documentation": {}
     },
     {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
         "label": "os,",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "os.",
         "description": "os.",
         "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
         "documentation": {}
     },
     {
@@ -1644,6 +1756,70 @@
         "documentation": {}
     },
     {
+        "label": "stable_split",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "logit",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "stable_split",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "logit",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "importPath": "calibrate_generalization",
+        "description": "calibrate_generalization",
+        "isExtraImport": true,
+        "detail": "calibrate_generalization",
+        "documentation": {}
+    },
+    {
         "label": "get_state",
         "importPath": "calibrate_generalization",
         "description": "calibrate_generalization",
@@ -1724,6 +1900,38 @@
         "documentation": {}
     },
     {
+        "label": "domain_metrics",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "conservative_thresholds",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "domain_metrics",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "conservative_thresholds",
+        "importPath": "calibrate_shift_robust",
+        "description": "calibrate_shift_robust",
+        "isExtraImport": true,
+        "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
         "label": "signature",
         "importPath": "calibrate_shift_robust",
         "description": "calibrate_shift_robust",
@@ -1737,6 +1945,86 @@
         "description": "calibrate_shift_robust",
         "isExtraImport": true,
         "detail": "calibrate_shift_robust",
+        "documentation": {}
+    },
+    {
+        "label": "load_cache",
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "isExtraImport": true,
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "all_logits",
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "isExtraImport": true,
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "weighted_logits",
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "isExtraImport": true,
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "audit",
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "isExtraImport": true,
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "load_cache",
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "isExtraImport": true,
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "all_logits",
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "isExtraImport": true,
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "weighted_logits",
+        "importPath": "calibrate_attribute_adaptive",
+        "description": "calibrate_attribute_adaptive",
+        "isExtraImport": true,
+        "detail": "calibrate_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "ImageResolver",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "UPARDataset",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
+        "documentation": {}
+    },
+    {
+        "label": "build_eval_transform",
+        "importPath": "strong_par",
+        "description": "strong_par",
+        "isExtraImport": true,
+        "detail": "strong_par",
         "documentation": {}
     },
     {
@@ -3326,6 +3614,22 @@
         "documentation": {}
     },
     {
+        "label": "convnext_tiny",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNeXt_Tiny_Weights",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
         "label": "textwrap",
         "kind": 6,
         "isExtraImport": true,
@@ -4636,6 +4940,132 @@
         "documentation": {}
     },
     {
+        "label": "fit_gate",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def fit_gate(x, y, domains, subset, prior, anchor_threshold,\n             penalty=0.8, f1_weight=0.20, steps=90, seed=42):\n    \"\"\"Masked balanced BCE + domain-equal soft instance-F1, L2-to-prior.\n    Shapes: x=(N,M,40), y=(N,40) with -1 for unknown, prior=(M,40).\n    Only subset rows contribute to gradients.\n    \"\"\"\n    torch.manual_seed(seed)\n    ids=np.flatnonzero(subset)\n    device=torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n    xx=torch.from_numpy(np.ascontiguousarray(x[ids])).float().to(device)",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "make_prior",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def make_prior(anchor, extra_index, extra_fraction):\n    prior=anchor.copy()\n    if extra_index is not None and extra_fraction>0:\n        prior*=1.-extra_fraction\n        prior[extra_index,:]=extra_fraction\n    return prior/prior.sum(axis=0,keepdims=True)\ndef threshold_choice(y,z,domain,train_mask,anchor,variant):\n    if variant=='anchor':return anchor.copy()\n    if variant not in ('stable_25','stable_50'):raise KeyError(variant)\n    stable=conservative_thresholds(y,sigmoid(z),domain,train_mask)",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "threshold_choice",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def threshold_choice(y,z,domain,train_mask,anchor,variant):\n    if variant=='anchor':return anchor.copy()\n    if variant not in ('stable_25','stable_50'):raise KeyError(variant)\n    stable=conservative_thresholds(y,sigmoid(z),domain,train_mask)\n    alpha=.25 if variant=='stable_25' else .50\n    return np.clip((1-alpha)*anchor+alpha*stable,.25,.80).astype('float32')\ndef metric(y,d,mask,z,th):\n    robust,summary,perdomain=domain_metrics(y,sigmoid(z),d,mask,th)\n    return {'robust':float(robust),'summary':summary,'per_domain':perdomain}\ndef fold_ids(paths,mask,domains,nfold=3):",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "metric",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def metric(y,d,mask,z,th):\n    robust,summary,perdomain=domain_metrics(y,sigmoid(z),d,mask,th)\n    return {'robust':float(robust),'summary':summary,'per_domain':perdomain}\ndef fold_ids(paths,mask,domains,nfold=3):\n    # Deterministic, domain-balanced fold allocation, independent of target labels.\n    result=np.full(len(paths),-1,dtype='int16')\n    for dom in (0,1,2):\n        inds=np.flatnonzero(mask & (domains==dom))\n        ordering=sorted(inds,key=lambda i: hashlib.sha256((str(paths[i]).lower()+'|robust-fold').encode()).digest())\n        for rank,index in enumerate(ordering):result[index]=rank%nfold",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "fold_ids",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def fold_ids(paths,mask,domains,nfold=3):\n    # Deterministic, domain-balanced fold allocation, independent of target labels.\n    result=np.full(len(paths),-1,dtype='int16')\n    for dom in (0,1,2):\n        inds=np.flatnonzero(mask & (domains==dom))\n        ordering=sorted(inds,key=lambda i: hashlib.sha256((str(paths[i]).lower()+'|robust-fold').encode()).digest())\n        for rank,index in enumerate(ordering):result[index]=rank%nfold\n    if np.any(mask & (result<0)):raise RuntimeError('Fold creation failed')\n    return result\ndef score_candidate(candidate,baseline):",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "score_candidate",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def score_candidate(candidate,baseline):\n    a=candidate['summary'];b=baseline['summary']\n    dm=float(a['mA']-b['mA'])\n    df=float(a['instance_f1']-b['instance_f1'])\n    dr=float(candidate['robust']-baseline['robust'])\n    dd=min(float(candidate['per_domain'][k]['challenge_score']-baseline['per_domain'][k]['challenge_score']) for k in (0,1,2))\n    # Guard against pursuing mA alone: penalize F1 and weakest-domain regressions.\n    utility=(dr + .70*min(0.,df+.0005) + .50*min(0.,dm+.0005) + .40*min(0.,dd+.002))\n    return {'utility':utility,'robust_delta':dr,'mA_delta':dm,'instance_f1_delta':df,'worst_domain_delta':dd}\ndef save_json(path, record):",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def save_json(path, record):\n    def cast(z):\n        if isinstance(z,np.generic):return z.item()\n        if isinstance(z,np.ndarray):return z.tolist()\n        raise TypeError(type(z).__name__)\n    path.parent.mkdir(parents=True,exist_ok=True)\n    path.write_text(json.dumps(record,indent=2,default=cast),encoding='utf-8')\ndef run(args):\n    from strong_par import ImageResolver, UPARDataset, build_eval_transform\n    import pandas as pd",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def run(args):\n    from strong_par import ImageResolver, UPARDataset, build_eval_transform\n    import pandas as pd\n    base=load_pt(args.base_calibration)\n    expanded=load_pt(args.expanded_calibration)\n    if base.get('format')!='upar-shift-robust-calibration':\n        raise ValueError('Expected frozen original AttributeDINO calibration')\n    if base.get('tta')!='flip' or expanded.get('tta')!='flip':\n        raise ValueError('Flip-TTA required for cache alignment')\n    base_entries=[e for e in base['entries'] if float(base['weights'].get(e['key'],0))>1e-7]",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_attribute_robust",
+        "description": "calibrate_attribute_robust",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    for key in ('repo-root','result-dir','base-calibration','expanded-calibration','output','experimental-output','report'):\n        p.add_argument('--'+key,required=True,type=Path)\n    p.add_argument('--steps',type=int,default=90)\n    args=p.parse_args()\n    for path in (args.base_calibration,args.expanded_calibration):\n        if not path.is_file():raise FileNotFoundError(path)\n    run(args)\nif __name__=='__main__':main()",
+        "detail": "calibrate_attribute_robust",
+        "documentation": {}
+    },
+    {
+        "label": "consensus_fusion",
+        "kind": 2,
+        "importPath": "calibrate_consensus_gate",
+        "description": "calibrate_consensus_gate",
+        "peekOfCode": "def consensus_fusion(x:np.ndarray,w:np.ndarray,tau:float,mix:float)->np.ndarray:\n    \"\"\"x (N,K,40), w (K,40). Exact equivalent of bundled runtime logic.\"\"\"\n    anchor=weighted_logits(x,w)\n    if tau <= 0. or mix <= 0.:return anchor\n    distances=np.abs(sigmoid(x)-sigmoid(anchor)[:,None,:])\n    reliability=np.exp(-float(tau)*distances).astype('float32')\n    adaptive=reliability*w[None,:,:]\n    adaptive/=np.maximum(adaptive.sum(axis=1,keepdims=True),1e-8)\n    fused=np.einsum('nkc,nkc->nc',x,adaptive,optimize=True)\n    return ((1.-mix)*anchor+mix*fused).astype('float32')",
+        "detail": "calibrate_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "summary",
+        "kind": 2,
+        "importPath": "calibrate_consensus_gate",
+        "description": "calibrate_consensus_gate",
+        "peekOfCode": "def summary(y,d,mask,z,th):\n    score, metrics, per_domain=domain_metrics(y,sigmoid(z),d,mask,th)\n    return {'robust':float(score),'metrics':metrics,\n            'per_domain':{str(k):v for k,v in per_domain.items()}}\ndef ranked_gain(new,base):\n    metrics=new['metrics'];old=base['metrics']\n    gain=float(new['robust']-base['robust'])\n    worst=min(new['per_domain'][k]['challenge_score']-base['per_domain'][k]['challenge_score']\n              for k in base['per_domain'])\n    # Explicitly penalize losses in F1/accuracy/BA and worst domain.",
+        "detail": "calibrate_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "ranked_gain",
+        "kind": 2,
+        "importPath": "calibrate_consensus_gate",
+        "description": "calibrate_consensus_gate",
+        "peekOfCode": "def ranked_gain(new,base):\n    metrics=new['metrics'];old=base['metrics']\n    gain=float(new['robust']-base['robust'])\n    worst=min(new['per_domain'][k]['challenge_score']-base['per_domain'][k]['challenge_score']\n              for k in base['per_domain'])\n    # Explicitly penalize losses in F1/accuracy/BA and worst domain.\n    penalty=(.65*max(0.,old['instance_f1']-metrics['instance_f1'])+\n             .20*max(0.,old['Instance_Acc']-metrics['Instance_Acc'])+\n             .40*max(0.,old['mA']-metrics['mA'])+\n             .30*max(0.,-worst))",
+        "detail": "calibrate_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "calibrate_consensus_gate",
+        "description": "calibrate_consensus_gate",
+        "peekOfCode": "def run(a):\n    a.output.parent.mkdir(parents=True,exist_ok=True)\n    reference=load_pt(a.base_calibration)\n    if reference.get('format')!='upar-shift-robust-calibration' or reference.get('tta')!='flip':\n        raise ValueError('Expected scored AttributeDINO flip calibration')\n    entries=[e for e in reference['entries'] if float(reference['weights'].get(e['key'],0.))>1e-7]\n    keys=[e['key'] for e in entries]\n    weights=np.asarray([float(reference['weights'][key]) for key in keys],dtype='float32')\n    weights/=weights.sum()\n    w=np.broadcast_to(weights[:,None],(len(keys),40)).copy()",
+        "detail": "calibrate_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "calibrate_consensus_gate",
+        "description": "calibrate_consensus_gate",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--repo-root',required=True,type=Path)\n    p.add_argument('--cache-dir',required=True,type=Path)\n    p.add_argument('--base-calibration',required=True,type=Path)\n    p.add_argument('--output',required=True,type=Path)\n    p.add_argument('--experimental-output',required=True,type=Path)\n    p.add_argument('--report',required=True,type=Path)\n    p.add_argument('--min-inner-gain',type=float,default=.00015)\n    p.add_argument('--min-audit-gain',type=float,default=.0007)",
+        "detail": "calibrate_consensus_gate",
+        "documentation": {}
+    },
+    {
         "label": "parse_args",
         "kind": 2,
         "importPath": "calibrate_ensemble",
@@ -5803,6 +6233,51 @@
         "description": "export_autoensemble",
         "peekOfCode": "THRESHOLD_LOGITS = torch.as_tensor(\n    PKG[\"threshold_logits\"],\n    dtype=torch.float32,\n    device=DEVICE,\n).reshape(1, -1)\ndef _path(sample):\n    for key in (\n        \"image_path\",\n        \"path\",\n        \"image\",",
         "detail": "export_autoensemble",
+        "documentation": {}
+    },
+    {
+        "label": "load_pt",
+        "kind": 2,
+        "importPath": "export_consensus_gate",
+        "description": "export_consensus_gate",
+        "peekOfCode": "def load_pt(path):\n    try:return torch.load(path,map_location='cpu',weights_only=False)\n    except TypeError:return torch.load(path,map_location='cpu')\ndef get_state(ck):\n    for k in ('inference_model_state','ema_model_state','model_state'):\n        if k in ck and ck[k] is not None:return ck[k]\n    raise RuntimeError('No deployable checkpoint state')\ndef sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:",
+        "detail": "export_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "kind": 2,
+        "importPath": "export_consensus_gate",
+        "description": "export_consensus_gate",
+        "peekOfCode": "def get_state(ck):\n    for k in ('inference_model_state','ema_model_state','model_state'):\n        if k in ck and ck[k] is not None:return ck[k]\n    raise RuntimeError('No deployable checkpoint state')\ndef sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:\n        for chunk in iter(lambda:f.read(1024*1024),b''):h.update(chunk)\n    return h.hexdigest()\ndef main():",
+        "detail": "export_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "kind": 2,
+        "importPath": "export_consensus_gate",
+        "description": "export_consensus_gate",
+        "peekOfCode": "def sha256(path):\n    h=hashlib.sha256()\n    with path.open('rb') as f:\n        for chunk in iter(lambda:f.read(1024*1024),b''):h.update(chunk)\n    return h.hexdigest()\ndef main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--calibration',type=Path,required=True)\n    p.add_argument('--runtime-file',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)",
+        "detail": "export_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "export_consensus_gate",
+        "description": "export_consensus_gate",
+        "peekOfCode": "def main():\n    p=argparse.ArgumentParser()\n    p.add_argument('--calibration',type=Path,required=True)\n    p.add_argument('--runtime-file',type=Path,required=True)\n    p.add_argument('--output',type=Path,required=True)\n    p.add_argument('--micro-batch-size',type=int,default=8)\n    p.add_argument('--require-trained',action='store_true',help='Reject submission if audit guard selected no retrained member')\n    args=p.parse_args()\n    if not 1<=args.micro_batch_size<=64:raise ValueError('micro batch must be between 1 and 64')\n    cal=load_pt(args.calibration)",
+        "detail": "export_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "smoke_test",
+        "kind": 2,
+        "importPath": "export_consensus_gate",
+        "description": "export_consensus_gate",
+        "peekOfCode": "def smoke_test(zippath):\n    \"\"\"Exercise the *exact exported archive*, including load_model and both APIs.\"\"\"\n    from PIL import Image\n    with tempfile.TemporaryDirectory() as tmp:\n        root=Path(tmp)\n        with zipfile.ZipFile(zippath) as z:z.extractall(root)\n        subprocess.run([sys.executable,'-m','py_compile',str(root/'run.py')],check=True)\n        image=root/'probe.jpg';Image.new('RGB',(144,288),(128,128,128)).save(image)\n        cfg=json.loads((root/'assets/config.json').read_text())\n        src=f'''import sys,math\\nsys.path.insert(0,{str(root)!r})\\nimport run\\nsample={{'image_path':{str(image)!r},'attribute_names':{cfg['attribute_names']!r}}}\\nrun.load_model()\\na=run.predict_image(sample)\\nb=run.predict_batch([sample,sample])\\nassert len(a)==40 and len(b)==2 and all(len(r)==40 for r in b)\\nassert all(math.isfinite(float(x)) and 0<=float(x)<=1 for x in a)\\nprint('RUNTIME_SMOKE_TEST_OK')\\n'''",
+        "detail": "export_consensus_gate",
         "documentation": {}
     },
     {
@@ -7216,6 +7691,141 @@
         "description": "submission_attribute_adaptive",
         "peekOfCode": "_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = convnext_tiny(weights=None)",
         "detail": "submission_attribute_adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "HybridPrototypePAR",
+        "kind": 6,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "class HybridPrototypePAR(nn.Module):\n    \"\"\"\n    ConvNeXt-Tiny + attribute-specific spatial queries + positive/negative prototypes.\n    The final logit is a learnable hybrid of:\n        1) a conventional global linear classifier, and\n        2) a prototype-margin classifier.\n    This is intentionally conservative for leaderboard use: if prototypes are\n    not yet useful for a specific attribute, the learned gate can keep more\n    weight on the linear path instead of forcing pure prototype classification.\n    \"\"\"",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "DinoBlock",
+        "kind": 6,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "class DinoBlock(nn.Module):\n    def __init__(self, dim=384, heads=6):\n        super().__init__()\n        self.heads = heads\n        self.norm1 = nn.LayerNorm(dim, eps=1e-6)\n        self.q = nn.Linear(dim, dim)\n        self.k = nn.Linear(dim, dim)\n        self.v = nn.Linear(dim, dim)\n        self.attn_out = nn.Linear(dim, dim)\n        self.ls1 = nn.Parameter(torch.ones(dim))",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "DinoSmall",
+        "kind": 6,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "class DinoSmall(nn.Module):\n    def __init__(self, layers=12, dim=384, heads=6, patch=14):\n        super().__init__()\n        self.patch = patch\n        self.patch_embed = nn.Conv2d(3,dim,kernel_size=patch,stride=patch)\n        self.cls_token = nn.Parameter(torch.zeros(1,1,dim))\n        self.pos_embed = nn.Parameter(torch.zeros(1,1370,dim))\n        self.blocks = nn.ModuleList([DinoBlock(dim,heads) for _ in range(layers)])\n        self.norm = nn.LayerNorm(dim,eps=1e-6)\n        self.trainable_last = 0",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "DinoAttributePAR",
+        "kind": 6,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "class DinoAttributePAR(nn.Module):\n    def __init__(self, num_attributes=40, prototype_dim=192,\n                 prototype_temperature=.22, prototype_gate_init=.25,\n                 pretrained=False, trainable_last=0):\n        super().__init__()\n        self.num_attributes=int(num_attributes)\n        self.prototype_dim=int(prototype_dim)\n        self.prototype_temperature=float(prototype_temperature)\n        self.dino=DinoSmall()\n        self.dino.set_trainable_last(trainable_last)",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "StrongTinyForSubmission",
+        "kind": 6,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "class StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = convnext_tiny(weights=None)\n        ch = int(base.classifier[2].in_features)\n        base.classifier[2] = nn.Sequential(nn.Dropout(.22), nn.Linear(ch, 40))\n        self.net = base\n    def forward(self, x):\n        return self.net(x)\nclass Runtime:",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "Runtime",
+        "kind": 6,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "class Runtime:\n    def __init__(self):\n        bundle = _load_bundle(ROOT/'assets'/'model.pt')\n        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n        self.attrs = list(bundle['attribute_names'])\n        if len(self.attrs) != 40 or len(set(self.attrs)) != 40:\n            raise ValueError('Expected 40 unique attribute names')\n        self.index = {name:i for i,name in enumerate(self.attrs)}\n        self.threshold_logits = torch.as_tensor(bundle['threshold_logits'],dtype=torch.float32).reshape(1,-1).to(self.device)\n        if self.threshold_logits.shape != (1,40):",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "config_for_checkpoint",
+        "kind": 2,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "def config_for_checkpoint(model):\n    return {'num_attributes':model.num_attributes,'prototype_dim':model.prototype_dim,\n            'prototype_temperature':model.prototype_temperature,'trainable_last':0}\n# Standalone Codabench submission entrypoint. No imports from participant repo.\nimport gc\nimport os\nfrom PIL import Image\nfrom torchvision import transforms\nROOT = Path(__file__).resolve().parent\nBATCH_SIZE = 64",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "def load_model():\n    \"\"\"Codabench load step.\"\"\"\n    _ensure()\n    return None\ndef predict_image(sample):\n    return _ensure().predict([sample])[0]\ndef predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "def predict_image(sample):\n    return _ensure().predict([sample])[0]\ndef predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "predict_batch",
+        "kind": 2,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "def predict_batch(samples):\n    if not samples:\n        return []\n    return _ensure().predict(list(samples))",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_ATTRIBUTES",
+        "kind": 5,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "NUM_ATTRIBUTES = 40\ndef _logit(p: float) -> float:\n    p = min(max(float(p), 1e-5), 1.0 - 1e-5)\n    return math.log(p / (1.0 - p))\nclass HybridPrototypePAR(nn.Module):\n    \"\"\"\n    ConvNeXt-Tiny + attribute-specific spatial queries + positive/negative prototypes.\n    The final logit is a learnable hybrid of:\n        1) a conventional global linear classifier, and\n        2) a prototype-margin classifier.",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent\nBATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "BATCH_SIZE = 64\nMICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "MICRO_BATCH_SIZE",
+        "kind": 5,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "MICRO_BATCH_SIZE = max(1, int(os.environ.get('UPAR_MICRO_BATCH_SIZE', '8')))\n_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()",
+        "detail": "submission_consensus_gate",
+        "documentation": {}
+    },
+    {
+        "label": "_RUNTIME",
+        "kind": 5,
+        "importPath": "submission_consensus_gate",
+        "description": "submission_consensus_gate",
+        "peekOfCode": "_RUNTIME = None\ndef _load_bundle(path):\n    try:\n        return torch.load(path, map_location='cpu', weights_only=False)\n    except TypeError:\n        return torch.load(path, map_location='cpu')\nclass StrongTinyForSubmission(nn.Module):\n    def __init__(self):\n        super().__init__()\n        base = convnext_tiny(weights=None)",
+        "detail": "submission_consensus_gate",
         "documentation": {}
     },
     {

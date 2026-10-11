@@ -101,7 +101,7 @@ def fit_softmax_weights(x, y, d, train_mask, reference, penalty=.5, steps=120, s
         regularizer=((adapted-base)**2).sum()/40.
         loss=(loss+float(penalty)*regularizer)
         loss.backward();opt.step()
-    learned=torch.softmax(torch.log(base.clamp_min(.0001))+delta,dim=0).detach().numpy()
+    learned=torch.softmax(torch.log(base.clamp_min(.0001))+delta,dim=0).detach().cpu().numpy()
     return learned.astype('float32')
 
 
